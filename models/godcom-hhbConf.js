@@ -2,6 +2,8 @@ var hhbConf = {
     domain: 'www.godcom.net',
     port: 80,
     url: '/hhb',
+    description: '',
+    oldTestamentName: '旧约',
     oldTestamentPieces: [
         {
             no: 1,
@@ -275,6 +277,198 @@ var hhbConf = {
             name_en: 'Malachi',
             url: 'B39C001.htm',
             sectionNum: 4
+        }
+    ],
+    newTestamentName: '新约',
+    newTestamentPieces: [
+        {
+            no: 40,
+            name_cn: '马太福音',
+            name_en: 'Matthew',
+            url: 'B40C001.htm',
+            sectionNum: 28
+        },
+        {
+            no: 41,
+            name_cn: '马可福音',
+            name_en: 'Mark',
+            url: 'B41C001.htm',
+            sectionNum: 16
+        },
+        {
+            no: 42,
+            name_cn: '路加福音',
+            name_en: 'Luke',
+            url: 'B42C001.htm',
+            sectionNum: 24
+        },
+        {
+            no: 43,
+            name_cn: '约翰福音',
+            name_en: 'John',
+            url: 'B43C001.htm',
+            sectionNum: 21
+        },
+        {
+            no: 44,
+            name_cn: '使徒行传',
+            name_en: 'Acts',
+            url: 'B44C001.htm',
+            sectionNum: 28
+        },
+        {
+            no: 45,
+            name_cn: '罗马书',
+            name_en: 'Romans',
+            url: 'B45C001.htm',
+            sectionNum: 16
+        },
+        {
+            no: 46,
+            name_cn: '哥林多前书',
+            name_en: 'Corinthians',
+            url: 'B46C001.htm',
+            sectionNum: 16
+        },
+        {
+            no: 47,
+            name_cn: '哥林多后书',
+            name_en: 'Corinthians 2',
+            url: 'B47C001.htm',
+            sectionNum: 13
+        },
+        {
+            no: 48,
+            name_cn: '加拉太书',
+            name_en: 'Galatians',
+            url: 'B48C001.htm',
+            sectionNum: 6
+        },
+        {
+            no: 49,
+            name_cn: '以弗所书',
+            name_en: 'Ephesians',
+            url: 'B49C001.htm',
+            sectionNum: 6
+        },
+        {
+            no: 50,
+            name_cn: '腓立比书',
+            name_en: 'Philippians',
+            url: 'B50C001.htm',
+            sectionNum: 4
+        },
+        {
+            no: 51,
+            name_cn: '歌罗西书',
+            name_en: 'Colossians',
+            url: 'B51C001.htm',
+            sectionNum: 4
+        },
+        {
+            no: 52,
+            name_cn: '帖撒罗尼迦前书',
+            name_en: 'Thessalonians 1',
+            url: 'B52C001.htm',
+            sectionNum: 5
+        },
+        {
+            no: 53,
+            name_cn: '帖撒罗尼迦後书',
+            name_en: 'Thessalonians 2',
+            url: 'B53C001.htm',
+            sectionNum: 3
+        },
+        {
+            no: 54,
+            name_cn: '提摩太前书',
+            name_en: 'Timothy 1',
+            url: 'B54C001.htm',
+            sectionNum: 6
+        },
+        {
+            no: 55,
+            name_cn: '提摩太後书',
+            name_en: 'Timothy 2',
+            url: 'B55C001.htm',
+            sectionNum: 4
+        },
+        {
+            no: 56,
+            name_cn: '提多书',
+            name_en: 'Titus',
+            url: 'B56C001.htm',
+            sectionNum: 3
+        },
+        {
+            no: 57,
+            name_cn: '腓利门书',
+            name_en: 'Philemon',
+            url: 'B57C001.htm',
+            sectionNum: 1
+        },
+        {
+            no: 58,
+            name_cn: '希伯来书',
+            name_en: 'Hebrews',
+            url: 'B58C001.htm',
+            sectionNum: 13
+        },
+        {
+            no: 59,
+            name_cn: '雅各书',
+            name_en: 'James',
+            url: 'B59C001.htm',
+            sectionNum: 5
+        },
+        {
+            no: 60,
+            name_cn: '彼得前书',
+            name_en: 'Peter 1',
+            url: 'B60C001.htm',
+            sectionNum: 5
+        },
+        {
+            no: 61,
+            name_cn: '彼得後书',
+            name_en: 'Peter 2',
+            url: 'B61C001.htm',
+            sectionNum: 3
+        },
+        {
+            no: 62,
+            name_cn: '约翰一书',
+            name_en: 'John 1',
+            url: 'B62C001.htm',
+            sectionNum: 5
+        },
+        {
+            no: 63,
+            name_cn: '约翰二书',
+            name_en: 'John 2',
+            url: 'B63C001.htm',
+            sectionNum: 1
+        },
+        {
+            no: 64,
+            name_cn: '约翰三书',
+            name_en: 'John 3',
+            url: 'B64C001.htm',
+            sectionNum: 1
+        },
+        {
+            no: 65,
+            name_cn: '犹大书',
+            name_en: 'Jude',
+            url: 'B65C001.htm',
+            sectionNum: 1
+        },
+        {
+            no: 66,
+            name_cn: '启示录',
+            name_en: 'Revelation',
+            url: 'B66C001.htm',
+            sectionNum: 22
         }
     ]
 }
