@@ -1,0 +1,130 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "那时、天下人的口音言语、都是一样。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "他们往东边迁移的时候、在示拿地遇见一片平原、就住在那里。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "他们彼此商量说、来吧、我们要作砖、把砖烧透了。他们就拿砖当石头、又拿石漆当灰泥。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "他们说、来吧、我们要建造一座城、和一座塔、塔顶通天、为要传扬我们的名、免得我们分散在全地上。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "耶和华降临要看看世人所建造的城和塔。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "耶和华说、看哪、他们成为一样的人民、都是一样的言语、如今既作起这事来、以后他们所要作的事、就没有不成就的了。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "我们下去、在那里变乱他们的口音、使他们的言语、彼此不通。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "于是耶和华使他们从那里分散在全地上．他们就停工、不造那城了。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "因为耶和华在那里变乱天下人的言语、使众人分散在全地上、所以那城名叫巴别。〔就是变乱的意思〕"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "闪的后代记在下面．洪水以后二年、闪一百岁生了亚法撒。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "闪生亚法撒之后、又活了五百年．并且生儿养女。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "亚法撒活到三十五岁、生了沙拉．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "亚法撒生沙拉之后、又活了四百零三年．并且生儿养女。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "沙拉活到三十岁、生了希伯．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "沙拉生希伯之后、又活了四百零三年．并且生儿养女。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "希伯活到三十四岁、生了法勒．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "希伯生法勒之后、又活了四百三十年．并且生儿养女。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "法勒活到三十岁、生了拉吴．"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "法勒生拉吴之后、又活了二百零九年．并且生儿养女。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "拉吴活到三十二岁、生了西鹿．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "拉吴生西鹿之后、又活了二百零七年．并且生儿养女。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "西鹿活到三十岁、生了拿鹤．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "西鹿生拿鹤之后、又活了二百年．并且生儿养女。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "拿鹤活到二十九岁、生了他拉．"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "拿鹤生他拉之后、又活了一百一十九年．并且生儿养女。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "他拉活到七十岁、生了亚伯兰、拿鹤、哈兰。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "他拉的后代、记在下面．他拉生亚伯兰、拿鹤、哈兰．哈兰生罗得。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "哈兰死在他的本地迦勒底的吾珥、在他父亲他拉之先。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "亚伯兰、拿鹤、各娶了妻．亚伯兰的妻子名叫撒莱．拿鹤的妻子名叫密迦、是哈兰的女儿．哈兰是密迦和亦迦的父亲。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "撒莱不生育、没有孩子。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "他拉带着他儿子亚伯兰、和他孙子哈兰的儿子罗得、并他儿妇亚伯兰的妻子撒莱、出了迦勒底的吾珥、要往迦南地去、他们走到哈兰就住在那里。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "他拉共活了二百零五岁、就死在哈兰。"
+  }
+]

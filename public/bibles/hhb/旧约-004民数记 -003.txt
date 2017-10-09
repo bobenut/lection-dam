@@ -1,0 +1,206 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华在西乃山晓谕摩西的日子、亚伦和摩西的后代如下．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "亚伦的儿子、长子名叫拿答、还有亚比户、以利亚撒、以他玛。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "这是亚伦儿子的名字、都是受膏的祭司、是摩西叫他们承接圣职供祭司职分的。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "拿答、亚比户、在西乃的旷野向耶和华献凡火的时候、就死在耶和华面前了、他们也没有儿子．以利亚撒、以他玛、在他们的父亲亚伦面前供祭司的职分。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "耶和华晓谕摩西说、"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "你使利未支派近前来、站在祭司亚伦面前好服事他。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "替他和会众在会幕前守所吩咐的、办理帐幕的事。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "又要看守会幕的器具、并守所吩咐以色列人的、办理帐幕的事。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "你要将利未人给亚伦和他的儿子、因为他们是从以色列人中选出来给他的。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "你要嘱咐亚伦和他的儿子、谨守自己祭司的职任．近前来的外人必被治死。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "耶和华晓谕摩西说、"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "我从以色列人中拣选了利未人、代替以色列人一切头生的．利未人要归我。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "因为凡头生的是我的、我在埃及地击杀一切头生的那日、就把以色列中一切头生的、连人带牲畜都分别为圣归我、他们定要属我．我是耶和华。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "耶和华在西乃的旷野晓谕摩西说、"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "你要照利未人的宗族、家室、数点他们．凡一个月以外的男子、都要数点。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "于是摩西照耶和华所吩咐的数点他们。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "利未众子的名字是革顺、哥辖、米拉利。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "革顺的儿子、按着家室、是立尼、示每。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "哥辖的儿子、按着家室、是暗兰、以斯哈、希伯伦、乌薛。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "米拉利的儿子、按着家室、是抹利、母示。这些按着宗族是利未人的家室。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "属革顺的、有立尼族、示每族．这是革顺的二族。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "其中被数从一个月以外所有的男子、共有七千五百名。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "这革顺的二族要在帐幕后西边安营。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "拉伊勒的儿子以利雅萨作革顺人宗族的首领。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "革顺的子孙、在会幕中所要看守的、就是帐幕和罩棚、并罩棚的盖、与会幕的门帘、"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "院子的帷子、和门帘（院子是围帐幕和坛的)、并一切使用的绳子。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "属哥辖的、有暗兰族、以斯哈族、希伯伦族、乌薛族．这是哥辖的诸族。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "按所有男子的数目、从一个月以外看守圣所的、共有八千六百名。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "哥辖儿子的诸族、要在帐幕的南边安营。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "乌薛的儿子以利撒反作哥辖宗族家室的首领。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "他们所要看守的是约柜、桌子、灯台、两座坛、与圣所内使用的器皿、并帘子和一切使用之物。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "祭司亚伦的儿子以利亚撒、作利未人众首领的领袖、要监察那些看守圣所的人。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "属米拉利的、有抹利族、母示族．这是米拉利的二族。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "他们被数的、按所有男子的数目、从一个月以外的、共有六千二百名。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "亚比亥的儿子苏列、作米拉利二宗族的首领．他们要在帐幕的北边安营。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "米拉利子孙的职分、是看守帐幕的板、闩、柱子、带卯的座、和帐幕一切所使用的器具、"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "院子四围的柱子、带卯的座、橛子、和绳子。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "在帐幕前东边、向日出之地安营的、是摩西亚伦、和亚伦的儿子．他们看守圣所、替以色列人守耶和华所吩咐的．近前来的外人、必被治死。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "凡被数的利未人就是摩西亚伦照耶和华吩咐所数的、按着家室从一个月以外的男子、共有二万二千名。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "耶和华对摩西说、你要从以色列人中数点一个月以外凡头生的男子、把他们的名字记下。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "我是耶和华．你要拣选利未人归我、代替以色列人所有头生的、也取利未人的牲畜代替以色列所有头生的牲畜。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "摩西就照耶和华所吩咐的、把以色列人头生的都数点了。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "按人名的数目、从一个月以外、凡头生的男子、共有二万二千二百七十三名。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "耶和华晓谕摩西说、"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "你拣选利未人代替以色列人所有头生的、也取利未人的牲畜代替以色列人的牲畜．利未人要归我．我是耶和华。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "以色列人中头生的男子、比利未人多二百七十三个、必当将他们赎出来。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "你要按人丁、照圣所的平、每人取赎银五舍客勒（一舍客勒是二十季拉)、"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "把那多余之人的赎银、交给亚伦和他的儿子。"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "于是摩西从那被利未人所赎以外的人取了赎银。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "从以色列人头生的所取之银、按圣所的平、有一千三百六十五舍客勒。"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "摩西照耶和华的话、把这赎银给亚伦和他的儿子、正如耶和华所吩咐的。"
+  }
+]

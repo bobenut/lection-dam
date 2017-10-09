@@ -1,0 +1,218 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "主知道法利赛人听见他收门徒施洗比约翰还多、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "（其实不是耶稣亲自施洗、乃是他的门徒施洗)"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "他就离了犹太、又往加利利去．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "必须经过撒玛利亚。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "于是到了撒玛利亚的一座城、名叫叙加、靠近雅各给他儿子约瑟的那块地。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "在那里有雅各井。耶稣因走路困乏、就坐在井旁．那时约有午正。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "有一个撒玛利亚的妇人来打水．耶稣对他说、请你给我水喝。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "那时门徒进城买食物去了。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "撒玛利亚的妇人对他说、你既是犹太人、怎么向我一个撒玛利亚妇人要水喝呢。原来犹太人和撒玛利亚人没有来往。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "耶稣回答说、你若知道　神的恩赐、和对你说给我水喝的是谁、你必早求他、他也必早给了你活水。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "妇人说、先生没有打水的器具、井又深、你从那里得活水呢。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "我们的祖宗雅各、将这井留给我们．他自己和儿子并牲畜、也都喝这井里的水、难道你比他还大么。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "耶稣回答说、凡喝这水的、还要再渴．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "人若喝我所赐的水就永远不渴．我所赐的水、要在他里头成为泉源、直涌到永生。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "妇人说、先生、请把这水赐给我、叫我不渴、也不用来这么远打水。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "耶稣说、你去叫你丈夫也到这里来。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "妇人说、我没有丈夫。耶稣说、你说没有丈夫、是不错的．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "你已经有五个丈夫．你现在有的、并不是你的丈夫．你这话是真的．"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "妇人说、先生、我看出你是先知。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "我们的祖宗在这山上礼拜．你们倒说、应当礼拜的地方是在耶路撒冷。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "耶稣说、妇人、你当信我、时候将到、你们拜父、也不在这山上、也不在耶路撒冷。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "你们所拜的、你们不知道．我们所拜的、我们知道．因为救恩是从犹太人出来的。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "时候将到、如今就是了、那真正拜父的、要用心灵和诚实拜他、因为父要这样的人拜他。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "神是个灵．〔或无个字〕所以拜他的、必须用心灵和诚实拜他。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "妇人说、我知道弥赛亚、（就是那称为基督的)要来．他来了、必将一切的事都告诉我们。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "耶稣说、这和你说话的就是他。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "当下门徒回来、就希奇耶稣和一个妇人说话．只是没有人说、你是要甚么．或说、你为甚么和他说话。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "那妇人就留下水罐子、往城里去、对众人说、"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "你们来看、有一个人将我素来所行的一切事、都给我说出来了、莫非这就是基督么。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "众人就出城往耶稣那里去。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "这其间、门徒对耶稣说、拉比、请吃。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "耶稣说、我有食物吃、是你们不知道的。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "门徒就彼此对问说、莫非有人拿甚么给他吃么。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "耶稣说、我的食物就是遵行差我来者的旨意、作成他的工。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "你们岂不说、到收割的时候、还有四个月么．我告诉你们、举目向田观看、庄稼已经熟了、〔原文作发白〕可以收割了。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "收割的人得工价、积蓄五谷到永生．叫撒种的和收割的一同快乐。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "俗语说、那人撒种、这人收割、这话可见是真的。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "我差你们去收你们所没有劳苦的．别人劳苦、你们享受他们所劳苦的。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "那城里有好些撒玛利亚人信了耶稣、因为那妇人作见证说、他将我素来所行的一切事、都给我说出来了．"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "于是撒玛利亚人来见耶稣、求他在他们那里住下．他便在那里住了两天。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "因耶稣的话、信的人就更多了．"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "便对妇人说、现在我们信、不是因为你的话、是我们亲自听见了、知道这真是救世主。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "过了那两天、耶稣离了那地方、往加利利去。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "因为耶稣自己作过见证说、先知在本地是没有人尊敬的。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "到了加利利、加利利人既然看见他在耶路撒冷过节所行的一切事、就接待他．因为他们也是上去过节。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "耶稣又到了加利利的迦拿、就是他从前变水为酒的地方．有一个大臣、他的儿子在迦百农患病。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "他听见耶稣从犹太到了加利利、就来见他、求他下去医治他的儿子．因为他儿子快要死了。"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "耶稣就对他说、若不看见神迹奇事、你们总是不信。"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "那大臣说、先生、求你趁着我的孩子还没有死、就下去。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "耶稣对他说、回去吧．你的儿子活了。那人信耶稣所说的话、就回去了。"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "正下去的时候、他的仆人迎见他、说他的儿子活了。"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "他就问甚么时候见好的。他们说、昨日未时热就退了。"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": "他便知道这正是耶稣对他说你儿子活了的时候、他自己和全家就都信了。"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": "这是耶稣在加利利行的第二件神迹、是他从犹太回去以后行的。"
+  }
+]

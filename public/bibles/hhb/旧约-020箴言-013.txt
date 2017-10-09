@@ -1,0 +1,102 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "智慧子听父亲的教训．亵慢人不听责备。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "人因口所结的果子、必享美福．奸诈人必遭强暴。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "谨守口的、得保生命．大张嘴的、必致败亡。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "懒惰人羡慕、却无所得．殷勤人必得丰裕。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "义人恨恶谎言．恶人有臭名、且致惭愧。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "行为正直的、有公义保守．犯罪的被邪恶倾覆。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "假作富足的、却一无所有．装作穷乏的、却广有财物。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "人的资财是他生命的赎价．穷乏人却听不见威吓的话。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "义人的光明亮．〔明亮原文作欢喜〕恶人的灯要熄灭。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "骄傲只启争竞．听劝言的、却有智慧。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "不劳而得之财、必然消耗．勤劳积蓄的、必见加增。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "所盼望的迟延未得、令人心忧．所愿意的临到、却是生命树。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "藐视训言的、自取灭亡．敬畏诫命的、必得善报。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "智慧人的法则、〔或作指教〕是生命的泉源、可以使人离开死亡的网罗。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "美好的聪明、使人蒙恩．奸诈人的道路、崎岖难行。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "凡通达人都凭知识行事．愚昧人张扬自己的愚昧。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "奸恶的使者、必陷在祸患里．忠信的使臣、乃医人的良药。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "弃绝管教的、必致贫受辱．领受责备的、必得尊荣。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "所欲的成就、心觉甘甜．远离恶事、为愚昧人所憎恶。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "与智慧人同行的、必得智慧．和愚昧人作伴的、必受亏损。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "祸患追赶罪人．义人必得善报。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "善人给子孙遗留产业．罪人为义人积存资财。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "穷人耕种多得粮食、但因不义有消灭的。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "不忍用杖打儿子的、是恨恶他．疼爱儿子的、随时管教。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "义人吃得饱足．恶人肚腹缺粮。"
+  }
+]

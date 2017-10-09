@@ -1,0 +1,90 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "书亚人比勒达回答、说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "这些话你要说到几时．口中的言语如狂风要到几时呢。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "神岂能偏离公平．全能者岂能偏离公义。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "或者你的儿女得罪了他、他使他们受报应。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "你若殷勤的寻求　神、向全能者恳求．"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "你若清洁正直．他必定为你起来、使你公义的居所兴旺。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "你起初虽然微小、终久必甚发达。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "请你考问前代、追念他们的列祖所查究的。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "（我们不过从昨日才有、一无所知．我们在世的日子好像影儿。)"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "他们岂不指教你、告诉你、从心里发出言语来呢。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "蒲草没有泥、岂能发长．芦荻没有水岂能生发。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "尚青的时候、还没有割下、比百样的草先枯槁。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "凡忘记　神的人、景况也是这样．不虔敬人的指望要灭没．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "他所仰赖的必折断、他所倚靠的是蜘蛛网。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "他要倚靠房屋、房屋却站立不住．他要抓住房屋、房屋却不能存留。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "他在日光之下发青、蔓子爬满了园子。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "他的根盘绕石堆、扎入石地。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "他若从本地被拔出、那地就不认识他、说、我没有见过你。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "看哪、这就是他道中之乐．以后必另有人从地而生。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "神必不丢弃完全人、也不扶助邪恶人。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "他还要以喜笑充满你的口、以欢呼充满你的嘴。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "恨恶你的要披戴惭愧．恶人的帐棚、必归于无有。"
+  }
+]

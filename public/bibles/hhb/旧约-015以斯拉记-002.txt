@@ -1,0 +1,282 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "巴比伦王尼布甲尼撒、从前掳到巴比伦之犹大省的人、现在他们的子孙从被掳到之地、回耶路撒冷和犹大、各归本城。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "他们是同着所罗巴伯、耶书亚、尼希米、西莱雅、利来雅、末底改、必珊、米斯拔、比革瓦伊、利宏、巴拿、回来的。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "以色列人民的数目记在下面．巴录的子孙、二千一百七十二名．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "示法提雅的子孙、三百七十二名．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "亚拉的子孙、七百七十五名．"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "巴哈摩押的后裔、就是耶书亚和约押的子孙、二千八百一十二名．"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "以拦的子孙、一千二百五十四名．"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "萨土的子孙、九百四十五名．"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "萨改的子孙、七百六十名．"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "巴尼的子孙、六百四十二名．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "比拜的子孙、六百二十三名．"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "押甲的子孙、一千二百二十二名．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "亚多尼干的子孙、六百六十六名．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "比革瓦伊的子孙、二千零五十六名．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "亚丁的子孙、四百五十四名．"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "亚特的后裔、就是希西家的子孙、九十八名．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "比赛的子孙、三百二十三名．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "约拉的子孙、一百一十二名．"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "哈顺的子孙、二百二十三名．"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "吉罢珥人、九十五名．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "伯利恒人、一百二十三名．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "尼陀法人、五十六名．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "亚拿突人、一百二十八名．"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "亚斯玛弗人、四十二名．"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "基列耶琳人、基非拉人、比录人、共七百四十三名．"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "拉玛人、迦巴人、共六百二十一名．"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "默玛人、一百二十二名．"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "伯特利人、艾人、共二百二十三名．"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "尼波人、五十二名．"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "末必人、一百五十六名．"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "别的以拦子孙、一千二百五十四名．"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "哈琳的子孙、三百二十名．"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "罗德人、哈第人、阿挪人、共七百二十五名．"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "耶利哥人、三百四十五名．"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "西拿人、三千六百三十名。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "祭司、耶书亚家耶大雅的子孙、九百七十三名．"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "音麦的子孙、一千零五十二名．"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "巴施户珥的子孙、一千二百四十七名．"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "哈琳的子孙、一千零一十七名。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "利未人、何达威雅的后裔、就是耶书亚和甲篾的子孙、七十四名。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "歌唱的、亚萨的子孙、一百二十八名。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "守门的、沙龙的子孙、亚特的子孙、达们的子孙、亚谷的子孙、哈底大的子孙、朔拜的子孙、共一百三十九名。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "尼提宁、〔就是殿役〕西哈的子孙、哈苏巴的子孙、答巴俄的子孙、"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "基绿的子孙、西亚的子孙、巴顿的子孙、"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "利巴拿的子孙、哈迦巴的子孙、亚谷的子孙、"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "哈甲的子孙、萨买的子孙、哈难的子孙、"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "吉德的子孙、迦哈的子孙、利亚雅的子孙、"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "利汛的子孙、尼哥大的子孙、迦散的子孙、"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "乌撒的子孙、巴西亚的子孙、比赛的子孙、"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "押拿的子孙、米乌宁的子孙、尼普心的子孙、"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "巴卜的子孙、哈古巴的子孙、哈忽的子孙、"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "巴洗律的子孙、米希大的子孙、哈沙的子孙、"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": "巴柯的子孙、西西拉的子孙、答玛的子孙、"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": "尼细亚的子孙、哈提法的子孙。"
+  },
+  {
+    "sectionNo": "55",
+    "sectionContent": "所罗门仆人的后裔、就是琐太的子孙、琐斐列的子孙、比路大的子孙、"
+  },
+  {
+    "sectionNo": "56",
+    "sectionContent": "雅拉的子孙、达昆的子孙、吉德的子孙、"
+  },
+  {
+    "sectionNo": "57",
+    "sectionContent": "示法提雅的子孙、哈替的子孙、玻黑列哈斯巴音的子孙、亚米的子孙．"
+  },
+  {
+    "sectionNo": "58",
+    "sectionContent": "尼提宁和所罗门仆人的后裔、共三百九十二名。"
+  },
+  {
+    "sectionNo": "59",
+    "sectionContent": "从特米拉、特哈萨、基绿、押但、音麦上来的、不能指明他们的宗族谱系、是以色列人不是．"
+  },
+  {
+    "sectionNo": "60",
+    "sectionContent": "他们是第来雅的子孙、多比雅的子孙、尼哥大的子孙、共六百五十二名。"
+  },
+  {
+    "sectionNo": "61",
+    "sectionContent": "祭司中哈巴雅的子孙、哈哥斯的子孙、巴西莱的子孙、因为他们的先祖娶了基列人巴西莱的女儿为妻、所以起名叫巴西莱．"
+  },
+  {
+    "sectionNo": "62",
+    "sectionContent": "这三家的人、在族谱之中寻查自己的谱系、却寻不着、因此算为不洁、不准供祭司的职任．"
+  },
+  {
+    "sectionNo": "63",
+    "sectionContent": "省长对他们说、不可吃至圣的物、直到有用乌陵和土明决疑的祭司兴起来。"
+  },
+  {
+    "sectionNo": "64",
+    "sectionContent": "会众共有四万二千三百六十名。"
+  },
+  {
+    "sectionNo": "65",
+    "sectionContent": "此外、还有他们的仆婢、七千三百三十七名．又有歌唱的男女二百名．"
+  },
+  {
+    "sectionNo": "66",
+    "sectionContent": "他们有马七百三十六匹、骡子二百四十五匹、"
+  },
+  {
+    "sectionNo": "67",
+    "sectionContent": "骆驼四百三十五只、驴六千七百二十匹。"
+  },
+  {
+    "sectionNo": "68",
+    "sectionContent": "有些族长、到了耶路撒冷耶和华殿的地方、便为　神的殿甘心献上礼物、要重新建造。"
+  },
+  {
+    "sectionNo": "69",
+    "sectionContent": "他们量力捐入工程库的金子、六万一千达利克．银子、五千弥拿．并祭司的礼服一百件。"
+  },
+  {
+    "sectionNo": "70",
+    "sectionContent": "于是祭司利未人、民中的一些人、歌唱的、守门的、尼提宁、并以色列众人、各住在自己的城里。"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "亚伦子孙的班次、记在下面．亚伦的儿子是拿答、亚比户、以利亚撒、以他玛。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "拿答、亚比户死在他们父亲之先、没有留下儿子．故此、以利亚撒、以他玛供祭司的职分。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "以利亚撒的子孙撒督、和以他玛的子孙亚希米勒、同着大卫将他们的族弟兄、分成班次。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "以利亚撒子孙中为首的、比以他玛子孙中为首的更多．分班如下．以利亚撒的子孙中、有十六个族长．以他玛的子孙中、有八个族长．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "都掣签分立、彼此一样．在圣所和　神面前作首领的、有以利亚撒的子孙、也有以他玛的子孙。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "作书记的利未人拿坦业的儿子示玛雅在王和首领、与祭司撒督、亚比亚他的儿子亚希米勒、并祭司利未人的族长面前、记录他们的名字．在以利亚撒的子孙中取一族、在以他玛的子孙中取一族。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "掣签的时候、第一掣出来的是耶何雅立、第二是耶大雅、"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "第三是哈琳、第四是梭琳、"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "第五是玛基雅、第六是米雅民、"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "第七是哈歌斯、第八是亚比雅、"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "第九是耶书亚、第十是示迦尼、"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "第十一是以利亚实、第十二是雅金、"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "第十三是胡巴、第十四是耶是比押、"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "第十五是璧迦、第十六是音麦、"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "第十七是希悉、第十八是哈辟悉、"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "第十九是毗他希雅、第二十是以西结、"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "第二十一是雅斤、第二十二是迦末、"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "第二十三是第来雅、第二十四是玛西亚。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "这就是他们的班次、要照耶和华以色列的　神借他们祖宗亚伦所吩咐的条例、进入耶和华的殿、办理事务。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "利未其余的子孙如下．暗兰的子孙里有书巴业．书巴业的子孙里有耶希底亚．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "利哈比雅的子孙里有长子伊示雅．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "以斯哈的子孙里有示罗摩．示罗摩的子孙里有雅哈．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "希伯伦的子孙里有长子耶利雅、次子亚玛利亚、三子雅哈悉、四子耶加面。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "乌薛的子孙里有米迦．米迦的子孙里有沙密。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "米迦的兄弟是伊示雅．伊示雅的子孙里有撒迦利雅。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "米拉利的儿子是抹利、母示、雅西雅．雅西雅的儿子有比挪．"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "米拉利的子孙里有雅西雅的儿子比挪、朔含、撒刻、伊比利。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "抹利的儿子是以利亚撒．以利亚撒没有儿子。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "基士的子孙里有耶拉篾。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "母示的儿子是末力、以得、耶利摩。按着宗族这都是利未的子孙。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "他们在大卫王和撒督、并亚希米勒、与祭司利未人的族长面前掣签、正如他们弟兄亚伦的子孙一般．各族的长者与兄弟没有分别。"
+  }
+]

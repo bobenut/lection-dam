@@ -1,0 +1,34 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔大卫上行之诗。〕以色列人要说、若不是耶和华帮助我们、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "若不是耶和华帮助我们、当人起来攻击我们、"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "向我们发怒的时候、就把我们活活的吞了．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "那时、波涛必漫过我们、河水必淹没我们．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "狂傲的水必淹没我们。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "耶和华是应当称颂的．他没有把我们当野食交给他们吞吃。〔原文作牙齿〕"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "我们好像雀鸟从捕鸟人的网罗里逃脱．网罗破裂、我们逃脱了。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "我们得帮助、是在乎倚靠造天地之耶和华的名。"
+  }
+]

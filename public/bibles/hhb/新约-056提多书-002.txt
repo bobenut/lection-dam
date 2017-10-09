@@ -1,0 +1,62 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "但你所讲的、总要合乎那纯正的道理．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "劝老年人、要有节制、端庄、自守、在信心爱心忍耐上、都要纯全无疵。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "又劝老年妇人、举止行动要恭敬、不说谗言、不给酒作奴仆、用善道教训人．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "好指教少年妇人、爱丈夫、爱儿女、"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "谨守、贞洁、料理家务、待人有恩、顺服自己的丈夫、免得　神的道理被毁谤。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "又劝少年人要谨守．"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "你自己凡事要显出善行的榜样、在教训上要正直、端庄、"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "言语纯全、无可指责、叫那反对的人、既无处可说我们的不是、便自觉羞愧。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "劝仆人要顺服自己的主人、凡事讨他的喜欢．不可顶撞他．"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "不可私拿东西．要显为忠诚、以致凡事尊荣我们救主　神的道．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "因为　神救众人的恩典、已经显明出来、"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "教训我们除去不敬虔的心、和世俗的情欲、在今世自守、公义、敬虔度日．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "等候所盼望的福、并等候至大的　神、和〔或作无和字〕我们救主耶稣基督的荣耀显现。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "他为我们舍了自己、要赎我们脱离一切罪恶、又洁净我们、特作自己的子民、热心为善。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "这些事你要讲明、劝戒人、用各等权柄责备人。不可叫人轻看你。"
+  }
+]

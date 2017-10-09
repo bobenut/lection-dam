@@ -1,0 +1,78 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔大卫与拔示巴同室以后、先知拿单来见他．他作这诗、交与伶长。〕　神阿、求你按你的慈爱怜恤我、按你丰盛的慈悲涂抹我的过犯。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "求你将我的罪孽洗除净尽、并洁除我的罪。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "因为我知道我的过犯．我的罪常在我面前。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "我向你犯罪、惟独得罪了你、在你眼前行了这恶、以致你责备我的时候、显为公义．判断我的时候、显为清正。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "我是在罪孽里生的．在我母亲怀胎的时候、就有了罪。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "你所喜爱的、是内里诚实．你在我隐密处、必使我得智慧。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "求你用牛膝草洁净我、我就干净．求你洗涤我、我就比雪更白。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "求你使我得听欢喜快乐的声音、使你所压伤的骨头、可以踊跃。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "求你掩面不看我的罪、涂抹我一切的罪孽。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "神阿、求你为我造清洁的心、使我里面重新有正直的灵。〔正直或作坚定〕"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "不要丢弃我、使我离开你的面．不要从我收回你的圣灵。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "求你使我仍得救恩之乐、赐我乐意的灵扶持我．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "我就把你的道指教有过犯的人．罪人必归顺你。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "神阿、你是拯救我的　神．求你救我脱离流人血的罪．我的舌头就高声歌唱你的公义。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "主阿、求你使我嘴唇张开、我的口便传扬赞美你的话。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "你本不喜爱祭物．若喜爱、我就献上．燔祭你也不喜悦。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "神所要的祭、就是忧伤的灵．　神阿、忧伤痛悔的心、你必不轻看。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "求你随你的美意善待锡安、建造耶路撒冷的城墙。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "那时、你必喜爱公义的祭、和燔祭、并全牲的燔祭．那时、人必将公牛献在你坛上。"
+  }
+]

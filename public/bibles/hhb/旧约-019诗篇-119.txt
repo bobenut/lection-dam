@@ -1,0 +1,706 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "行为完全、遵行耶和华律法的、这人便为有福。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "遵守他的法度、一心寻求他的、这人便为有福。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "这人不作非义的事．但遵行他的道。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "耶和华阿、你曾将你的训词吩咐我们、为要我们殷勤遵守。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "但愿我行事坚定、得以遵守你的律例。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "我看重你的一切命令、就不至于羞愧。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "我学了你公义的判语、就要以正直的心称谢你。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "我必守你的律例．求你总不要丢弃我。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "少年人用甚么洁净他的行为呢．是要遵行你的话。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "我一心寻求了你、求你不要叫我偏离你的命令。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "我将你的话藏在心里、免得我得罪你。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "耶和华阿、你是应当称颂的．求你将你的律例教训我。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "我用嘴唇传扬你口中的一切典章。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "我喜悦你的法度、如同喜悦一切的财物。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "我要默想你的训词、看重你的道路。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "我要在你的律例中自乐．我不忘记你的话。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "求你用厚恩待你的仆人、使我存活．我就遵守你的话。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "求你开我的眼睛、使我看出你律法中的奇妙。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "我是在地上作寄居的．求你不要向我隐瞒你的命令。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "我时常切慕你的典章、甚至心碎。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "受咒诅偏离你命令的骄傲人、你已经责备他们。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "求你除掉我所受的羞辱和藐视．因我遵守你的法度。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "虽有首领坐着妄论我、你仆人却思想你的律例。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "你的法度、是我所喜乐的、是我的谋士。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "我的性命几乎归于尘土．求你照你的话、将我救活。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "我述说我所行的、你应允了我．求你将你的律例教训我。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "求你使我明白你的训词、我就思想你的奇事。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "我的心因愁苦而消化．求你照你的话使我坚立。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "求你使我离开奸诈的道、开恩将你的律法赐给我。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "我拣选了忠信的道、将你的典章摆在我面前。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "我持守你的法度．耶和华阿、求你不要叫我羞愧。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "你开广我心的时候、我就往你命令的道上直奔。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "耶和华阿、求你将你的律例指教我、我必遵守到底。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "求你赐我悟性、我便遵守你的律法．且要一心遵守。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "求你叫我遵行你的命令．因为这是我所喜乐的。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "求你使我的心、趋向你的法度、不趋向非义之财。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "求你叫我转眼不看虚假、又叫我在你的道中生活。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "你向敬畏你的人所应许的话、求你向仆人坚定。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "求你使我所怕的羞辱远离我．因你的典章本为美。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "我羡慕你的训词．求你使我在你的公义上生活。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "耶和华阿、愿你照你的话、使你的慈爱、就是你的救恩、临到我身上。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "我就有话回答那羞辱我的．因我倚靠你的话。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "求你叫真理的话、总不离开我口．因我仰望你的典章。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "我要常守你的律法、直到永永远远。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "我要自由而行．〔或作我要行在宽阔之地〕因我素来考究你的训词。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "我也要在君王面前、论说你的法度、并不至于羞愧。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "我要在你的命令中自乐．这命令素来是我所爱的。"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "我又要遵行〔原文作举手〕你的命令。这命令素来是我所爱的．我也要思想你的律例。"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "求你记念向你仆人所应许的话、叫我有盼望。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "这话将我救活了．我在患难中、因此得安慰。"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "骄傲的人甚侮慢我．我却未曾偏离你的律法。"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "耶和华阿、我记念你从古以来的典章、就得了安慰。"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": "我见恶人离弃你的律法、就怒气发作、犹如火烧。"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": "我在世寄居、素来以你的律例为诗歌。"
+  },
+  {
+    "sectionNo": "55",
+    "sectionContent": "耶和华阿、我夜间记念你的名、遵守你的律法。"
+  },
+  {
+    "sectionNo": "56",
+    "sectionContent": "我所以如此、是因我守你的训词。"
+  },
+  {
+    "sectionNo": "57",
+    "sectionContent": "耶和华是我的福分。我曾说、我要遵守你的言语。"
+  },
+  {
+    "sectionNo": "58",
+    "sectionContent": "我一心求过你的恩．愿你照你的话怜悯我。"
+  },
+  {
+    "sectionNo": "59",
+    "sectionContent": "我思想我所行的道、就转步归向你的法度。"
+  },
+  {
+    "sectionNo": "60",
+    "sectionContent": "我急忙遵守你的命令、并不迟延。"
+  },
+  {
+    "sectionNo": "61",
+    "sectionContent": "恶人的绳索缠绕我．我却没有忘记你的律法。"
+  },
+  {
+    "sectionNo": "62",
+    "sectionContent": "我因你公义的典章、半夜必起来称谢你。"
+  },
+  {
+    "sectionNo": "63",
+    "sectionContent": "凡敬畏你、守你训词的人、我都与他作伴。"
+  },
+  {
+    "sectionNo": "64",
+    "sectionContent": "耶和华阿、你的慈爱遍满大地．求你将你的律例教训我。"
+  },
+  {
+    "sectionNo": "65",
+    "sectionContent": "耶和华阿、你向来是照你的话善待仆人。"
+  },
+  {
+    "sectionNo": "66",
+    "sectionContent": "求你将精明和知识赐给我．因我信了你的命令。"
+  },
+  {
+    "sectionNo": "67",
+    "sectionContent": "我未受苦以先、走迷了路．现在却遵守你的话。"
+  },
+  {
+    "sectionNo": "68",
+    "sectionContent": "你本为善、所行的也善．求你将你的律例教训我。"
+  },
+  {
+    "sectionNo": "69",
+    "sectionContent": "骄傲人编造谎言攻击我．我却要一心守你的训词。"
+  },
+  {
+    "sectionNo": "70",
+    "sectionContent": "他们心蒙脂油．我却喜爱你的律法。"
+  },
+  {
+    "sectionNo": "71",
+    "sectionContent": "我受苦是与我有益、为要使我学习你的律例。"
+  },
+  {
+    "sectionNo": "72",
+    "sectionContent": "你口中的训言、〔或作律法〕与我有益、胜于千万的金银。"
+  },
+  {
+    "sectionNo": "73",
+    "sectionContent": "你的手制造我、建立我．求你赐我悟性、可以学习你的命令。"
+  },
+  {
+    "sectionNo": "74",
+    "sectionContent": "敬畏你的人见我、就要欢喜．因我仰望你的话。"
+  },
+  {
+    "sectionNo": "75",
+    "sectionContent": "耶和华阿、我知道你的判语是公义的．你使我受苦、是以诚实待我。"
+  },
+  {
+    "sectionNo": "76",
+    "sectionContent": "求你照着应许仆人的话、以慈爱安慰我。"
+  },
+  {
+    "sectionNo": "77",
+    "sectionContent": "愿你的慈悲临到我、使我存活．因你的律法是我所喜爱的。"
+  },
+  {
+    "sectionNo": "78",
+    "sectionContent": "愿骄傲人蒙羞．因为他们无理地倾覆我．但我要思想你的训词。"
+  },
+  {
+    "sectionNo": "79",
+    "sectionContent": "愿敬畏你的人归向我、他们就知道你的法度。"
+  },
+  {
+    "sectionNo": "80",
+    "sectionContent": "愿我的心在你的律例上完全、使我不至蒙羞。"
+  },
+  {
+    "sectionNo": "81",
+    "sectionContent": "我心渴想你的救恩、仰望你的应许。"
+  },
+  {
+    "sectionNo": "82",
+    "sectionContent": "我因盼望你的应许、眼睛失明、说、你何时安慰我。"
+  },
+  {
+    "sectionNo": "83",
+    "sectionContent": "我好像烟薰的皮袋．却不忘记你的律例。"
+  },
+  {
+    "sectionNo": "84",
+    "sectionContent": "你仆人的年日有多少呢．你几时向逼迫我的人施行审判呢。"
+  },
+  {
+    "sectionNo": "85",
+    "sectionContent": "不从你律法的骄傲人、为我掘了坑。"
+  },
+  {
+    "sectionNo": "86",
+    "sectionContent": "你的命令尽都诚实．他们无理地逼迫我．求你帮助我。"
+  },
+  {
+    "sectionNo": "87",
+    "sectionContent": "他们几乎把我从世上灭绝、但我没有离弃你的训词。"
+  },
+  {
+    "sectionNo": "88",
+    "sectionContent": "求你照你的慈爱将我救活．我就遵守你口中的法度。"
+  },
+  {
+    "sectionNo": "89",
+    "sectionContent": "耶和华阿、你的话安定在天、直到永远。"
+  },
+  {
+    "sectionNo": "90",
+    "sectionContent": "你的诚实存到万代。你坚定了地、地就长存。"
+  },
+  {
+    "sectionNo": "91",
+    "sectionContent": "天地照你的安排、存到今日．万物都是你的仆役。"
+  },
+  {
+    "sectionNo": "92",
+    "sectionContent": "我若不是喜爱你的律法、早就在苦难中灭绝了。"
+  },
+  {
+    "sectionNo": "93",
+    "sectionContent": "我永不忘记你的训词．因你用这训词将我救活了。"
+  },
+  {
+    "sectionNo": "94",
+    "sectionContent": "我是属你的、求你救我．因我寻求了你的训词。"
+  },
+  {
+    "sectionNo": "95",
+    "sectionContent": "恶人等待我、要灭绝我．我却要揣摩你的法度。"
+  },
+  {
+    "sectionNo": "96",
+    "sectionContent": "我看万事尽都有限．惟有你的命令、极其宽广。"
+  },
+  {
+    "sectionNo": "97",
+    "sectionContent": "我何等爱慕你的律法、终日不住地思想。"
+  },
+  {
+    "sectionNo": "98",
+    "sectionContent": "你的命令常存在我心里、使我比仇敌有智慧。"
+  },
+  {
+    "sectionNo": "99",
+    "sectionContent": "我比我的师傅更通达．因我思想你的法度。"
+  },
+  {
+    "sectionNo": "100",
+    "sectionContent": "我比年老的更明白、因我守了你的训词。"
+  },
+  {
+    "sectionNo": "101",
+    "sectionContent": "我禁止我脚走一切的邪路、为要遵守你的话。"
+  },
+  {
+    "sectionNo": "102",
+    "sectionContent": "我没有偏离你的典章．因为你教训了我。"
+  },
+  {
+    "sectionNo": "103",
+    "sectionContent": "你的言语在我上膛何等甘美．在我口中比蜜更甜。"
+  },
+  {
+    "sectionNo": "104",
+    "sectionContent": "我借着你的训词、得以明白．所以我恨一切的假道。"
+  },
+  {
+    "sectionNo": "105",
+    "sectionContent": "你的话是我脚前的灯、是我路上的光。"
+  },
+  {
+    "sectionNo": "106",
+    "sectionContent": "你公义的典章、我曾起誓遵守．我必按誓而行。"
+  },
+  {
+    "sectionNo": "107",
+    "sectionContent": "我甚是受苦．耶和华阿、求你照你的话将我救活。"
+  },
+  {
+    "sectionNo": "108",
+    "sectionContent": "耶和华阿、求你悦纳我口中的赞美为供物、又将你的典章教训我。"
+  },
+  {
+    "sectionNo": "109",
+    "sectionContent": "我的性命常在危险之中、我却不忘记你的律法。"
+  },
+  {
+    "sectionNo": "110",
+    "sectionContent": "恶人为我设下网罗．我却没有偏离你的训词。"
+  },
+  {
+    "sectionNo": "111",
+    "sectionContent": "我以你的法度为永远的产业．因这是我心中所喜爱的。"
+  },
+  {
+    "sectionNo": "112",
+    "sectionContent": "我的心专向你的律例、永远遵行、一直到底。"
+  },
+  {
+    "sectionNo": "113",
+    "sectionContent": "心怀二意的人、为我所恨．但你的律法、为我所爱。"
+  },
+  {
+    "sectionNo": "114",
+    "sectionContent": "你是我藏身之处、又是我的盾牌．我甚仰望你的话语。"
+  },
+  {
+    "sectionNo": "115",
+    "sectionContent": "作恶的人哪、你们离开我吧、我好遵守我　神的命令。"
+  },
+  {
+    "sectionNo": "116",
+    "sectionContent": "求你照你的话扶持我、使我存活．也不叫我因失望而害羞。"
+  },
+  {
+    "sectionNo": "117",
+    "sectionContent": "求你扶持我、我便得救、时常看重你的律例。"
+  },
+  {
+    "sectionNo": "118",
+    "sectionContent": "凡偏离你律例的人、你都轻弃他们．因为他们的诡诈必归虚空。"
+  },
+  {
+    "sectionNo": "119",
+    "sectionContent": "凡地上的恶人、你除掉他好像除掉渣滓。因此我爱你的法度。"
+  },
+  {
+    "sectionNo": "120",
+    "sectionContent": "我因惧怕你、肉就发抖．我也怕你的判语、"
+  },
+  {
+    "sectionNo": "121",
+    "sectionContent": "我行过公平和公义．求你不要撇下我给欺压我的人。"
+  },
+  {
+    "sectionNo": "122",
+    "sectionContent": "求你为仆人作保、使我得好处．不容骄傲人欺压我。"
+  },
+  {
+    "sectionNo": "123",
+    "sectionContent": "我因盼望你的救恩、和你公义的话、眼睛失明。"
+  },
+  {
+    "sectionNo": "124",
+    "sectionContent": "求你照你的慈爱待仆人、将你的律例教训我。"
+  },
+  {
+    "sectionNo": "125",
+    "sectionContent": "我是你的仆人．求你赐我悟性、使我得知你的法度。"
+  },
+  {
+    "sectionNo": "126",
+    "sectionContent": "这是耶和华降罚的时候．因人废了你的律法。"
+  },
+  {
+    "sectionNo": "127",
+    "sectionContent": "所以我爱你的命令、胜于金子、更胜于精金。"
+  },
+  {
+    "sectionNo": "128",
+    "sectionContent": "你一切的训词、在万事上、我都以为正直．我却恨恶一切假道。"
+  },
+  {
+    "sectionNo": "129",
+    "sectionContent": "你的法度奇妙．所以我一心谨守。"
+  },
+  {
+    "sectionNo": "130",
+    "sectionContent": "你的言语一解开、就发出亮光、使愚人通达。"
+  },
+  {
+    "sectionNo": "131",
+    "sectionContent": "我张口而气喘．因我切慕你的命令。"
+  },
+  {
+    "sectionNo": "132",
+    "sectionContent": "求你转向我、怜悯我、好像你素常待那些爱你名的人。"
+  },
+  {
+    "sectionNo": "133",
+    "sectionContent": "求你用你的话使我脚步稳当、不许甚么罪孽辖制我。"
+  },
+  {
+    "sectionNo": "134",
+    "sectionContent": "求你救我脱离人的欺压．我要遵守你的训词。"
+  },
+  {
+    "sectionNo": "135",
+    "sectionContent": "求你用脸光照仆人．又将你的律例教训我。"
+  },
+  {
+    "sectionNo": "136",
+    "sectionContent": "我的眼泪下流成河、因为他们不守你的律法。"
+  },
+  {
+    "sectionNo": "137",
+    "sectionContent": "耶和华阿、你是公义的、你的判语也是正直的。"
+  },
+  {
+    "sectionNo": "138",
+    "sectionContent": "你所命定的法度、是凭公义和至诚。"
+  },
+  {
+    "sectionNo": "139",
+    "sectionContent": "我心焦急、如同火烧、因我敌人忘记你的言语。"
+  },
+  {
+    "sectionNo": "140",
+    "sectionContent": "你的话极其精炼．所以你的仆人喜爱。"
+  },
+  {
+    "sectionNo": "141",
+    "sectionContent": "我微小被人藐视．却不忘记你的训词。"
+  },
+  {
+    "sectionNo": "142",
+    "sectionContent": "你的公义永远长存．你的律法尽都真实。"
+  },
+  {
+    "sectionNo": "143",
+    "sectionContent": "我遭遇患难愁苦．你的命令却是我所喜爱的。"
+  },
+  {
+    "sectionNo": "144",
+    "sectionContent": "你的法度永远是公义的．求你赐我悟性、我就活了。"
+  },
+  {
+    "sectionNo": "145",
+    "sectionContent": "耶和华阿、我一心呼吁你、求你应允我．我必谨守你的律例。"
+  },
+  {
+    "sectionNo": "146",
+    "sectionContent": "我向你呼吁、求你救我．我要遵守你的法度。"
+  },
+  {
+    "sectionNo": "147",
+    "sectionContent": "我趁天未亮呼求．我仰望了你的言语。"
+  },
+  {
+    "sectionNo": "148",
+    "sectionContent": "我趁夜更未换、将眼睁开、为要思想你的话语。"
+  },
+  {
+    "sectionNo": "149",
+    "sectionContent": "求你照你的慈爱、听我的声音．耶和华阿、求你照你的典章、将我救活。"
+  },
+  {
+    "sectionNo": "150",
+    "sectionContent": "追求奸恶的人临近了．他们远离你的律法。"
+  },
+  {
+    "sectionNo": "151",
+    "sectionContent": "耶和华阿、你与我相近．你一切的命令尽都真实。"
+  },
+  {
+    "sectionNo": "152",
+    "sectionContent": "我因学你的法度、久已知道是你永远立定的。"
+  },
+  {
+    "sectionNo": "153",
+    "sectionContent": "求你看顾我的苦难、搭救我．因我不忘记你的律法。"
+  },
+  {
+    "sectionNo": "154",
+    "sectionContent": "求你为我辨屈、救赎我、照你的话将我救活。"
+  },
+  {
+    "sectionNo": "155",
+    "sectionContent": "救恩远离恶人．因为他们不寻求你的律例。"
+  },
+  {
+    "sectionNo": "156",
+    "sectionContent": "耶和华阿、你的慈悲本为大．求你照你的典章将我救活。"
+  },
+  {
+    "sectionNo": "157",
+    "sectionContent": "逼迫我的、抵挡我的很多．我却没有偏离你的法度。"
+  },
+  {
+    "sectionNo": "158",
+    "sectionContent": "我看见奸恶的人、就甚憎恶、因为他们不遵守你的话。"
+  },
+  {
+    "sectionNo": "159",
+    "sectionContent": "你看我怎样爱你的训词。耶和华阿、求你照你的慈爱将我救活。"
+  },
+  {
+    "sectionNo": "160",
+    "sectionContent": "你话的总纲是真实．你一切公义的典章是永远长存。"
+  },
+  {
+    "sectionNo": "161",
+    "sectionContent": "首领无故地逼迫我．但我的心畏惧你的言语。"
+  },
+  {
+    "sectionNo": "162",
+    "sectionContent": "我喜爱你的话、好像人得了许多掳物。"
+  },
+  {
+    "sectionNo": "163",
+    "sectionContent": "谎话是我所恨恶所憎嫌的、惟你的律法、是我所爱的。"
+  },
+  {
+    "sectionNo": "164",
+    "sectionContent": "我因你公义的典章、一天七次赞美你。"
+  },
+  {
+    "sectionNo": "165",
+    "sectionContent": "爱你律法的人、有大平安．甚么都不能使他们绊脚。"
+  },
+  {
+    "sectionNo": "166",
+    "sectionContent": "耶和华阿、我仰望了你的救恩、遵行了你的命令。"
+  },
+  {
+    "sectionNo": "167",
+    "sectionContent": "我心里守了你的法度．这法度我甚喜爱。"
+  },
+  {
+    "sectionNo": "168",
+    "sectionContent": "我遵守了你的训词和法度．因我一切所行的、都在你面前。"
+  },
+  {
+    "sectionNo": "169",
+    "sectionContent": "耶和华阿、愿我的呼吁达到你面前、照你的话赐我悟性。"
+  },
+  {
+    "sectionNo": "170",
+    "sectionContent": "愿我的恳求达到你面前、照你的话搭救我。"
+  },
+  {
+    "sectionNo": "171",
+    "sectionContent": "愿我的嘴发出赞美的话．因为你将律例教训我。"
+  },
+  {
+    "sectionNo": "172",
+    "sectionContent": "愿我的舌头歌唱你的话．因你一切的命令尽都公义。"
+  },
+  {
+    "sectionNo": "173",
+    "sectionContent": "愿你用手帮助我．因我拣选了你的训词。"
+  },
+  {
+    "sectionNo": "174",
+    "sectionContent": "耶和华阿、我切慕你的救恩．你的律法也是我所喜爱的。"
+  },
+  {
+    "sectionNo": "175",
+    "sectionContent": "愿我的性命存活、得以赞美你．愿你的典章帮助我。"
+  },
+  {
+    "sectionNo": "176",
+    "sectionContent": "我如亡羊走迷了路．求你寻找仆人．因我不忘记你的命令。"
+  }
+]

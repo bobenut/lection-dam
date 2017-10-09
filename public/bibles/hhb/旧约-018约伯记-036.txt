@@ -1,0 +1,134 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "以利户又接着说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你再容我片时、我就指示你．因我还有话为　神说。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "我要将所知道的从远处引来、将公义归给造我的主。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "我的言语真不虚谎．有知识全备的与你同在。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "神有大能、并不藐视人．他的智慧甚广。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "他不保护恶人的性命、却为困苦人伸冤。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他时常看顾义人、使他们和君王同坐宝座、永远要被高举。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "他们若被锁链捆住、被苦难的绳索缠住．"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "他就把他们的作为、和过犯指示他们、叫他们知道有骄傲的行动。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "他也开通他们的耳朵得受教训、吩咐他们离开罪孽转回。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "他们若听从事奉他、就必度日亨通、历年福乐。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "若不听从、就要被刀杀灭、无知无识而死。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "那心中不敬虔的人、积蓄怒气．　神捆绑他们、他们竟不求救．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "必在青年时死亡、与污秽人一样丧命。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "神借着困苦、救拔困苦人、趁他们受欺压、开通他们的耳朵。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "神也必引你出离患难、进入宽阔不狭窄之地．摆在你席上的、必满有肥甘。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "但你满口有恶人批评的言语．判断和刑罚抓住你。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "不可容忿怒触动你、使你不服责罚．也不可因赎价大就偏行。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "你的呼求、〔呼求或作资财〕或是你一切的势力、果有灵验、叫你不受患难么。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "不要切慕黑夜、就是众民在本处被除灭的时候。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "你要谨慎、不可重看罪孽、因你选择罪孽、过于选择苦难。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "神行事有高大的能力．教训人的、有谁像他呢。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "谁派定他的道路．谁能说、你所行的不义。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "你不可忘记称赞他所行的为大、就是人所歌颂的。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "他所行的万人都看见、世人也从远处观看。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "神为大、我们不能全知．他的年数不能测度。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "他吸取水点、这水点从云雾中就变成雨．"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "云彩将雨落下、沛然降与世人。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "谁能明白云彩如何铺张、和　神行宫的雷声呢。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "他将亮光普照在自己的四围．他又遮覆海底。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "他用这些审判众民、且赐丰富的粮食。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "他以电光遮手、命闪电击中敌人。〔或作中了靶子〕"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "所发的雷声显明他的作为、又向牲畜指明要起暴风。"
+  }
+]

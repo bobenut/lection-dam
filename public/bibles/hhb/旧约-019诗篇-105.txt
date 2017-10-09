@@ -1,0 +1,182 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "你们要称谢耶和华、求告他的名、在万民中传扬他的作为。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "要向他唱诗歌颂、谈论他一切奇妙的作为。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "要以他的圣名夸耀．寻求耶和华的人、心中应当欢喜。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "要寻求耶和华与他的能力、时常寻求他的面。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "他仆人亚伯拉罕的后裔、他所拣选雅各的子孙哪、你们要记念他奇妙的作为、和他的奇事、并他口中的判语。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "见上节"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他是耶和华我们的　神．全地都有他的判断。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "他记念他的约、直到永远、他所吩咐的话、直到千代、"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "就是与亚伯拉罕所立的约、向以撒所起的誓。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "他又将这约向雅各定为律例、向以色列定为永远的约、"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "说、我必将迦南地赐给你、作你产业的分。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "当时他们人丁有限、数目稀少、并且在那地为寄居的。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "他们从这邦游到那邦、从这国行到那国．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "他不容甚么人欺负他们、为他们的缘故、责备君王、"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "说、不可难为我受膏的人、也不可恶待我的先知。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "他命饥荒降在那地上、将所倚靠的粮食、全行断绝。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "在他们以先打发一个人去．约瑟被卖为奴仆。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "人用脚镣伤他的脚．他被铁链捆拘。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "耶和华的话试炼他、直等到他所说的应验了。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "王打发人把他解开、就是治理众民的、把他释放．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "立他作王家之主、掌管他一切所有的．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "使他随意捆绑他的臣宰、将智慧教导他的长老。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "以色列也到了埃及、雅各在含地寄居。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "耶和华使他的百姓生养众多、使他们比敌人强盛．"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "使敌人的心转去恨他的百姓、并用诡计待他的仆人。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "他打发他的仆人摩西、和他所拣选的亚伦。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "在敌人中间显他的神迹在含地显他的奇事。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "他命黑暗、就有黑暗．没有违背他话的。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "他叫埃及的水变为血、叫他们的鱼死了。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "在他们的地上、以及王宫的内室、青蛙多多滋生。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "他说一声、苍蝇就成群而来、并有虱子进入他们四境。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "他给他们降下冰雹为雨、在他们的地上降下火焰。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "他也击打他们的葡萄树、和无花果树、毁坏他们境内的树木。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "他说一声、就有蝗虫蚂蚱上来、不计其数、"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "吃尽了他们地上各样的菜蔬、和田地的出产。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "他又击杀他们国内一切的长子、就是他们强壮时头生的。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "他领自己的百姓带银子金子出来．他支派中没有一个软弱的。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "他们出来的时候、埃及人便欢喜．原来埃及人惧怕他们。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "他铺张云彩当遮盖、夜间使火光照。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "他们一求、他就使鹌鹑飞来、并用天上的粮食、叫他们饱足。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "他打开磐石、水就涌出．在干旱之处、水流成河。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "这都因他记念他的圣言、和他的仆人亚伯拉罕。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "他带领百姓欢乐而出、带领选民欢呼前往。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "他将列国的地赐给他们、他们便承受众民劳碌得来的。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "好使他们遵他的律例、守他的律法。你们要赞美耶和华。"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "过了两年法老作梦．梦见自己站在河边。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "有七只母牛从河里上来、又美好、又肥壮在芦荻中吃草。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "随后又有七只母牛从河里上来、又丑陋、又干瘦、与那七只母牛一同站在河边。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "这又丑陋、又干瘦的七只母牛、吃尽了那又美好、又肥壮的七只母牛．法老就醒了。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "他又睡着、第二回作梦．梦见一棵麦子长了七个穗子、又肥大、又佳美。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "随后又长了七个穗子、又细弱、又被东风吹焦了。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "这细弱的穗子、吞了那七个又肥大又饱满的穗子．法老醒了、不料是个梦。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "到了早晨、法老心里不安、就差人召了埃及所有的术士和博士来．法老就把所作的梦告诉他们、却没有人能给法老圆解。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "那时酒政对法老说、我今日想起我的罪来．"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "从前法老恼怒臣仆、把我和膳长下在护卫长府内的监里。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "我们二人同夜各作一梦、各梦都有讲解。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "在那里同着我们有一个希伯来的少年人、是护卫长的仆人、我们告诉他、他就把我们的梦圆解、是按着各人的梦圆解的。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "后来正如他给我们圆解的成就了．我官复原职、膳长被挂起来了。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "法老遂即差人去召约瑟．他们便急忙带他出监、他就剃头、刮脸、换衣裳、进到法老面前。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "法老对约瑟说、我作了一梦没有人能解、我听见人说、你听了梦就能解。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "约瑟回答法老说、这不在乎我、　神必将平安的话回答法老。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "法老对约瑟说、我梦见我站在河边．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "有七只母牛从河里上来、又肥壮、又美好、在芦荻中吃草。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "随后又有七只母牛上来、又软弱、又丑陋、又干瘦、在埃及遍地、我没有见过这样不好的。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "这又干瘦、又丑陋的母牛、吃尽了那以先的七只肥母牛。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "吃了以后、却看不出是吃了、那丑陋的样子仍旧和先前一样．我就醒了。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "我又梦见一棵麦子、长了七个穗子、又饱满、又佳美．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "随后又长了七个穗子、枯槁细弱、被东风吹焦了。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "这些细弱的穗子、吞了那七个佳美的穗子．我将这梦告诉了术士、却没有人能给我解说。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "约瑟对法老说、法老的梦乃是一个、　神已将所要作的事指示法老了。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "七只好母牛是七年．七个好穗子也是七年．这梦乃是一个。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "那随后上来的七只又干瘦、又丑陋的母牛是七年、那七个虚空被东风吹焦的穗子也是七年．都是七个荒年。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "这就是我对法老所说、　神已将所要作的事显明给法老了。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "埃及遍地必来七个大丰年．"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "随后又要来七个荒年、甚至埃及地都忘了先前的丰收、全地必被饥荒所灭。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "因那以后的饥荒甚大、便不觉得先前的丰收了。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "至于法老两回作梦、是因　神命定这事、而且必速速成就。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "所以法老当拣选一个有聪明有智慧的人、派他治理埃及地。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "法老当这样行、又派官员管理这地．当七个丰年的时候、征收埃及地的五分之一．"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "叫他们把将来丰年一切的粮食聚敛起来、积蓄五谷、收存在各城里作食物、归于法老的手下。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "所积蓄的粮食、可以防备埃及地将来的七个荒年、免得这地被饥荒所灭。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "法老和他一切臣仆、都以这事为妙。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "法老对臣仆说、像这样的人、有　神的灵在他里头、我们岂能找得着呢。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "法老对约瑟说、　神既将这事都指示你、可见没有人像你这样有聪明有智慧。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "你可以掌管我的家、我的民都必听从你的话、惟独在宝座上我比你大。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "法老又对约瑟说、我派你治理埃及全地。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "法老就摘下手上打印的戒指、戴在约瑟的手上．给他穿上细麻衣、把金链戴在他的颈项上。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "又叫约瑟坐他的副车、喝道的在前呼叫说、跪下．这样、法老派他治理埃及全地。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "法老对约瑟说、我是法老、在埃及全地、若没有你的命令、不许人擅自办事。〔原文作动手动脚〕"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "法老赐名给约瑟、叫撒发那忒巴内亚．又将安城的祭司波提非拉的女儿亚西纳、给他为妻。约瑟就出去巡行埃及地。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "约瑟见埃及王法老的时候、年三十岁．他从法老面前出去遍行埃及全地。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "七个丰年之内、地的出产极丰极盛。〔原文作一把一把的〕"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "约瑟聚敛埃及地七个丰年一切的粮食、把粮食积存在各城里、各城周围田地的粮食、都积存在本城里。"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "约瑟积蓄五谷甚多、如同海边的沙、无法计算、因为谷不可胜数。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "荒年未到以前、安城的祭司波提非拉的女儿亚西纳给约瑟生了两个儿子．"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "约瑟给长子起名叫玛拿西、〔就是使之忘了的意思〕因为他说、　神使我忘了一切的困苦、和我父的全家。"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "他给次子起名叫以法莲、〔就是使之昌盛的意思〕因为他说、　神使我在受苦的地方昌盛。"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": "埃及地的七个丰年一完、"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": "七个荒年就来了、正如约瑟所说的．各地都有饥荒、惟独埃及全地有粮食。"
+  },
+  {
+    "sectionNo": "55",
+    "sectionContent": "及至埃及全地有了饥荒、众民向法老哀求粮食、法老对他们说、你们往约瑟那里去、凡他所说的你们都要作。"
+  },
+  {
+    "sectionNo": "56",
+    "sectionContent": "当时饥荒遍满天下、约瑟开了各处的仓、粜粮给埃及人．在埃及地饥荒甚大。"
+  },
+  {
+    "sectionNo": "57",
+    "sectionContent": "各地的人都往埃及去、到约瑟那里籴粮、因为天下的饥荒甚大。"
+  }
+]

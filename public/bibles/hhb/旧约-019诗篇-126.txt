@@ -1,0 +1,26 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔上行之诗。〕当耶和华将那些被掳的带回锡安的时候、我们好像作梦的人。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "我们满口喜笑、满舌欢呼的时候、外邦中就有人说、耶和华为他们行了大事。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "耶和华果然为我们行了大事、我们就欢喜。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "耶和华阿、求你使我们被掳的人归回、好像南地的河水复流。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "流泪撒种的、必欢呼收割。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "那带种流泪出去的、必要欢欢乐乐的带禾捆回来。"
+  }
+]

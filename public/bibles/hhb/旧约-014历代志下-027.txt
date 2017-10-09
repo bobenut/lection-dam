@@ -1,0 +1,38 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "约坦登基的时候、年二十五岁、在耶路撒冷作王十六年．他母亲名叫耶路沙、是撒督的女儿。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "约坦行耶和华眼中看为正的事、效法他父乌西雅一切所行的、只是不入耶和华的殿。百姓还行邪僻的事。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "约坦建立耶和华殿的上门．在俄斐勒城上多有建造。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "又在犹大山地建造城邑、在树林中建筑营寨、和高楼。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "约坦与亚扪人的王打仗胜了他们．当年他们进贡银一百他连得、小麦一万歌珥、大麦一万歌珥、第二年、第三年、也是这样。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "约坦在耶和华他　神面前行正道、以致日渐强盛。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "约坦其余的事、和一切争战、并他的行为、都写在以色列和犹大列王记上。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "他登基的时候年二十五岁、在耶路撒冷作王十六年。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "约坦与他列祖同睡、葬在大卫城里．他儿子亚哈斯接续他作王。"
+  }
+]

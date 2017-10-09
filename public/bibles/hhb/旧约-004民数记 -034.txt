@@ -1,0 +1,118 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华晓谕摩西说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你吩咐以色列人说、你们到了迦南地、就是归你们为业的迦南四境之地。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "南角要从寻的旷野、贴着以东的边界、南界要从盐海东头起、"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "绕到亚克拉滨坡的南边、接连到寻、直通到加低斯巴尼亚的南边、又通到哈萨亚达、接连到押们。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "从押们转到埃及小河、直通到海为止。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "西边要以大海为界．这就是你们的西界。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "北界要从大海起、画到何珥山．"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "从何珥山画到哈马口、通到西达达．"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "又通到西斐仑、直到哈萨以难．这要作你们的北界。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "你们要从哈萨以难画到示番为东界。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "这界要从示番下到亚延东边的利比拉、又要达到基尼烈湖的东边。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "这界要下到约但河、通到盐海为止、这四围的边界以内、要作你们的地。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "摩西吩咐以色列人说、这地就是耶和华吩咐拈阄给九个半支派承受为业的．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "因为流便支派、和迦得支派、按着宗族受了产业、玛拿西半个支派也受了产业。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "这两个半支派已经在耶利哥对面、约但河东向日出之地受了产业。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "耶和华晓谕摩西说、"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "要给你们分地为业之人的名字、是祭司以利亚撒和嫩的儿子约书亚。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "又要从每支派中、选一个首领帮助他们。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "这些人的名字犹大支派、有耶孚尼的儿子迦勒。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "西缅支派、有亚米忽的儿子示母利。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "便雅悯支派、有基斯伦的儿子以利达。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "但支派、有一个首领、约利的儿子布基。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "约瑟的子孙玛拿西支派、有一个首领、以弗的儿子汉聂。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "以法莲支派、有一个首领、拾弗但的儿子基母利。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "西布伦支派、有一个首领、帕纳的儿子以利撒番。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "以萨迦支派、有一个首领、阿散的儿子帕铁。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "亚设支派、有一个首领、示罗米的儿子亚希忽。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "拿弗他利支派、有一个首领、亚米忽的儿子比大黑。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "这些人、就是耶和华所吩咐、在迦南地把产业分给以色列人的。"
+  }
+]

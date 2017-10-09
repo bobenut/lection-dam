@@ -1,0 +1,118 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "美名胜过大财．恩宠强如金银。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "富户穷人、在世相遇、都为耶和华所造。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "通达人见祸藏躲．愚蒙人前往受害。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "敬畏耶和华心存谦卑、就得富有、尊荣、生命为赏赐。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "乖僻人的路上、有荆棘和网罗．保守自己生命的、必要远离。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "教养孩童、使他走当行的道、就是到老他也不偏离。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "富户管辖穷人．欠债的是债主的仆人。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "撒罪孽的、必收灾祸．他逞怒的杖、也必废掉。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "眼目慈善的、就必蒙福．因他将食物分给穷人。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "赶出亵慢人、争端就消除、分争和羞辱、也必止息。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "喜爱清心的人、因他嘴上的恩言、王必与他为友。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "耶和华的眼目、眷顾聪明人．却倾败奸诈人的言语。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "懒惰人说、外头有狮子、我在街上、就必被杀。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "淫妇的口为深坑、耶和华所憎恶的、必陷在其中。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "愚蒙迷住孩童的心、用管教的杖可以远远赶除。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "欺压贫穷为要利己的、并送礼与富户的、都必缺乏。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "你须侧耳听受智慧人的言语、留心领会我的知识．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "你若心中存记、嘴上咬定、这便为美。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "我今日以此特特指教你、为要使你倚靠耶和华。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "谋略和知识的美事、我岂没有写给你么．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "要使你知道真言的实理、你好将真言回复那打发你来的人。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "贫穷人、你不可因他贫穷就抢夺他的物．也不可在城门口欺压困苦人．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "因耶和华必为他辨屈．抢夺他的、耶和华必夺取那人的命。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "好生气的人、不可与他结交．暴怒的人、不可与他来往．"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "恐怕你效法他的行为、自己就陷在网罗里。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "不要与人击掌、不要为欠债的作保。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "你若没有甚么偿还、何必使人夺去你睡卧的床呢。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "你先祖所立的地界、你不可挪移。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "你看见办事殷勤的人么、他必站在君王面前．必不站在下贱人面前。"
+  }
+]

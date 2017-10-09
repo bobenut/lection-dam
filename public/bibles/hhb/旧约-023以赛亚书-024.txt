@@ -1,0 +1,94 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "看哪、耶和华使地空虚、变为荒凉．又翻转大地、将居民分散。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "那时百姓怎样、祭司也怎样．仆人怎样、主人也怎样．婢女怎样、主母也怎样．买物的怎样、卖物的也怎样．放债的怎样、借债的也怎样．取利的怎样、出利的也怎样。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "地必全然空虚、尽都荒凉．因为这话是耶和华说的。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "地上悲哀衰残、世界败落衰残、地上居高位的人也败落了。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "地被其上的居民污秽．因为他们犯了律法、废了律例、背了永约。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "所以地被咒诅吞灭、住在其上的显为有罪．地上的居民被火焚烧、剩下的人稀少。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "新酒悲哀、葡萄树衰残、心中欢乐的、俱都叹息。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "击鼓之乐止息、宴乐人的声音完毕、弹琴之乐也止息了。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "人必不得饮酒唱歌．喝浓酒的、必以为苦。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "荒凉的城拆毁了．各家关门闭户、使人都不得进去。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "在街上因酒有悲叹的声音．一切喜乐变为昏暗．地上的欢乐归于无有。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "城中只有荒凉、城门拆毁净尽。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "在地上的万民中、必像打过的橄榄树、又像已摘的葡萄所剩无几。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "这些人要高声欢呼．他们为耶和华的威严、从海那里扬起声来。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "因此你们要在东方荣耀耶和华、在众海岛荣耀耶和华以色列　神的名。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "我们听见从地极有人歌唱、说、荣耀归于义人。我却说、我消灭了、我消灭了、我有祸了．诡诈的行诡诈、诡诈的大行诡诈。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "地上的居民哪、恐惧、陷坑、网罗、都临近你。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "躲避恐惧声音的必坠入陷坑．从陷坑上来的必被网罗缠住．因为天上的窗户都开了、地的根基也震动了。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "地全然破坏、尽都崩裂、大大的震动了。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "地要东倒西歪、好像醉酒的人．又摇来摇去、好像吊床．罪过在其上沉重、必然塌陷、不能复起。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "到那日耶和华在高处必惩罚高处的众军、在地上必惩罚地上的列王。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "他们必被聚集、像囚犯被聚在牢狱中、并要囚在监牢里、多日之后便被讨罪。〔或作眷顾〕"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "那时月亮要蒙羞、日头要惭愧．因为万军之耶和华必在锡安山、在耶路撒冷作王．在敬畏他的长老面前、必有荣耀。"
+  }
+]

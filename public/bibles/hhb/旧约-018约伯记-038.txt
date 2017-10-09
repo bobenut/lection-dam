@@ -1,0 +1,166 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "那时耶和华从旋风中回答约伯说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "谁用无知的言语、使我的旨意暗昧不明、"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "你要如勇士束腰．我问你、你可以指示我。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "我立大地根基的时候、你在哪里呢．你若有聪明只管说吧。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "你若晓得就说、是谁定地的尺度．是谁把准绳拉在其上。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "地的根基安置在何处．地的角石是谁安放的。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "那时晨星一同歌唱、　神的众子也都欢呼。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "海水冲出、如出胎胞．那时谁将他关闭呢．"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "是我用云彩当海的衣服、用幽暗当包裹他的布、"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "为他定界限、又安门和闩、"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "说、你只可到这里、不可越过、你狂傲的浪要到此止住。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "你自生以来、曾命定晨光、使清晨的日光知道本位．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "叫这光普照地的四极、将恶人从其中驱逐出来么。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "因这光地面改变如泥上印印．万物出现如衣服一样。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "亮光不照恶人、强横的膀臂也必折断。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "你曾进到海源、或在深渊的隐密处行走么。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "死亡的门、曾向你显露么．死荫的门、你曾见过么。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "地的广大、你能明透么．你若全知道、只管说吧。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "光明的居所从何而至、黑暗的本位在于何处。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "你能带到本境、能看明其室之路么。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "你总知道、因为你早已生在世上、你日子的数目也多。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "你曾进入雪库、或见过雹仓么。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "这雪雹乃是我为降灾、并打仗和争战的日子所预备的。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "光亮从何路分开、东风从何路分散遍地。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "谁为雨水分道、谁为雷电开路．"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "使雨降在无人之地、无人居住的旷野．"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "使荒废凄凉之地得以丰足、青草得以发生。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "雨有父么、露水珠、是谁生的呢。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "冰出于谁的胎、天上的霜、是谁生的呢。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "诸水坚硬〔或作隐藏〕如石头、深渊之面凝结成冰。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "你能系住昴星的结么、能解开参星的带么。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "你能按时领出十二宫么、能引导北斗和随他的众星么．〔星原文作子〕"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "你知道天的定例么、能使地归在天的权下么。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "你能向云彩扬起声来、使倾盆的雨遮盖你么。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "你能发出闪电、叫他行去、使他对你说、我们在这里。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "谁将智慧放在怀中、谁将聪明赐于心内。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "谁能用智慧数算云彩呢、尘土聚集成团、土块紧紧结连．那时、谁能倾倒天上的瓶呢。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "见上节"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "母狮子在洞中蹲伏、少壮狮子在隐密处埋伏、你能为他们抓取食物、使他们饱足么。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "见上节"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "乌鸦之雏、因无食物飞来飞去、哀告　神．那时、谁为他预备食物呢。"
+  }
+]

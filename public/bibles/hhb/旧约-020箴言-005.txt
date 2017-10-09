@@ -1,0 +1,94 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "我儿、要留心我智慧的话语、侧耳听我聪明的言词．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "为要使你谨守谋略、嘴唇保存知识。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "因为淫妇的嘴滴下蜂蜜、他的口比油更滑．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "至终却苦似茵蔯、快如两刃的刀。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "他的脚、下入死地．他脚步、踏住阴间．"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "以致他找不着生命平坦的道．他的路变迁不定、自己还不知道。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "众子阿、现在要听从我、不可离弃我口中的话。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "你所行的道要离他远、不可就近他的房门．"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "恐怕将你的尊荣给别人、将你的岁月给残忍的人．"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "恐怕外人满得你的力量、你劳碌得来的、归入外人的家．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "终久你皮肉和身体消毁、你就悲叹、"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "说、我怎么恨恶训诲、心中藐视责备、"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "也不听从我师傅的话、又不侧耳听那教训我的人。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "我在圣会里、几乎落在诸般恶中。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "你要喝自己池中的水、饮自己井里的活水。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "你的泉源岂可涨溢在外．你的河水岂可流在街上．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "惟独归你一人、不可与外人同用。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "要使你的泉源蒙福．要喜悦你幼年所娶的妻。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "他如可爱的麀鹿、可喜的母鹿．愿他的胸怀、使你时时知足．他的爱情、使你常常恋慕。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "我儿、你为何恋慕淫妇、为何抱外女的胸怀．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "因为人所行的道、都在耶和华眼前．他也修平人一切的路。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "恶人必被自己的罪孽捉住．他必被自己的罪恶如绳索缠绕。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "他因不受训诲、就必死亡．又因愚昧过甚、必走差了路。"
+  }
+]

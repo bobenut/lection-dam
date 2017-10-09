@@ -1,0 +1,138 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "你不要嫉妒恶人、也不要起意与他们相处．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "因为他们的心、图谋强暴．他们的口、谈论奸恶。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "房屋因智慧建造、又因聪明立稳．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "其中因知识充满各样美好宝贵的财物。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "智慧人大有能力．有知识的人、力上加力。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "你去打仗、要凭智谋．谋士众多、人便得胜。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "智慧极高、非愚昧人所能及、所以在城门内、不敢开口。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "设计作恶的、必称为奸人。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "愚妄人的思念、乃是罪恶．亵慢者为人所憎恶。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "你在患难之日若胆怯、你的力量就微小。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "人被拉到死地、你要解救．人将被杀、你须拦阻。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "你若说、这事我未曾知道．那衡量人心的、岂不明白么．保守你命的岂不知道么．他岂不按各人所行、的报应各人么。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "我儿、你要吃蜜、因为是好的．吃蜂房下滴的蜜、便觉甘甜。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "你心得了智慧、也必觉得如此．你若找着、至终必有善报．你的指望、也不至断绝。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "你这恶人、不要埋伏攻击义人的家．不要毁坏他安居之所。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "因为义人虽七次跌倒、仍必兴起．恶人却被祸患倾倒。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "你仇敌跌倒、你不要欢喜．他倾倒、你心不要快乐。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "恐怕耶和华看见就不喜悦、将怒气从仇敌身上转过来。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "不要为作恶的心怀不平．也不要嫉妒恶人．"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "因为恶人终不得善报．恶人的灯、也必熄灭。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "我儿、你要敬畏耶和华与君王．不要与反复无常的人结交．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "因为他们的灾难、必忽然而起．耶和华与君王所施行的毁灭、谁能知道呢。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "以下也是智慧人的箴言。审判时看人情面、是不好的。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "对恶人说、你是义人的、这人万民必咒诅、列邦必憎恶。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "责备恶人的、必得喜悦．美好的福、也必临到他。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "应对正直的、犹如与人亲嘴。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "你要在外头预备工料、在田间办理整齐、然后建造房屋。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "不可无故作见证、陷害邻舍．也不可用嘴欺骗人。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "不可说、人怎样待我、我也怎样待他、我必照他所行的报复他。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "我经过懒惰人的田地、无知人的葡萄园．"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "荆棘长满了地皮、刺草遮盖了田面、石墙也坍塌了．"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "我看见就留心思想、我看着就领了训诲。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "再睡片时、打盹片时、抱着手躺卧片时、"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "你的贫穷、就必如强盗速来、你的缺乏、彷彿拿兵器的人来到。"
+  }
+]

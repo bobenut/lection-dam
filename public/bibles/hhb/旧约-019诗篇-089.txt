@@ -1,0 +1,210 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔以斯拉人以探的训诲诗。〕我要歌唱耶和华的慈爱、直到永远．我要用口将你的信实传与万代。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "因我曾说、你的慈悲、必建立到永远．你的信实、必坚立在天上。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "我与我所拣选的人立了约、向我的仆人大卫起了誓．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "我要建立你的后裔、直到永远、要建立你的宝座、直到万代。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "耶和华阿、诸天要称赞你的奇事．在圣者的会中、要称赞你的信实。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "在天空谁能比耶和华呢．神的众子中、谁能像耶和华呢。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他在圣者的会中、是大有威严的　神、比一切在他四围的更可畏惧。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "耶和华万军之　神阿、那一个大能者像你耶和华．你的信实、是在你的四围。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "你管辖海的狂傲．波浪翻腾、你就使他平静了。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "你打碎了拉哈伯似乎是已杀的人．你用有能的膀臂打散了你的仇敌。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "天属你、地也属你．世界和其中所充满的、都为你所建立。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "南北为你所创造．他泊和黑门都因你的名欢呼。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "你有大能的膀臂．你的手有力、你的右手也高举。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "公义和公平、是你宝座的根基．慈爱和诚实、行在你前面。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "知道向你欢呼的、那民是有福的。耶和华阿、他们在你脸上的光里行走。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "他们因你的名终日欢乐、因你的公义得以高举。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "你是他们力量的荣耀．因为你喜悦我们、我们的角必被高举。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "我们的盾牌属耶和华．我们的王属以色列的圣者。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "当时你在异象中晓谕你的圣民、说、我已把救助之力、加在那有能者的身上．我高举那从民中所拣选的。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "我寻得我的仆人大卫、用我的圣膏膏他。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "我的手必使他坚立．我的膀臂也必坚固他。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "仇敌必不勒索他、凶恶之子、也不苦害他。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "我要在他面前打碎他的敌人、击杀那恨他的人。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "只是我的信实、和我的慈爱、要与他同在．因我的名、他的角必被高举。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "我要使他的左手伸到海上、右手伸到河上。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "他要称呼我说、你是我的父、是我的　神、是拯救我的磐石。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "我也要立他为长子、为世上最高的君王。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "我要为他存留我的慈爱、直到永远．我与他立的约、必要坚定。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "我也要使他的后裔、存到永远、使他的宝座、如天之久。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "倘若他的子孙离弃我的律法、不照我的典章行．"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "背弃我的律例、不遵守我的诫命．"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "我就要用杖责罚他们的过犯、用鞭责罚他们的罪孽。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "只是我必不将我的慈爱、全然收回、也必不叫我的信实废弃。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "我必不背弃我的约、也不改变我口中所出的。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "我一次指着自己的圣洁起誓．我决不向大卫说谎。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "他的后裔要存到永远、他的宝座在我面前、如日之恒一般．"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "又如月亮永远坚立、如天上确实的见证。〔细拉〕"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "但你恼怒你的受膏者、就丢掉弃绝他。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "你厌恶了与仆人所立的约、将他的冠冕践踏于地。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "你拆毁了他一切的篱笆．使他的保障、变为荒场。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "凡过路的人、都抢夺他．他成为邻邦的羞辱。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "你高举了他敌人的右手．你叫他一切的仇敌欢喜。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "你叫他的刀剑卷刃、叫他在争战之中站立不住。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "你使他的光辉止息、将他的宝座推倒于地。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "你减少他青年的日子．又使他蒙羞。〔细拉〕"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "耶和华阿、这要到几时呢．你要将自己隐藏到永远么．你的忿怒如火焚烧、要到几时呢。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "求你想念我的时候是何等的短少．你创造世人、要使他们归何等的虚空呢。〔细拉〕"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "谁能常活免死、救他的灵魂脱离阴间的权柄呢。〔细拉〕"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "主阿、你从前凭你的信实向大卫立誓、要施行的慈爱在哪里呢。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "主阿、求你记念仆人们所受的羞辱、记念我怎样将一切强盛民的羞辱存在我怀里。"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "耶和华阿、你的仇敌、用这羞辱羞辱了你的仆人、羞辱了你受膏者的脚踪。"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "耶和华是应当称颂的、直到永远。阿们、阿们。"
+  }
+]

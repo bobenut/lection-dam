@@ -1,0 +1,70 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "所罗门的歌、是歌中的雅歌。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "愿他用口与我亲嘴．因你的爱情比酒更美。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "你的膏油馨香．你的名如同倒出来的香膏．所以众童女都爱你。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "愿你吸引我、我们就快跑跟随你．王带我进了内室．我们必因你欢喜快乐．我们要称赞你的爱情、胜似称赞美酒．他们爱你是理所当然的。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "耶路撒冷的众女子阿、我虽然黑、却是秀美、如同基达的帐棚、好像所罗门的幔子。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "不要因日头把我晒黑了、就轻看我。我同母的弟兄向我发怒．他们使我看守葡萄园、我自己的葡萄园、却没有看守。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "我心所爱的阿、求你告诉我你在何处牧羊、晌午在何处使羊歇卧．我何必在你同伴的羊群旁边、好像蒙着脸的人呢。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "你这女子中极美丽的、你若不知道、只管跟随羊群的脚踪去、把你的山羊羔、牧放在牧人帐棚的旁边。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "我的佳偶、我将你比法老车上套的骏马。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "你的两腮、因发辫而秀美、你的颈项、因珠串而华丽。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "我们要为你编上金辫、镶上银钉。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "王正坐席的时候、我的哪哒香膏发出香味。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "我以我的良人为一袋没药、常在我怀中。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "我以我的良人为一棵凤仙花、在隐基底葡萄园中。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "我的佳偶、你甚美丽、你甚美丽．你的眼好像鸽子眼。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "我的良人哪、你甚美丽可爱、我们以青草为床榻、"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "以香柏树为房屋的栋梁、以松树为椽子。"
+  }
+]

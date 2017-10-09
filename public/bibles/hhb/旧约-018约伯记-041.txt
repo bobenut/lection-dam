@@ -1,0 +1,138 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "你能用鱼钩钓上鳄鱼么、能用绳子压下他的舌头么。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你能用绳索穿他的鼻子么、能用钩穿他的腮骨么。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "他岂向你连连恳求、说柔和的话么．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "岂肯与你立约、使你拿他永远作奴仆么。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "你岂可拿他当雀鸟玩耍么．岂可为你的幼女将他拴住么。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "搭伙的渔夫、岂可拿他当货物么、能把他分给商人么。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "你能用倒钩枪扎满他的皮、能用鱼叉叉满他的头么。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "你按手在他身上、想与他争战、就不再这样行吧。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "人指望捉拿他、是徒然的．一见他、岂不丧胆么。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "没有那么凶猛的人敢惹他．这样、谁能在我面前站立得住呢。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "谁先给我甚么、使我偿还呢、天下万物都是我的。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "论到鳄鱼的肢体、和其大力、并美好的骨格、我不能缄默不言。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "谁能剥他的外衣．谁能进他上下牙骨之间呢。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "谁能开他的腮颊．他牙齿四围是可畏的。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "他以坚固的鳞甲为可夸、紧紧合闭、封得严密。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "这鳞甲一一相连、甚至气不得透入其间．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "都是互相联络、胶结不能分离。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "他打喷嚏、就发出光来．他眼睛好像早晨的光线．〔光线原文作眼皮〕"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "从他口中发出烧着的火把、与飞迸的火星。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "从他鼻孔冒出烟来、如烧开的锅、和点着的芦苇。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "他的气点着煤炭、有火焰从他口中发出。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "他颈项中存着劲力、在他面前的都恐吓蹦跳。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "他的肉块互相联络、紧贴其身、不能摇动。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "他的心结实如石头、如下磨石那样结实。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "他一起来、勇士都惊恐．心里慌乱、便都昏迷。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "人若用刀、用枪、用标枪、用尖枪扎他、都是无用。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "他以铁为干草、以铜为烂木。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "箭不能恐吓他使他逃避、弹石在他看为碎稓。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "棍棒算为禾稓．他嗤笑短枪飕的响声。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "他肚腹下如尖瓦片．他如钉耙经过淤泥。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "他使深渊开滚如锅、使洋海如锅中的膏油。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "他行的路随后发光、令人想深渊如同白发。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "在地上没有像他造的那样无所惧怕．"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "凡高大的、他无不藐视、他在骄傲的水族上作王。"
+  }
+]

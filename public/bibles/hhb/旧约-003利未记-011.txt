@@ -1,0 +1,190 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华对摩西亚伦说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你们晓谕以色列人说、在地上一切走兽中可吃的、乃是这些．"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "凡蹄分两瓣、倒嚼的走兽、你们都可以吃。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "但那倒嚼、或分蹄之中不可吃的、乃是骆驼、因为倒嚼不分蹄、就与你们不洁净。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "沙番、因为倒嚼不分蹄、就与你们不洁净。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "兔子、因为倒嚼不分蹄、就与你们不洁净。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "猪、因为蹄分两瓣、却不倒嚼、就与你们不洁净。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "这些兽的肉、你们不可吃、死的你们不可摸、都与你们不洁净。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "水中可吃的、乃是这些．凡在水里、海里、河里、有翅有鳞的、都可以吃。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "凡在海里、河里、并一切水里游动的活物、无翅无鳞的、你们都当以为可憎．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "这些无翅无鳞以为可憎的、你们不可吃他的肉、死的也当以为可憎。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "凡水里无翅无鳞的、你们都当以为可憎。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "雀鸟中你们当以为可憎、不可吃的、乃是雕、狗头雕、红头雕、"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "鹞鹰、小鹰、与其类．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "乌鸦、与其类．"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "鸵鸟、夜鹰、鱼鹰、鹰、与其类．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "鸮鸟、鸬鹚、猫头鹰、"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "角鸱、鹈鹕、秃雕、"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "鹳、鹭鸶、与其类．戴鵀、与蝙蝠。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "凡有翅膀用四足爬行的物、你们都当以为可憎。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "只是有翅膀用四足爬行的物中、有足有腿、在地上蹦跳的、你们还可以吃。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "其中有蝗虫、蚂蚱、蟋蟀、与其类．蚱蜢、与其类．这些你们都可以吃。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "但是有翅膀有四足的爬物、你们都当以为可憎。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "这些都能使你们不洁净．凡摸了死的、必不洁净到晚上。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "凡拿了死的、必不洁净到晚上、并要洗衣服。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "凡走兽分蹄不成两瓣、也不倒嚼的、是与你们不洁净．凡摸了的、就不洁净。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "凡四足的走兽、用掌行走的、是与你们不洁净．摸其尸的、必不洁净到晚上。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "拿其尸的、必不洁净到晚上、并要洗衣服．这些是与你们不洁净的。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "地上爬物、与你们不洁净的、乃是这些．鼬鼠、鼫鼠、蜥蜴、与其类．"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "壁虎、龙子、守宫、蛇医、蝘蜓．"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "这些爬物、都是与你们不洁净的．在他死了以后、凡摸了的、必不洁净到晚上。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "其中死了的掉在甚么东西上、这东西就不洁净、无论是木器、衣服、皮子、口袋、不拘是作甚么工用的器皿、须要放在水中、必不洁净到晚上、到晚上才洁净了。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "若有死了掉在瓦器里的、其中不拘有甚么、就不洁净、你们要把这瓦器打破了．"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "其中一切可吃的食物、沾水的就不洁净．并且那样器皿中一切可喝的、也必不洁净。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "其中已死的、若有一点掉在甚么物件上、那物件就不洁净、不拘是炉子、是锅台、就要打碎、都不洁净、也必与你们不洁净。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "但是泉源、或是聚水的池子、仍是洁净．惟挨了那死的、就不洁净。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "若是死的、有一点掉在要种的子粒上、子粒仍是洁净．"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "若水已经浇在子粒上、那死的有一点掉在上头、这子粒就与你们不洁净。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "你们可吃的走兽、若是死了、有人摸他、必不洁净到晚上．"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "有人吃那死了的走兽、必不洁净到晚上、并要洗衣服．拿了死走兽的、必不洁净到晚上、并要洗衣服。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "凡地上的爬物、是可憎的都不可吃。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "凡用肚子行走的、和用四足行走的、或是有许多足的、就是一切爬在地上的、你们都不可吃、因为是可憎的。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "你们不可因甚么爬物、使自己成为可憎的、也不可因这些使自己不洁净、以致染了污秽。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "我是耶和华你们的　神、所以你们要成为圣洁、因为我是圣洁的．你们也不可在地上的爬物污秽自己．"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "我是把你们从埃及地领出来的耶和华、要作你们的　神、所以你们要圣洁、因为我是圣洁的。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "这是走兽、飞鸟、和水中游动的活物、并地上爬物的条例．"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "要把洁净的、和不洁净的、可吃的、与不可吃的活物、都分别出来。"
+  }
+]

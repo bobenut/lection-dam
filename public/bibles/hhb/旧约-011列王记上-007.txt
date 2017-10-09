@@ -1,0 +1,206 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "所罗门为自己建造宫室、十三年方才造成。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "又建造利巴嫩林宫、长一百肘、宽五十肘、高三十肘、有香柏木柱三〔原文作四〕行、柱上有香柏木柁梁。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "其上以香柏木为盖、每行柱子十五根、共有四十五根。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "有窗户三层、窗与窗相对。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "所有的门框、都是厚木见方的、有窗户三层、窗与窗相对。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "并建造有柱子的廊子、长五十肘、宽三十肘．在这廊前又有廊子、廊外有柱子和台阶。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "又建造一廊、其中设立审判的座位、这廊从地到顶、都用香柏木遮蔽。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "廊后院内、有所罗门住的宫室、工作与这工作相同。所罗门又为所娶法老的女儿建造一宫、作法与这廊子一样。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "建造这一切所用的石头、都是宝贵的、是按着尺寸凿成的、是用锯里外锯齐的．从根基直到檐石、从外头直到大院、都是如此。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "根基是宝贵的大石头、有长十肘的、有长八肘的。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "上面有香柏木、和按着尺寸凿成宝贵的石头。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "大院周围有凿成的石头三层、香柏木一层．都照耶和华殿的内院、和殿廊的样式。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "所罗门王差遣人往推罗去、将户兰召了来。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "他是拿弗他利支派中一个寡妇的儿子、他父亲是推罗人、作铜匠的．户兰满有智慧、聪明、技能、善于各样铜作．他来到所罗门王那里、作王一切所要作的。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "他制造两根铜柱、每根高十八肘、围十二肘。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "又用铜铸了两个柱顶安在柱上、各高五肘。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "柱顶上有装修的网子、和拧成的链索、每顶七个。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "网子周围有两行石榴遮盖柱顶．两个柱顶都是如此。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "廊子的柱顶径四肘、刻着百合花。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "两柱顶的鼓肚上、挨着网子、各有两行石榴环绕、两行共有二百。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "他将两根柱子立在殿廊前头、右边立一根、起名叫雅斤．左边立一根、起名叫波阿斯。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "在柱顶上刻着百合花．这样、造柱子的工就完毕了。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "他又铸一个铜海、样式是圆的、高五肘、径十肘、围三十肘。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "在海边之下、周围有野瓜的样式、每肘十瓜、共有两行、是铸海的时候铸上的。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "有十二只铜牛驮海．三只向北、三只向西、三只向南、三只向东、海在牛上、牛尾都向内。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "海厚一掌、边如杯边、又如百合花、可容二千罢特。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "他用铜制造十个盆座．每座长四肘、宽四肘、高三肘。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "座的造法是这样、四面都有心子、心子在边子当中。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "心子上有狮子、和牛、并基路伯、边上有小座、狮子和牛以下、有垂下的璎珞。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "每盆座有四个铜轮、和铜轴．小座的四角上在盆以下、有铸成的盆架、其旁都有璎珞。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "小座高一肘、口是圆的、彷彿座的样式．径一肘半、在口上有雕工、心子是方的不是圆的。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "四个轮子在心子以下、轮轴与座相连、每轮高一肘半。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "轮的样式如同车轮．轴、辋、辐、毂、都是铸的。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "每座四角上都有盆架、是与座一同铸成的。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "座上有圆架、高半肘．座上有橕子和心子、是与座一同铸的。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "在橕子和心子上刻着基路伯、狮子、和棕树．周围有璎珞。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "十个盆座都是这样、铸法、尺寸、样式、相同。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "又用铜制造十个盆、每盆可容四十罢特．盆径四肘、在那十座上、每座安设一盆。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "五个安在殿门的右边、五个放在殿门的左边．又将海放在殿门的右旁、就是南边。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "户兰又造了盆、铲子、和盘子．这样、他为所罗门王作完了耶和华殿的一切工。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "所造的就是两根柱子、和柱上两个如球的顶、并两个盖柱顶的网子、"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "和四百石榴、安在两个网子上、每网两行、盖着两个柱上如球的顶。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "十个座、和其上的十个盆。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "海、和海下的十二只牛。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "盆、铲子、盘子、这一切都是户兰给所罗门王用光亮的铜、为耶和华的殿造成的。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "是遵王命在约但平原、疏割和撒拉但中间、借胶泥铸成的。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "这一切、所罗门都没有过秤因为甚多．铜的轻重也无法可查。"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "所罗门又造耶和华殿里的金坛、和陈设饼的金桌子．"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "内殿前的精金灯台、右边五个、左边五个、并其上的金花、灯盏、蜡剪、"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "与精金的杯、盘、镊子、调羹、火鼎、以及至圣所、内殿的门枢、和外殿的门枢。"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "所罗门王作完了耶和华殿的一切工、就把他父大卫分别为圣的金银、和器皿、都带来放在耶和华殿的府库里。"
+  }
+]

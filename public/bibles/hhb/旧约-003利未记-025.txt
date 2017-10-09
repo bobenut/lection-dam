@@ -1,0 +1,222 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华在西乃山对摩西说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你晓谕以色列人说、你们到了我所赐你们那地的时候、地就要向耶和华守安息。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "六年要耕种田地、也要修理葡萄园、收藏地的出产。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "第七年地要守圣安息、就是向耶和华守的安息、不可耕种田地、也不可修理葡萄园。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "遗落自长的庄稼、不可收割、没有修理的葡萄树、也不可摘取葡萄．这年、地要守圣安息。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "地在安息年所出的、要给你和你的仆人、婢女、雇工人、并寄居的外人当食物。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "这年的土产也要给你的牲畜和你地上的走兽当食物。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "你要计算七个安息年、就是七七年．这便为你成了七个安息年、共是四十九年。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "当年七月初十日、你要大发角声、这日就是赎罪日、要在遍地发出角声。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "第五十年你们要当作圣年、在遍地给一切的居民宣告自由．这年必为你们的禧年、各人要归自己的产业、各归本家。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "第五十年要作为你们的禧年．这年不可耕种、地中自长的、不可收割．没有修理的葡萄树、也不可摘取葡萄。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "因为这是禧年．你们要当作圣年．吃地中自出的土产。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "这禧年、你们各人要归自己的地业。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "你若卖甚么给邻舍、或是从邻舍的手中买甚么、彼此不可亏负。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "你要按禧年以后的年数、向邻舍买．他也要按年数的收成、卖给你。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "年岁若多、要照数加添价值．年岁若少、要照数减去价值．因为他照收成的数目卖给你。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "你们彼此不可亏负、只要敬畏你们的　神、因为我是耶和华你们的　神。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "我的律例你们要遵行、我的典章你们要谨守、就可以在那地上安然居住。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "地必出土产、你们就要吃饱、在那地上安然居住。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "你们若说、这第七年我们不耕种、也不收藏土产、吃甚么呢．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "我必在第六年、将我所命的福赐给你们、地便生三年的土产。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "第八年你们要耕种、也要吃陈粮、等到第九年出产收来的时候、你们还吃陈粮。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "地不可永卖、因为地是我的、你们在我面前是客旅、是寄居的。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "在你们所得为业的全地、也要准人将地赎回。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "你的弟兄。〔“弟兄”指“本国人”说。下同。〕若渐渐穷乏、卖了几分地业、他至近的亲属、就要来把弟兄所卖的赎回。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "若没有能给他赎回的、他自己渐渐富足、能够赎回、"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "就要算出卖地的年数、把余剩年数的价值、还那买主、自己便归回自己的地业。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "倘若不能为自己得回所卖的、仍要存在买主的手里、直到禧年．到了禧年、地业要出买主的手、自己便归回自己的地业。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "人若卖城内的住宅、卖了以后、一年之内可以赎回．在一整年、必有赎回的权柄。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "若在一整年之内不赎回、这城内的房屋、就定准永归买主世世代代为业．在禧年也不得出买主的手。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "但房屋在无城墙的村庄里、要看如乡下的田地一样、可以赎回．到了禧年、都要出买主的手。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "然而利未人所得为业的城邑、其中的房屋、利未人可以随时赎回。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "若是一个利未人不将所卖的房屋赎回、是在所得为业的城内、到了禧年、就要出买主的手．因为利未人城邑的房屋、是他们在以色列人中的产业。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "只是他们各城郊野之地、不可卖、因为是他们永远的产业。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "你的弟兄在你那里若渐渐贫穷、手中缺乏、你就要帮补他、使他与你同住、像外人和寄居的一样。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "不可向他取利、也不可向他多要．只要敬畏你的　神、使你的弟兄与你同住．"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "你借钱给他、不可向他取利．借粮给他、也不可向他多要。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "我是耶和华你们的　神、曾领你们从埃及地出来、为要把迦南地赐给你们、要作你们的　神。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "你的弟兄若在你那里渐渐穷乏、将自己卖给你、不可叫他像奴仆服事你。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "他要在你那里像雇工人、和寄居的一样、要服事你直到禧年。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "到了禧年、他和他儿女要离开你、一同出去归回本家、到他祖宗的地业那里去．"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "因为他们是我的仆人、是我从埃及地领出来的、不可卖为奴仆．"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "不可严严地辖管他．只要敬畏你的　神。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "至于你的奴仆、婢女、可以从你四围的国中买。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "并且那寄居在你们中间的外人、和他们的家属、在你们地上所生的、你们也可以从其中买人、他们要作你们的产业。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "你们要将他们遗留给你们的子孙为产业．要永远从他们中间拣出奴仆．只是你们的弟兄以色列人、你们不可严严的辖管。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "住在你那里的外人、或是寄居的、若渐渐富足、你的弟兄却渐渐穷乏、将自己卖给那外人、或是寄居的、或是外人的宗族、"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "卖了以后、可以将他赎回．无论是他的弟兄、"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "或伯叔、伯叔的儿子、本家的近支、都可以赎他．他自己若渐渐富足、也可以自赎。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "他要和买主计算、从卖自己的那年起、算到禧年．所卖的价值照着年数多少、好像工人每年的工价。"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "若缺少的年数多、就要按着年数、从买价中偿还他的赎价。"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "若到禧年只缺少几年、就要按着年数、和买主计算、偿还他的赎价。"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": "他和买主同住、要像每年雇的工人、买主不可严严的辖管他。"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": "他若不这样被赎、到了禧年、要和他的儿女一同出去．"
+  },
+  {
+    "sectionNo": "55",
+    "sectionContent": "因为以色列人都是我的仆人、是我从埃及地领出来的．我是耶和华你们的　神。"
+  }
+]

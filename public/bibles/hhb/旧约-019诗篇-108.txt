@@ -1,0 +1,54 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔大卫的诗歌。〕　神阿、我心坚定．我口〔原文作荣耀〕要唱诗歌颂。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "琴瑟阿、你们当醒起．我自己要极早醒起。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "耶和华阿、我要在万民中称谢你、在列邦中歌颂你。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "因为你的慈爱大过诸天．你的诚实达到穹苍。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "神阿、愿你崇高、过于诸天．愿你的荣耀、高过全地。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "求你应允我们、用右手拯救我们、好叫你所亲爱的人得救。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "神已经指着他的圣洁说、〔说或作应许我〕我要欢乐．我要分开示剑、丈量疏割谷。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "基列是我的．玛拿西是我的．以法莲是护卫我头的．犹大是我的杖．"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "摩押是我的沐浴盆．我要向以东抛鞋．我必因胜非利士呼喊。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "谁能领我进坚固城．谁能引我到以东地。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "神阿、你不是丢弃了我们么．　神阿、你不和我们的军兵同去么。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "求你帮助我们攻击敌人、因为人的帮助是枉然的。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "我们倚靠　神、才得施展大能、因为践踏我们敌人的就是他。"
+  }
+]

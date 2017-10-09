@@ -1,0 +1,90 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔大卫在亚比米勒面前装疯、被他赶出去、就作这诗。〕我要时时称颂耶和华．赞美他的话必常在我口中。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "我的心必因耶和华夸耀．谦卑人听见、就要喜乐。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "你们和我当称耶和华为大、一同高举他的名。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "我曾寻求耶和华、他就应允我、救我脱离了一切的恐惧。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "凡仰望他的、便有光荣．他们的脸、必不蒙羞。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "我这困苦人呼求、耶和华便垂听、救我脱离一切患难。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "耶和华的使者、在敬畏他的人四围安营、搭救他们。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "你们要尝尝主恩的滋味、便知道他是美善．投靠他的人有福了。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "耶和华的圣民哪、你们当敬畏他、因敬畏他的一无所缺。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "少壮狮子、还缺食忍饿．但寻求耶和华的、甚么好处都不缺。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "众弟子阿、你们当来听我的话．我要将敬畏耶和华的道、教训你们。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "有何人喜好存活、爱慕长寿、得享美福．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "就要禁止舌头不出恶言、嘴唇不说诡诈的话。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "要离恶行善、寻求和睦、一心追赶。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "耶和华的眼目、看顾义人、他的耳朵、听他们的呼求。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "耶和华向行恶的人变脸、要从世上除灭他们的名号。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "义人呼求、耶和华听见了、便救他们脱离一切患难。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "耶和华靠近伤心的人、拯救灵性痛悔的人。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "义人多有苦难．但耶和华救他脱离这一切．"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "又保全他一身的骨头、连一根也不折断。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "恶必害死恶人．恨恶义人的、必被定罪。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "耶和华救赎他仆人的灵魂．凡投靠他的、必不至定罪。"
+  }
+]

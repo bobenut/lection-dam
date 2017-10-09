@@ -1,0 +1,206 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "为西缅支派的人、按着宗族、拈出第二阄．他们所得的地业、是在犹大人地业中间．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "他们所得为业之地、就是别是巴、（或名示巴)摩拉大、"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "哈萨书亚、巴拉、以森、"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "伊利多拉、比土力、何珥玛、"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "洗革拉、伯玛加博、哈萨苏撒、"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "伯利巴勿、沙鲁险、共十三座城、还有属城的村庄．"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "又有亚因、利门、以帖、亚珊、共四座城、还有属城的村庄．"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "并有这些城邑四围一切的村庄、直到巴拉比珥就是南地的拉玛、这是西缅支派按着宗族所得的地业。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "西缅人的地业、是从犹大人地业中得来的、因为犹大人的分过多、所以西缅人在他们的地业中、得了地业。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "为西布伦人、按着宗族、拈出第三阄．他们地业的境界、是到撒立．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "往西上到玛拉拉、达到大巴设、又达到约念前的河．"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "又从撒立往东转向日出之地、到吉斯绿他泊的境界、又通到大比拉、上到雅非亚。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "从那里往东、接连到迦特希弗、至以特加汛、通到临门、临门延到尼亚、"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "又绕过尼亚的北边、转到哈拿顿、通到伊弗他伊勒谷．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "还有加他、拿哈拉、伸仑、以大拉、伯利恒、共十二座城、还有属城的村庄．"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "这些城、并属城的村庄、就是西布伦人按着宗族所得的地业。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "为以萨迦人、按着宗族、拈出第四阄．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "他们的境界、是到耶斯列、基苏律、书念、"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "哈弗连、示按、亚拿哈拉、"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "拉璧、基善、亚别、"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "利篾、隐干宁、隐哈大、伯帕薛、"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "又达到他泊、沙哈洗玛、伯示麦、直通到约但河为止、共十六座城、还有属城的村庄．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "这些城并属城的村庄、就是以萨迦支派按着宗族所得的地业。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "为亚设支派、按着宗族、拈出第五阄．"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "他们的境界、是黑甲、哈利、比田、押煞、"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "亚拉米勒、亚末、米沙勒．往西达到迦密、又到希曷立纳、"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "转向日出之地、到伯大衮、达到细步纶、往北到伊弗他伊勒谷、到伯以墨、和尼业、也通到迦步勒的左边．"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "又到义伯仑、利合、哈们、加拿、直到西顿大城．"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "转到拉玛、和坚固城推罗．又转到何萨、靠近亚革悉一带地方、直通到海．"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "又有乌玛、亚弗、利合、共二十二座城、还有属城的村庄．"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "这些城、并属城的村庄、就是亚设支派按着宗族所得的地业。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "为拿弗他利人、按着宗族、拈出第六阄．"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "他们的境界、是从希利弗、从撒拿音的橡树、从亚大米尼吉和雅比聂、直到拉共、通到约但河．"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "又转向西到亚斯纳他泊、从那里通到户割、南边到西布伦、西边到亚设、又向日出之地、达到约但河那里的犹大．"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "坚固的城、就是西丁、侧耳、哈末、拉甲、基尼烈、"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "亚大玛、拉玛、夏琐、"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "基低斯、以得来、隐夏琐、"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "以利稳、密大伊勒、和琏、伯亚纳、伯示麦、共十九座城、还有属城的村庄．"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "这些城、并属城的村庄、就是拿弗他利支派按着宗族所得的地业。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "为但支派、按着宗族、拈出第七阄．"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "他们地业的境界、是琐拉、以实陶、伊珥示麦、"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "沙拉宾、亚雅仑、伊提拉、"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "以伦亭拿他、以革伦、"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "伊利提基、基比顿、巴拉、"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "伊胡得、比尼比拉、迦特临门、"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "美耶昆、拉昆、并约帕对面的地界。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "但人的地界、越过原得的地界．因为但人上去攻取利善、用刀击杀城中的人、得了那城、住在其中、以他们先祖但的名、将利善改名为但．"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "这些城、并属城的村庄、就是但支派按着宗族所得的地业。"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "以色列人按着境界分完了地业、就在他们中间将地给嫩的儿子约书亚为业．"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "是照耶和华的吩咐、将约书亚所求的城、就是以法莲山地的亭拿西拉城、给了他．他就修那城、住在其中。"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "这就是祭司以利亚撒、和嫩的儿子约书亚、并以色列各支派的族长、在示罗会幕门口、耶和华面前、拈阄所分的地业．这样、他们把地分完了。"
+  }
+]

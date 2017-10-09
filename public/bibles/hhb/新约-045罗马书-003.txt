@@ -1,0 +1,126 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "这样说来、犹太人有甚么长处、割礼有甚么益处呢．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "凡事大有好处．第一是　神的圣言交托他们。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "即便有不信的、这有何妨呢．难道他们的不信、就废掉　神的信么。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "断乎不能．不如说、　神是真实的、人都是虚谎的．如经上所记、『你责备人的时候、显为公义．被人议论的时候、可以得胜。』"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "我且照着人的常话说、我们的不义、若显出　神的义来、我们可以怎么说呢．　神降怒、是他不义么．"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "断乎不是．若是这样、　神怎能审判世界呢。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "若　神的真实、因我的虚谎、越发显出他的荣耀、为甚么我还受审判、好像罪人呢。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "为甚么不说、我们可以作恶以成善呢、这是毁谤我们的人、说我们有这话．这等人定罪、是该当的。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "这却怎么样呢．我们比他们强么．决不是的．因我们已经证明、犹太人和希利尼人都在罪恶之下．"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "就如经上所记、『没有义人、连一个也没有．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "没有明白的、没有寻求　神的．"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "都是偏离正路、一同变为无用．没有行善的、连一个也没有。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "他们的喉咙是敞开的坟墓．他们用舌头弄诡诈．嘴唇里有虺蛇的毒气．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "满口是咒骂苦毒．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "杀人流血他们的脚飞跑．"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "所经过的路、便行残害暴虐的事．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "平安的路、他们未曾知道．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "他们眼中不怕　神。』"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "我们晓得律法上的话、都是对律法以下之人说的、好塞住各人的口、叫普世的人都伏在　神审判之下．"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "所以凡有血气的没有一个、因行律法、能在　神面前称义．因为律法本是叫人知罪。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "但如今　神的义在律法以外已经显明出来、有律法和先知为证．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "就是　神的义、因信耶稣基督、加给一切相信的人、并没有分别．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "因为世人都犯了罪、亏缺了　神的荣耀。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "如今却蒙　神的恩典、因基督耶稣的救赎、就白白的称义。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "神设立耶稣作挽回祭、是凭着耶稣的血、借着人的信、要显明　神的义．因为他用忍耐的心、宽容人先时所犯的罪．"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "好在今时显明他的义、使人知道他自己为义、也称信耶稣的人为义。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "既是这样、那里能夸口呢．没有可夸的了。用何法没有的呢、是用立功之法么．不是、乃用信主之法。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "所以〔有古卷作因为〕我们看定了、人称义是因着信、不在乎遵行律法。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "难道　神只作犹太人的　神么．不也是作外邦人的　神么．是的、也作外邦人的　神。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "神既是一位、他就要因信称那受割礼的为义、也要因信称那未受割礼的为义。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "这样、我们因信废了律法么．断乎不是、更是坚固律法。"
+  }
+]

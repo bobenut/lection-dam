@@ -1,0 +1,146 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华的话又临到我说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "人子阿、要为推罗作起哀歌、"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "说、你居住海口、是众民的商埠、你的交易通到许多的海岛．主耶和华如此说、推罗阿、你曾说、我是全然美丽的。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "你的境界在海中．造你的使你全然美丽。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "他们用示尼珥的松树作你的一切板．用利巴嫩的香柏树作桅杆．"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "用巴珊的橡树作你的桨．用象牙镶嵌基提海岛的黄杨木为坐板。〔坐板或作舱板〕"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "你的篷帆、是用埃及绣花细麻布作的、可以作你的大旗、你的凉棚是用以利沙岛的蓝色紫色布作的。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "西顿和亚发的居民、作你荡桨的．推罗阿、你中间的智慧人作掌舵的。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "迦巴勒的老者、和聪明人、都在你中间作补缝的．一切泛海的船只、和水手、都在你中间经营交易的事。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "波斯人、路德人、弗人、在你军营中作战士．他们在你中间悬挂盾牌和头盔、彰显你的尊荣。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "亚发人和你的军队都在你四围的墙上、你的望楼也有勇士、他们悬挂盾牌、成全你的美丽。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "他施人因你多有各类的财物、就作你的客商．拿银、铁、锡、铅、兑换你的货物。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "雅完人、土巴人、米设人、都与你交易．他们用人口和铜器、兑换你的货物。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "陀迦玛族用马和战马并骡子、兑换你的货物。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "底但人与你交易、许多海岛作你的码头、他们拿象牙、乌木与你兑换。〔兑换或作进贡〕"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "亚兰人、因你的工作很多、就作你的客商．他们用绿宝石、紫色布绣货、细麻布、珊瑚、红宝石、兑换你的货物。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "犹大和以色列地的人、都与你交易．他们用米匿的麦子、饼、蜜、油、乳香、兑换你的货物。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "大马色人因你的工作很多、又因你多有各类的财物、就拿黑本酒、和白羊毛、与你交易。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "威但人、和雅完人、拿纺成的线、亮铁、桂皮、菖蒲、兑换你的货物。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "底但人、用高贵的毯子、鞍、屉、与你交易。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "亚拉伯人、和基达的一切首领、都作你的客商．用羊羔、公绵羊、公山羊、与你交易。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "示巴和拉玛的商人与你交易．他们用各类上好的香料、各类的宝石、和黄金、兑换你的货物。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "哈兰人、干尼人、伊甸人、示巴的商人、和亚述人、基抹人、与你交易。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "这些商人以美好的货物、包在绣花蓝色包袱内、又有华丽的衣服、装在香柏木的箱子里、用绳捆着、与你交易。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "他施的船只接连成帮为你运货、你便在海中丰富极其荣华。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "荡桨的已经把你荡到大水之处．东风在海中将你打破。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "你的资财、物件、货物、水手、掌舵的、补缝的、经营交易的、并你中间的战士、和人民、在你破坏的日子必都沉在海中。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "你掌舵的呼号之声一发、郊野都必震动。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "凡荡桨的、和水手、并一切泛海掌舵的、都必下船登岸。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "他们必为你放声痛哭、把尘土撒在头上、在灰中打滚。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "又为你使头上光秃、用麻布束腰、号咷痛哭、苦苦悲哀。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "他们哀号的时候、为你作起哀歌哀哭、说、有何城如推罗、有何城如他在海中成为寂寞的呢。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "你由海上运出货物、就使许多国民充足．你以许多资财、货物、使地上的君王丰富。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "你在深水中被海浪打破的时候、你的货物、和你中间的一切人民、就都沉下去了。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "海岛的居民为你惊奇．他们的君王都甚恐慌、面带愁容。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "各国民中的客商、都向你发嘶声．你令人惊恐、不再存留于世、直到永远。"
+  }
+]

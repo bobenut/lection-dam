@@ -1,0 +1,98 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华对挪亚说、你和你的全家都要进入方舟、因为在这世代中、我见你在我面前是义人。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "凡洁净的畜类、你要带七公七母．不洁净的畜类、你要带一公一母．"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "空中的飞鸟、也要带七公七母、可以留种、活在全地上、"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "因为再过七天、我要降雨在地上四十昼夜、把我所造的各种活物、都从地上除灭。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "挪亚就遵着耶和华所吩咐的行了。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "当洪水泛滥在地上的时候、挪亚整六百岁。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "挪亚就同他的妻、和儿子、儿妇、都进入方舟、躲避洪水。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "洁净的畜类、和不洁净的畜类、飞鸟并地上一切的昆虫、"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "都是一对一对的、有公有母、到挪亚那里进入方舟、正如　神所吩咐挪亚的。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "过了那七天、洪水泛滥在地上。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "当挪亚六百岁、二月十七日那一天、大渊的泉源、都裂开了、天上的窗户、也敞开了。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "四十昼夜降大雨在地上。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "正当那日、挪亚和他三个儿子、闪、含、雅弗、并挪亚的妻子、和三个儿妇、都进入方舟。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "他们和百兽、各从其类、一切牲畜、各从其类、爬在地上的昆虫、各从其类、一切禽鸟、各从其类、都进入方舟。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "凡有血肉、有气息的活物、都一对一对的到挪亚那里、进入方舟。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "凡有血肉进入方舟的、都是有公有母、正如　神所吩咐挪亚的．耶和华就把他关在方舟里头。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "洪水泛滥在地上四十天、水往上长、把方舟从地上漂起。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "水势浩大、在地上大大的往上长、方舟在水面上漂来漂去。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "水势在地上极其浩大、天下的高山都淹没了。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "水势比山高过十五肘、山岭都淹没了。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "凡在地上有血肉的动物、就是飞鸟、牲畜、走兽、和爬在地上的昆虫、以及所有的人都死了。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "凡在旱地上、鼻孔有气息的生灵都死了。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "凡地上各类的活物、连人带牲畜、昆虫、以及空中的飞鸟、都从地上除灭了、只留下挪亚和那些与他同在方舟里的。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "水势浩大、在地上共一百五十天。"
+  }
+]

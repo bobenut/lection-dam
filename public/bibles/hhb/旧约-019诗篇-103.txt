@@ -1,0 +1,90 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔大卫的诗。〕我的心哪、你要称颂耶和华．凡在我里面的、也要称颂他的圣名。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "我的心哪、你要称颂耶和华、不可忘记他的一切恩惠。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "他赦免你的一切罪孽、医治你的一切疾病。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "他救赎你的命脱离死亡、以仁爱和慈悲为你的冠冕。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "他用美物、使你所愿的得以知足、以致你如鹰返老还童。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "耶和华施行公义、为一切受屈的人伸冤。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他使摩西知道他的法则、叫以色列人晓得他的作为。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "耶和华有怜悯、有恩典、不轻易发怒、且有丰盛的慈爱。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "他不长久责备、也不永远怀怒。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "他没有按我们的罪过待我们、也没有照我们的罪孽报应我们。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "天离地何等的高、他的慈爱向敬畏他的人、也是何等的大。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "东离西有多远、他叫我们的过犯、离我们也有多远。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "父亲怎样怜恤他的儿女、耶和华也怎样怜恤敬畏他的人。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "因为他知道我们的本体、思念我们不过是尘土。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "至于世人、他的年日如草一样．他发旺如野地的花。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "经风一吹、便归无有．他的原处、也不再认识他。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "但耶和华的慈爱、归于敬畏他的人、从亘古到永远．他的公义、也归于子子孙孙．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "就是那些遵守他的约、记念他的训词而遵行的人。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "耶和华在天上立定宝座．他的权柄〔原文作国〕统管万有。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "听从他命令成全他旨意有大能的天使、都要称颂耶和华。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "你们作他的诸军作他的仆役行他所喜悦的、都要称颂耶和华。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "你们一切被他造的、在他所治理的各处、都要称颂耶和华．我的心哪、你要称颂耶和华。"
+  }
+]

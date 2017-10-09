@@ -1,0 +1,26 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔大卫的诗、交与伶长。〕耶和华阿、你忘记我要到几时呢．要到永远么．你掩面不顾我要到几时呢．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "我心里筹算、终日愁苦、要到几时呢．我的仇敌升高压制我、要到几时呢。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "耶和华我的　神阿、求你看顾我、应允我、使我眼目光明、免得我沉睡至死．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "免得我的仇敌说、我胜了他．免得我的敌人在我摇动的时候喜乐。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "但我倚靠你的慈爱．我的心因你的救恩快乐。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "我要向耶和华歌唱、因他用厚恩待我。"
+  }
+]

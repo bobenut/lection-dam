@@ -1,0 +1,154 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "比撒列和亚何利亚伯、并一切心里有智慧的、就是蒙耶和华赐智慧聪明、叫他知道作圣所各样使用之工的、都要照耶和华所吩咐的作工。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "凡耶和华赐他心里有智慧、而且受感前来作这工的、摩西把他们和比撒列、并亚何利亚伯、一同召来。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "这些人就从摩西收了以色列人为作圣所、并圣所使用之工所拿来的礼物。百姓每早晨、还把甘心献的礼物拿来。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "凡作圣所一切工的智慧人、各都离开他所作的工、"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "来对摩西说、百姓为耶和华吩咐使用之工所拿来的、富富有余。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "摩西传命、他们就在全营中宣告说、无论男女、不必再为圣所拿甚么礼物来．这样才拦住百姓不再拿礼物来。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "因为他们所有的材料、够作一切当作的物、而且有余。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "他们中间凡心里有智慧作工的、用十幅幔子作帐幕．这幔子是比撒列用捻的细麻、和蓝色紫色朱红色线制造的、并用巧匠的手工绣上基路伯。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "每幅幔子长二十八肘、宽四肘．都是一样的尺寸。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "他使这五幅幔子、幅幅相连、又使那五幅幔子、幅幅相连．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "在这相连的幔子末幅边上、作蓝色的钮扣、在那相连的幔子末幅边上、也照样作。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "在这相连的幔子上、作五十个钮扣、在那相连的幔子上、也作五十个钮扣、都是两两相对。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "又作五十个金钩、使幔子相连．这才成了一个帐幕。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "他用山羊毛织十一幅幔子、作为帐幕以上的罩棚．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "每幅幔子长三十肘、宽四肘、十一幅幔子、都是一样的尺寸。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "他把五幅幔子连成一幅、又把六幅幔子连成一幅。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "在这相连的幔子末幅边上、作五十个钮扣、在那相连的幔子末幅边上、也作五十个钮扣．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "又作五十个铜钩、使罩棚连成一个。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "并用染红的公羊皮作罩棚的盖、再用海狗皮作一层罩棚上的顶盖。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "他用皂荚木作帐幕的竖板。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "每块长十肘、宽一肘半．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "每块有两榫相对、帐幕一切的板都是这样作。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "帐幕的南面、作板二十块。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "在这二十块板底下、又作四十个带卯的银座、两卯接这块板上的两榫、两卯接那块板上的两榫。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "帐幕的第二面、就是北面、也作板二十块、"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "和带卯的银座四十个．这板底下有两卯、那板底下也有两卯。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "帐幕的后面、就是西面、作板六块。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "帐幕后面的拐角、作板两块。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "板的下半截是双的、上半截是整的、直到第一个环子、在帐幕的两个拐角上、都是这样作。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "有八块板、和十六个带卯的银座．每块板底下有两卯。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "他用皂荚木作闩．为帐幕这面的板作五闩、"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "为帐幕那面的板作五闩．又为帐幕后面的板作五闩．"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "使板腰间的中闩、从这一头通到那一头。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "用金子将板包裹．又作板上的金环套闩．闩也用金子包裹。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "他用蓝色紫色朱红色线、和捻的细麻织幔子．以巧匠的手工绣上基路伯。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "为幔子作四根皂荚木柱子、用金包裹．柱子上有金钩．又为柱子铸了四个带卯的银座。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "拿蓝色紫色朱红色线、和捻的细麻、用绣花的手工织帐幕的门帘。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "又为帘子作五根柱子、和柱子上的钩子、用金子把柱顶、和柱子上的杆子包裹．柱子有五个带卯的座、是铜的。"
+  }
+]

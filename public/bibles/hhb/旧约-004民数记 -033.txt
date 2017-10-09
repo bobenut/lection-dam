@@ -1,0 +1,226 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "以色列人按着军队、在摩西、亚伦的手下出埃及地所行的路程、〔或作站口下同〕记在下面。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "摩西遵着耶和华的吩咐记载他们所行的路程、其路程乃是这样．"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "正月十五日、就是逾越节的次日、以色列人从兰塞起行、在一切埃及人眼前、昂然无惧地出去。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "那时、埃及人正葬埋他们的长子、就是耶和华在他们中间所击杀的．耶和华也败坏他们的神。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "以色列人从兰塞起行、安营在疏割。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "从疏割起行、安营在旷野边的以倘。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "从以倘起行、转到比哈希录、是在巴力洗分对面、就在密夺安营。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "从比哈希录对面起行、经过海中到了书珥旷野．又在伊坦的旷野走了三天的路程、就安营在玛拉。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "从玛拉起行、来到以琳、以琳有十二股水泉、七十棵棕树、就在那里安营。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "从以琳起行、安营在红海边。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "从红海边起行、安营在汛的旷野。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "从汛的旷野起行、安营在脱加。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "从脱加起行、安营在亚录。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "从亚录起行、安营在利非订、在那里百姓没有水喝。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "从利非订起行、安营在西乃的旷野。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "从西乃的旷野起行、安营在基博罗哈他瓦。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "从基博罗哈他瓦起行、安营在哈洗录。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "从哈洗录起行、安营在利提玛。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "从利提玛起行、安营在临门帕烈。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "从临门帕烈起行、安营在立拿。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "从立拿起行、安营在勒撒。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "从勒撒起行、安营在基希拉他。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "从基希拉他起行、安营在沙斐山。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "从沙斐山起行、安营在哈拉大。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "从哈拉大起行、安营在玛吉希录。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "从玛吉希录起行、安营在他哈。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "从他哈起行、安营在他拉。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "从他拉起行、安营在密加。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "从密加起行、安营在哈摩拿。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "从哈摩拿起行、安营在摩西录。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "从摩西录起行、安营在比尼亚干。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "从比尼亚干起行、安营在曷哈及甲。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "从曷哈及甲起行、安营在约巴他。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "从约巴他起行、安营在阿博拿。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "从阿博拿起行、安营在以旬迦别。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "从以旬迦别起行、安营在寻的旷野、就是加低斯．"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "从加低斯起行、安营在何珥山、以东地的边界。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "以色列人出了埃及地后四十年、五月初一日、祭司亚伦遵着耶和华的吩咐、上何珥山就死在那里。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "亚伦死在何珥山的时候、年一百二十三岁。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "住在迦南南地的迦南人亚拉得王、听说以色列人来了。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "以色列人从何珥山起行、安营在撒摩拿。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "从撒摩拿起行、安营在普嫩。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "从普嫩起行、安营在阿伯。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "从阿伯起行、安营在以耶亚巴琳、摩押的边界。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "从以耶亚巴琳起行、安营在底本迦得。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "从底本迦得起行、安营在亚门低比拉太音。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "从亚门低比拉太音起行、安营在尼波对面的亚巴琳山里。"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "从亚巴琳山起行、安营在摩押平原、约但河边耶利哥对面。"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "他们在摩押平原沿约但河边安营、从伯耶施末直到亚伯什亭。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "耶和华在摩押平原约但河边、耶利哥对面晓谕摩西说、"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "你吩咐以色列人说、你们过约但河进迦南地的时候、"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "就要从你们面前赶出那里所有的居民、毁灭他们一切錾成的石像、和他们一切铸成的偶像、又拆毁他们一切的丘坛。"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": "你们要夺那地住在其中、因我把那地赐给你们为业。"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": "你们要按家室拈阄、承受那地、人多的、要把产业多分给他们、人少的、要把产业少分给他们、拈出何地给何人、就要归何人、你们要按宗族的支派承受。"
+  },
+  {
+    "sectionNo": "55",
+    "sectionContent": "倘若你们不赶出那地的居民、所容留的居民、就必作你们眼中的刺、肋下的荆棘、也必在你们所住的地上扰害你们。"
+  },
+  {
+    "sectionNo": "56",
+    "sectionContent": "而且我素常有意怎样待他们、也必照样待你们。"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "利慕伊勒王的言语、是他母亲教训他的真言。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "我的儿阿、我腹中生的儿阿、我许愿得的儿阿、我当怎样教训你呢．"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "不要将你的精力给妇女、也不要有败坏君王的行为。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "利慕伊勒阿、君王喝酒、君王喝酒不相宜．王子说、浓酒在那里也不相宜．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "恐怕喝了就忘记律例、颠倒一切困苦人的是非．"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "可以把浓酒给将亡的人喝．把清酒给苦心的人喝．"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "让他喝了、就忘记他的贫穷、不再记念他的苦楚。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "你当为哑巴〔或作不能自辩的〕开口．为一切孤独的伸冤。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "你当开口按公义判断、为困苦和穷乏的辨屈。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "才德的妇人谁能得着呢．他的价值远胜过珍珠．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "他丈夫心里倚靠他、必不缺少利益．"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "他一生使丈夫有益无损．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "他寻找羊绒和麻、甘心用手作工．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "他好像商船从远方运粮来．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "未到黎明他就起来、把食物分给家中的人．将当作的工分派婢女。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "他想得田地、就买来．用手所得之利、栽种葡萄园．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "他以能力束腰、使膀臂有力．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "他觉得所经营的有利他的灯终夜不灭。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "他手拿捻线竿．手把纺线车．"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "他张手赒济困苦人．伸手帮补穷乏人。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "他不因下雪为家里的人担心、因为全家都穿着朱红衣服．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "他为自己制作绣花毯子．他的衣服、是细麻和紫色布作的。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "他丈夫在城门口与本地的长老同坐、为众人所认识。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "他作细麻布衣裳出卖．又将腰带卖与商家。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "能力和威仪、是他的衣服．他想到日后的景况就喜笑。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "他开口就发智慧．他舌上有仁慈的法则．"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "他观察家务、并不吃闲饭。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "他的儿女起来称他有福．他的丈夫也称赞他、"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "说、才德的女子很多、惟独你超过一切。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "艳丽是虚假的．美容是虚浮的．惟敬畏耶和华的妇女、必得称赞。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "愿他享受操作所得的．愿他的工作、在城门口荣耀他。"
+  }
+]

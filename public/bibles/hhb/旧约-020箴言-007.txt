@@ -1,0 +1,110 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "我儿、你要遵守我的言语、将我的命令存记在心．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "遵守我的命令、就得存活．保守我的法则〔或作指教〕好像保守眼中的瞳人．"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "系在你指头上、刻在你心版上。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "对智慧说、你是我的姊妹．称呼聪明为你的亲人．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "他就保你远离淫妇、远离说谄媚话的外女。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "我曾在我房屋的窗户内、从我窗棂之间、往外观看．"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "见愚蒙人内、少年人中、分明有一个无知的少年人、"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "从街上经过、走近淫妇的巷口、直往通他家的路去、"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "在黄昏、或晚上、或半夜、或黑暗之中、"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "看哪、有一个妇人来迎接他、是妓女的打扮、有诡诈的心思。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "这妇人喧嚷不守约束、在家里停不住脚．"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "有时在街市上、有时在宽阔处、或在各巷口蹲伏．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "拉住那少年人、与他亲嘴、脸无羞耻对他说、"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "平安祭在我这里．今日才还了我所许的愿。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "因此、我出来迎接你、恳切求见你的面、恰巧遇见了你。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "我已经用绣花毯子、和埃及线织的花纹布、铺了我的床。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "我又用没药、沉香、桂皮薰了我的榻。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "你来、我们可以饱享爱情、直到早晨．我们可以彼此亲爱欢乐。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "因为我丈夫不在家、出门行远路．"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "他手拿银囊．必到月望才回家。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "淫妇用许多巧言诱他随从、用谄媚的嘴逼他同行。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "少年人立刻跟随他、好像牛往宰杀之地、又像愚昧人带锁链、去受刑罚．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "直等箭穿他的肝、如同雀鸟急入网罗、却不知是自丧己命。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "众子阿、现在要听从我、留心听我口中的话。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "你的心、不可偏向淫妇的道．不要入他的迷途。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "因为被他伤害仆倒的不少．被他杀戮的而且甚多。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "他的家是在阴间之路、下到死亡之宫。"
+  }
+]

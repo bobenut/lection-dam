@@ -1,0 +1,186 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶稣又用比喻对他们说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "天国好比一个王、为他儿子摆设娶亲的筵席。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "就打发仆人去、请那些被召的人来赴席．他们却不肯来。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "王又打发别的仆人说、你们告诉那被召的人、我的筵席已经预备好了、牛和肥畜已经宰了、各样都齐备．请你们来赴席。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "那些人不理就走了．一个到自己田里去．一个作买卖去．"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "其余的拿住仆人、凌辱他们、把他们杀了。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "王就大怒、发兵除灭那些凶手、烧毁他们的城。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "于是对仆人说、喜筵已经齐备、只是所召的人不配。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "所以你们要往岔路口上去、凡遇见的、都召来赴席。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "那些仆人就出去到大路上、凡遇见的、不论善恶都召聚了来．筵席上就坐满了客。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "王进来观看宾客、见那里有一个没有穿礼服的。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "就对他说、朋友、你到这里来、怎么不穿礼服呢。那人无言可答。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "于是王对使唤的人说、捆起他的手脚来、把他丢在外边的黑暗里．在那里必要哀哭切齿了。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "因为被召的人多、选上的人少。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "当时、法利赛人出去商议、怎样就着耶稣的话陷害他。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "就打发他们的门徒、同希律党的人、去见耶稣说、夫子、我们知道你是诚实人、并且诚诚实实传　神的道、甚么人你都不徇情面、因为你不看人的外貌。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "请告诉我们、你的意见如何．纳税给该撒、可以不可以。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "耶稣看出他们的恶意、就说、假冒为善的人哪、为甚么试探我．"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "拿一个上税的钱给我看。他们就拿一个银钱来给他。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "耶稣说、这像和这号是谁的。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "他们说、是该撒的。耶稣说、这样、该撒的物当归给该撒、　神的物当归给　神。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "他们听见就希奇、离开他走了。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "撒都该人常说没有复活的事。那天、他们来问耶稣说、"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "夫子、摩西说、人若死了、没有孩子、他兄弟当娶他的妻、为哥哥生子立后。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "从前在我们这里、有弟兄七人．第一个娶了妻、死了、没有孩子、撇下妻子给兄弟。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "第二第三直到第七个、都是如此。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "末后、妇人也死了。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "这样、当复活的时候、他是七个人中、那一个的妻子呢．因为他们都娶过他。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "耶稣回答说、你们错了．因为不明白圣经、也不晓得　神的大能。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "当复活的时候、人也不娶也不嫁、乃像天上的使者一样。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "论到死人复活、　神在经上向你们所说的、你们没有念过么。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "他说、『我是亚伯拉罕的　神、以撒的　神、雅各的　神。』　神不是死人的　神、乃是活人的　神。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "众人听见这话、就希奇他的教训。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "法利赛人听见耶稣堵住了撒都该人的口、他们就聚集。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "内中有一个人是律法师、要试探耶稣、就问他说、"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "夫子、律法上的诫命、那一条是最大的呢。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "耶稣对他说、你要尽心、尽性、尽意、爱主你的　神。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "这是诫命中的第一、且是最大的。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "其次也相仿、就是要爱人如己。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "这两条诫命、是律法和先知一切道理的总纲。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "法利赛人聚集的时候、耶稣问他们说、"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "论到基督、你们的意见如何．他是谁的子孙呢。他们回答说、是大卫的子孙。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "耶稣说、这样、大卫被圣灵感动、怎么还称他为主．说、"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "『主对我主说、你坐在我的右边、等我把你仇敌、放在你的脚下。』"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "大卫既称他为主、他怎么又是大卫的子孙呢。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "他们没有一个人能回答一言．从那日以后、也没有人敢再问他甚么。"
+  }
+]

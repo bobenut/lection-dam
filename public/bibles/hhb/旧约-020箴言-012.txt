@@ -1,0 +1,114 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "喜爱管教的、就是喜爱知识．恨恶责备的、却是畜类。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "善人必蒙耶和华的恩惠．设诡计的人、耶和华必定他的罪。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "人靠恶行不能坚立．义人的根必不动摇。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "才德的妇人、是丈夫的冠冕．贻羞的妇人、如同朽烂在他丈夫的骨中。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "义人的思念是公平．恶人的计谋是诡诈。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "恶人的言论、是埋伏流人的血．正直人的口、必拯救人。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "恶人倾覆、归于无有．义人的家、必站得住。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "人必按自己的智慧被称赞．心中乖谬的、必被藐视。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "被人轻贱、却有仆人、强如自尊、缺少食物。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "义人顾惜他牲畜的命．恶人的怜悯、也是残忍。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "耕种自己田地的、必得饱食．追随虚浮的、却是无知。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "恶人想得坏人的网罗．义人的根、得以结实。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "恶人嘴中的过错、是自己的网罗．但义人必脱离患难。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "人因口所结的果子、必饱得美福．人手所作的、必为自己的报应。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "愚妄人所行的、在自己眼中看为正直．惟智慧人、肯听人的劝教。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "愚妄人的恼怒、立时显露．通达人能忍辱藏羞。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "说出真话的、显明公义．作假见证的、显出诡诈。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "说话浮躁的、如刀刺人．智慧人的舌头、却为医人的良药。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "口吐真言、永远坚立．舌说谎话、只存片时。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "图谋恶事的、心存诡诈．劝人和睦的、便得喜乐。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "义人不遭灾害．恶人满受祸患。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "说谎言的嘴、为耶和华所憎恶．行事诚实的、为他所喜悦。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "通达人隐藏知识．愚昧人的心、彰显愚昧。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "殷勤人的手必掌权．懒惰的人必服苦。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "人心忧虑、屈而不伸．一句良言、使心欢乐。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "义人引导他的邻舍．恶人的道、叫人失迷。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "懒惰的人、不烤打猎所得的．殷勤的人、却得宝贵的财物。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "在公义的道上有生命．其路之中、并无死亡。"
+  }
+]

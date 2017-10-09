@@ -1,0 +1,142 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "智慧妇人、建立家室．愚妄妇人、亲手拆毁。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "行动正直的、敬畏耶和华．行事乖僻的、却藐视他。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "愚妄人口中骄傲、如杖责打己身．智慧人的嘴、必保守自己。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "家里无牛、槽头干净．土产加多、乃凭牛力。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "诚实见证人、不说谎话．假见证人、吐出谎言。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "亵慢人寻智慧、却寻不着．聪明人易得知识。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "到愚昧人面前、不见他嘴中有知识。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "通达人的智慧、在乎明白己道．愚昧人的愚妄、乃是诡诈．〔或作自欺〕"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "愚妄人犯罪、以为戏耍．〔或作赎愆祭愚弄愚妄人〕正直人互相喜悦。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "心中的苦楚、自己知道．心里的喜乐、外人无干。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "奸恶人的房屋必倾倒．正直人的帐棚必兴盛。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "有一条路人以为正．至终成为死亡之路。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "人在喜笑中、心也忧愁．快乐至极、就生愁苦。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "心中背道的、必满得自己的结果．善人必从自己的行为得以知足。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "愚蒙人是话都信．通达人步步谨慎。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "智慧人惧怕、就远离恶事．愚妄人却狂傲自恃。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "轻易发怒的、行事愚妄．设立诡计的、被人恨恶。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "愚蒙人得愚昧为产业．通达人得知识为冠冕。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "坏人俯伏在善人面前．恶人俯伏在义人门口。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "贫穷人连邻舍也恨他．富足人朋友最多。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "藐视邻舍的、这人有罪．怜悯贫穷的、这人有福。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "谋恶的岂非走入迷途么．谋善的必得慈爱和诚实。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "诸般勤劳、都有益处．嘴上多言、乃致穷乏。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "智慧人的财、为自己的冠冕．愚妄人的愚昧、终是愚昧。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "作真见证的、救人性命．吐出谎言的、施行诡诈。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "敬畏耶和华的、大有倚靠．他的儿女、也有避难所。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "敬畏耶和华、就是生命的泉源、可以使人离开死亡的网罗。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "帝王荣耀在乎民多．君王衰败在乎民少。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "不轻易发怒的、大有聪明．性情暴躁的、大显愚妄。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "心中安静、是肉体的生命．嫉妒是骨中的朽烂。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "欺压贫寒的、是辱没造他的主．怜悯穷乏的、乃是尊敬主。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "恶人在所行的恶上、必被推倒．义人临死、有所投靠。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "智慧存在聪明人心中．愚昧人心里所存的、显而易见。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "公义使邦国高举．罪恶是人民的羞辱。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "智慧的臣子、蒙王恩惠．贻羞的仆人、遭其震怒。"
+  }
+]

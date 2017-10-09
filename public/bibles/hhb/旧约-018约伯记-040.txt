@@ -1,0 +1,98 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华又对约伯说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "强辩的、岂可与全能者争论么．与　神辩驳的、可以回答这些吧。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "于是约伯回答耶和华说、"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "我是卑贱的．我用甚么回答你呢．只好用手摀口。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "我说了一次、再不回答．说了两次、就不再说。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "于是耶和华从旋风中回答约伯、说、"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "你要如勇士束腰．我问你、你可以指示我。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "你岂可废弃我所拟定的．岂可定我有罪、好显自己为义么。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "你有　神那样的膀臂么．你能像他发雷声么。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "你要以荣耀庄严为妆饰、以尊荣威严为衣服．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "要发出你满溢的怒气、见一切骄傲的人、使他降卑．"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "见一切骄傲的人、将他制伏、把恶人践踏在本处．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "将他们一同隐藏在尘土中、把他们的脸蒙蔽在隐密处．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "我就认你右手能以救自己。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "你且观看河马．我造你也造他．他吃草与牛一样。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "他的气力在腰间、能力在肚腹的筋上。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "他摇动尾巴如香柏树．他大腿的筋互相联络。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "他的骨头好像铜管．他的肢体彷彿铁棍。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "他在　神所造的物中为首．创造他的给他刀剑。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "诸山给他出食物、也是百兽游玩之处。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "他伏在莲叶之下、卧在芦苇隐密处、和水洼子里。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "莲叶的阴凉遮蔽他、溪旁的柳树环绕他。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "河水泛滥、他不发战、就是约但河的水涨到他口边、也是安然。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "在他防备的时候谁能捉拿他、谁能牢笼他穿他的鼻子呢。"
+  }
+]

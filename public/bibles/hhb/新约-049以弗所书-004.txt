@@ -1,0 +1,130 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "我为主被囚的劝你们、既然蒙召、行事为人就当与蒙召的恩相称．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "凡事谦虚、温柔、忍耐、用爱心互相宽容、"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "用和平彼此联络、竭力保守圣灵所赐合而为一的心。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "身体只有一个、圣灵只有一个、正如你们蒙召、同有一个指望、"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "一主、一信、一洗、"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "一　神、就是众人的父、超乎众人之上、贯乎众人之中、也住在众人之内。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "我们各人蒙恩、都是照基督所量给各人的恩赐。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "所以经上说、『他升上高天的时候、掳掠了仇敌、将各样的恩赐赏给人。』"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "（既说升上、岂不是先降在地下么．"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "那降下的、就是远升诸天之上要充满万有的。)"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "他所赐的有使徒、有先知．有传福音的．有牧师和教师．"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "为要成全圣徒、各尽其职、建立基督的身体．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "直等到我们众人在真道上同归于一、认识　神的儿子、得以长大成人、满有基督长成的身量．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "使我们不再作小孩子、中了人的诡计、和欺骗的法术、被一切异教之风摇动、飘来飘去、就随从各样的异端．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "惟用爱心说诚实话、凡事长进、连于元首基督．"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "全身都靠他联络得合式、百节各按各职、照着各体的功用、彼此相助、便叫身体渐渐增长、在爱中建立自己。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "所以我说、且在主里确实的说、你们行事、不要再像外邦人存虚妄的心行事．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "他们心地昏昧、与　神所赐的生命隔绝了、都因自己无知、心里刚硬．"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "良心既然丧尽、就放纵私欲、贪行种种的污秽。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "你们学了基督、却不是这样．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "如果你们听过他的道、领了他的教、学了他的真理、"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "就要脱去你们从前行为上的旧人．这旧人是因私欲的迷惑、渐渐变坏的．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "又要将你们的心志改换一新．"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "并且穿上新人．这新人是照着　神的形像造的、有真理的仁义、和圣洁。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "所以你们要弃绝谎言、各人与邻舍说实话．因为我们是互相为肢体。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "生气却不要犯罪．不可含怒到日落．"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "也不可给魔鬼留地步。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "从前偷窃的、不要再偷．总要劳力、亲手作正经事、就可有余、分给那缺少的人。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "污秽的言语、一句不可出口、只要随事说造就人的好话、叫听见的人得益处。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "不要叫　神的圣灵担忧．你们原是受了他的印记、等候得赎的日子来到。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "一切苦毒、恼恨、忿怒、嚷闹、毁谤、并一切的恶毒、〔或作阴毒〕都当从你们中间除掉．"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "并要以恩慈相待、存怜悯的心、彼此饶恕、正如　神在基督里饶恕了你们一样。"
+  }
+]

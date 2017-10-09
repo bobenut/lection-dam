@@ -1,0 +1,86 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "书亚人比勒达回答说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你寻索言语要到几时呢．你可以揣摩思想、然后我们就说话。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "我们为何算为畜生、在你眼中看作污秽呢。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "你这恼怒将自己撕裂的、难道大地为你见弃、磐石挪开原处么。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "恶人的亮光、必要熄灭、他的火焰、必不照耀。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "他帐棚中的亮光、要变为黑暗．他以上的灯、也必熄灭。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他坚强的脚步、必见狭窄、自己的计谋、必将他绊倒。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "因为他被自己的脚陷入网中、走在缠人的网罗上。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "圈套必抓住他的脚跟、机关必擒获他。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "活扣为他藏在土内、羁绊为他藏在路上。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "四面的惊吓要使他害怕、并且追赶他的脚跟。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "他的力量必因饥饿衰败、祸患要在他旁边等候。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "他本身的肢体要被吞吃、死亡的长子要吞吃他的肢体。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "他要从所倚靠的帐棚被拔出来、带到惊吓的王那里。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "不属他的必住在他的帐棚里．硫磺必撒在他所住之处。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "下边、他的根本要枯干．上边、他的枝子要剪除。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "他的记念、在地上必然灭亡、他的名字、在街上也不存留。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "他必从光明中被撵到黑暗里、必被赶出世界。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "在本民中必无子无孙、在寄居之地、也无一人存留。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "以后来的、要惊奇他的日子、好像以前去的、受了惊骇。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "不义之人的住处、总是这样、此乃不认识　神之人的地步。"
+  }
+]

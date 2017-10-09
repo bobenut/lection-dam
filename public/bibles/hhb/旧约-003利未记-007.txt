@@ -1,0 +1,154 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "赎愆祭的条例乃是如此．这祭是至圣的。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "人在那里宰燔祭牲、也要在那里宰赎愆祭牲．其血、祭司要洒在坛的周围．"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "又要将肥尾巴、和盖脏的脂油、"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "两个腰子、和腰子上的脂油、就是靠腰两旁的脂油、并肝上的网子、和腰子、一概取下．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "祭司要在坛上焚烧、为献给耶和华的火祭、是赎愆祭。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "祭司中的男丁、都可以吃这祭物、要在圣处吃、是至圣的。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "赎罪祭怎样、赎愆祭也是怎样、两个祭是一个条例．献赎愆祭赎罪的祭司、要得这祭物。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "献燔祭的祭司、无论为谁奉献、要亲自得他所献那燔祭牲的皮。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "凡在炉中烤的素祭、和煎盘中作的、并铁鏊上作的、都要归那献祭的祭司。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "凡素祭、无论是油调和的、是干的、都要归亚伦的子孙、大家均分。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "人献与耶和华平安祭的条例、乃是这样、"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "他若为感谢献上、就要用调油的无酵饼、和抹油的无酵薄饼、并用油调匀细面作的饼、与感谢祭一同献上。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "要用有酵的饼、和为感谢献的平安祭、与供物一同献上。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "从各样的供物中、他要把一个饼献给耶和华为举祭、是要归给洒平安祭牲血的祭司。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "为感谢献平安祭牲的肉、要在献的日子吃、一点不可留到早晨。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "若所献的、是为还愿、或是甘心献的、必在献祭的日子吃、所剩下的第二天也可以吃。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "但所剩下的祭肉、到第三天要用火焚烧．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "第三天若吃了平安祭的肉、这祭必不蒙悦纳、人所献的也不算为祭、反为可憎嫌的、吃这祭肉的、就必担当他的罪孽。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "挨了污秽物的肉、就不可吃、要用火焚烧．至于平安祭的肉、凡洁净的人都要吃．"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "只是献与耶和华平安祭的肉、人若不洁净而吃了、这人必从民中剪除。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "有人摸了甚么不洁净的物、或是人的不洁净、或是不洁净的牲畜、或是不洁可憎之物、吃了献与耶和华平安祭的肉、这人必从民中剪除。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "耶和华对摩西说、"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "你晓谕以色列人说、牛的脂油、绵羊的脂油、山羊的脂油、你们都不可吃。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "自死的、和被野兽撕裂的、那脂油可以作别的使用、只是你们万不可吃。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "无论何人吃了献给耶和华当火祭牲畜的脂油、那人必从民中剪除。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "在你们一切的住处、无论是雀鸟的血、是野兽的血、你们都不可吃。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "无论是谁吃血、那人必从民中剪除。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "耶和华对摩西说、"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "你晓谕以色列人说、献平安祭给耶和华的、要从平安祭中取些来、奉给耶和华．"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "他亲手献给耶和华的火祭、就是脂油和胸、要带来、好把胸在耶和华面前作摇祭、摇一摇。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "祭司要把脂油在坛上焚烧、但胸要归亚伦和他的子孙。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "你们要从平安祭中把右腿作举祭、奉给祭司。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "亚伦子孙中、献平安祭牲血和脂油的、要得这右腿为分．"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "因为我从以色列人的平安祭中、取了这摇的胸和举的腿、给祭司亚伦和他子孙、作他们从以色列人中所永得的分。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "这是从耶和华火祭中、作亚伦受膏的分、和他子孙受膏的分、正在摩西〔原文作他〕叫他们前来给耶和华供祭司职分的日子、"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "就是在摩西〔原文作他〕膏他们的日子、耶和华吩咐以色列人给他们的．这是他们世世代代永得的分。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "这就是燔祭、素祭、赎罪祭、赎愆祭、和平安祭的条例、并承接圣职的礼．"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "都是耶和华在西乃山所吩咐摩西的、就是他在西乃旷野吩咐以色列人献供物给耶和华之日所说的。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "我劝你第一要为万人恳求、祷告、代求、祝谢．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "为君王和一切在位的也该如此．使我们可以敬虔端正、平安无事的度日。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "这是好的、在　神我们救主面前可蒙悦纳。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "他愿意万人得救、明白真道．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "因为只有一位　神、在　神和人中间、只有一位中保、乃是降世为人的基督耶稣。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "他舍自己作万人的赎价．到了时候、这事必证明出来。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "我为此奉派、作传道的、作使徒、作外邦人的师傅、教导他们相信、学习真道。我说的是真话、并不是谎言。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "我愿男人无忿怒、无争论、〔争论或作疑惑〕举起圣洁的手、随处祷告。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "又愿女人廉耻、自守、以正派衣裳为妆饰、不以编发、黄金、珍珠、和贵价的衣裳为妆饰．"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "只要有善行．这才与自称是敬　神的女人相宜。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "女人要沉静学道、一味的顺服。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "我不许女人讲道、也不许他辖管男人、只要沉静。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "因为先造的是亚当、后造的是夏娃。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "且不是亚当被引诱、乃是女人被引诱、陷在罪里。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "然而女人若常存信心爱心、又圣洁自守、就必在生产上得救。"
+  }
+]

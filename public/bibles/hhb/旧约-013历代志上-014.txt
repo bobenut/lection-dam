@@ -1,0 +1,70 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "推罗王希兰将香柏木运到大卫那里、又差遣使者、和石匠、木匠给大卫建造宫殿。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "大卫就知道耶和华坚立他作以色列王、又为自己的民以色列、使他的国兴旺。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "大卫在耶路撒冷又立后妃、又生儿女。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "在耶路撒冷所生的众子、是沙母亚、朔罢、拿单、所罗门、"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "益辖、以利书亚、以法列、"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "挪迦、尼斐、雅非亚、"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "以利沙玛、比利雅大、以利法列。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "非利士人听见大卫受膏作以色列众人的王、非利士众人就上来寻索大卫．大卫听见、就出去迎敌。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "非利士人来了、布散在利乏音谷。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "大卫求问　神、说、我可以上去攻打非利士人么．你将他们交在我手里么。耶和华说、你可以上去．我必将他们交在你手里。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "非利士人来到巴力毗拉心、大卫在那里杀败他们．大卫说、　神借我的手冲破敌人、如同水冲去一般。因此称那地方为巴力毗拉心。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "非利士人将神像撇在那里．大卫吩咐人用火焚烧了。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "非利士人又布散在利乏音谷。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "大卫又求问　神．　神说、不要一直地上去．要转到他们后头、从桑林对面攻打他们。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "你听见桑树梢上有脚步的声音、就要出战．因为　神已经在你前头去攻打非利士人的军队。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "大卫就遵着　神所吩咐的、攻打非利士人的军队、从基遍直到基色。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "于是大卫的名传扬到列国．耶和华使列国都惧怕他。"
+  }
+]

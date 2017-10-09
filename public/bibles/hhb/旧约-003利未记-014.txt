@@ -1,0 +1,230 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华晓谕摩西说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "长大痲疯得洁净的日子、其例乃是这样、要带他去见祭司．"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "祭司要出到营外察看．若见他的大痲疯痊癒了、"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "就要吩咐人为那求洁净的、拿两只洁净的活鸟、和香柏木、朱红色线、并牛膝草来。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "祭司要吩咐用瓦器盛活水、把一只鸟宰在上面．"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "至于那只活鸟、祭司要把他和香柏木、朱红色线、并牛膝草、一同蘸于宰在活水上的鸟血中、"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "用以在那长大痲疯求洁净的人身上洒七次、就定他为洁净．又把活鸟放在田野里。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "求洁净的人当洗衣服、剃去毛发、用水洗澡、就洁净了．然后可以进营、只是要在自己的帐棚外居住七天。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "第七天再把头上所有的头发、与胡须、眉毛、并全身的毛、都剃了．又要洗衣服、用水洗身、就洁净了。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "第八天、他要取两只没有残疾的公羊羔、和一只没有残疾一岁的母羊羔、又要把调油的细面伊法十分之三、为素祭、并油一罗革、一同取来。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "行洁净之礼的祭司、要将那求洁净的人、和这些东西、安置在会幕门口、耶和华面前。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "祭司要取一只公羊羔、献为赎愆祭、和那一罗革油、一同作摇祭、在耶和华面前摇一摇。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "把公羊羔宰于圣地、就是宰赎罪祭牲、和燔祭牲之地．赎愆祭要归祭司、与赎罪祭一样、是至圣的。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "祭司要取些赎愆祭牲的血、抹在求洁净人的右耳垂上、和右手的大拇指上、并右脚的大拇指上。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "祭司要从那一罗革油中取些、倒在自己的左手掌里．"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "把右手的一个指头、蘸在左手的油里、在耶和华面前用指头弹七次．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "将手里所剩的油、抹在那求洁净人的右耳垂上、和右手的大拇指上、并右脚的大拇指上、就是抹在赎愆祭牲的血上。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "祭司手里所剩的油、要抹在那求洁净人的头上、在耶和华面前为他赎罪。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "祭司要献赎罪祭、为那本不洁净求洁净的人赎罪．然后要宰燔祭牲。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "把燔祭、和素祭、献在坛上为他赎罪、他就洁净了。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "他若贫穷不能预备够数、就要取一只公羊羔作赎愆祭、可以摇一摇、为他赎罪、也要把调油的细面伊法十分之一、为素祭、和油一罗革、一同取来。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "又照他的力量取两只斑鸠、或是两只雏鸽、一只作赎罪祭、一只作燔祭。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "第八天、要为洁净、把这些带到会幕门口、耶和华面前、交给祭司。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "祭司要把赎愆祭的羊羔、和那一罗革油、一同作摇祭、在耶和华面前摇一摇。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "要宰了赎愆祭的羊羔、取些赎愆祭牲的血、抹在那求洁净人的右耳垂上、和右手的大拇指上、并右脚的大拇指上。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "祭司要把些油倒在自己的左手掌里．"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "把左手里的油、在耶和华面前、用右手的一个指头弹七次。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "又把手里的油、抹些在那求洁净人的右耳垂上、和右手的大拇指上、并右脚的大拇指上、就是抹赎愆祭之血的原处。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "祭司手里所剩的油、要抹在那求洁净人的头上、在耶和华面前为他赎罪。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "那人又要照他的力量献上一只斑鸠、或是一只雏鸽、"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "就是他所能办的．一只为赎罪祭、一只为燔祭、与素祭一同献上．祭司要在耶和华面前为他赎罪。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "这是那有大痲疯灾病的人、不能将关乎得洁净之物预备够数的条例。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "耶和华晓谕摩西亚伦说、"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "你们到了我赐给你们为业的迦南地、我若使你们所得为业之地的房屋中、有大痲疯的灾病、"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "房主就要去告诉祭司说、据我看、房屋中似乎有灾病。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "祭司还没有进去察看灾病以前、就要吩咐人把房子腾空、免得房子里所有的都成了不洁净．然后祭司要进去察看房子。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "他要察看那灾病、灾病若在房子的墙上有发绿或发红的凹斑纹、现象洼于墙、"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "祭司就要出到房门外、把房子封锁七天。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "第七天祭司要再去察看．灾病若在房子的墙上发散、"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "就要吩咐人把那有灾病的石头挖出来、扔在城外不洁净之处．"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "也要叫人刮房内的四围、所刮掉的灰泥、要倒在城外不洁净之处。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "又要用别的石头、代替那挖出来的石头．要另用灰泥墁房子。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "他挖出石头、刮了房子、墁了以后、灾病若在房子里又发现、"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "祭司就要进去察看．灾病若在房子里发散、这就是房内蚕食的大痲疯、是不洁净。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "他就要拆毁房子、把石头、木头、灰泥、都搬到城外不洁净之处。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "在房子封锁的时候、进去的人必不洁净到晚上。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "在房子里躺着的必洗衣服．在房子里吃饭的、也必洗衣服。"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "房子墁了以后、祭司若进去察看、见灾病在房内没有发散、就要定房子为洁净、因为灾病已经消除。"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "要为洁净房子、取两只鸟、和香柏木、朱红色线、并牛膝草、"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "用瓦器盛活水、把一只鸟宰在上面、"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "把香柏木、牛膝草、朱红色线、并那活鸟、都蘸在被宰的鸟血中、与活水中、用以洒房子七次．"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "要用鸟血、活水、活鸟、香柏木、牛膝草、并朱红色线、洁净那房子。"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": "但要把活鸟放在城外田野里．这样洁净房子、〔原文作为房子赎罪〕房子就洁净了。"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": "这是为各类大痲疯的灾病、和头疥、"
+  },
+  {
+    "sectionNo": "55",
+    "sectionContent": "并衣服、与房子的大痲疯、"
+  },
+  {
+    "sectionNo": "56",
+    "sectionContent": "以及疖子、癣、火斑、所立的条例．"
+  },
+  {
+    "sectionNo": "57",
+    "sectionContent": "指明何时为洁净、何时为不洁净．这是大痲疯的条例。"
+  }
+]

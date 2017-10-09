@@ -1,0 +1,118 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "神赐福给挪亚和他的儿子、对他们说、你们要生养众多、遍满了地。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "凡地上的走兽、和空中的飞鸟、都必惊恐、惧怕你们．连地上一切的昆虫、并海里一切的鱼、都交付你们的手。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "凡活着的动物、都可以作你们的食物、这一切我都赐给你们如同菜蔬一样。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "惟独肉带着血、那就是他的生命、你们不可吃。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "流你们血害你们命的、无论是兽、是人、我必讨他的罪、就是向各人的弟兄也是如此。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "凡流人血的、他的血也必被人所流、因为　神造人、是照自己的形像造的。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "你们要生养众多、在地上昌盛繁茂。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "神晓谕挪亚和他的儿子说、"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "我与你们和你们的后裔立约．"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "并与你们这里的一切活物、就是飞鸟、牲畜、走兽．凡从方舟里出来的活物立约。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "我与你们立约、凡有血肉的、不再被洪水灭绝、也不再有洪水毁坏地了。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "神说、我与你们、并你们这里的各样活物所立的永约、是有记号的。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "我把虹放在云彩中、这就可作我与地立约的记号了。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "我使云彩盖地的时候、必有虹现在云彩中．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "我便记念我与你们、和各样有血肉的活物所立的约、水就再不泛滥毁坏一切有血肉的物了。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "虹必现在云彩中、我看见、就要记念我与地上各样有血肉的活物所立的永约。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "神对挪亚说、这就是我与地上一切有血肉之物立约的记号了。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "出方舟挪亚的儿子、就是闪、含、雅弗．含是迦南的父亲。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "这是挪亚的三个儿子．他们的后裔分散在全地。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "挪亚作起农夫来、栽了一个葡萄园。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "他喝了园中的酒便醉了．在帐棚里赤着身子。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "迦南的父亲含、看见他父亲赤身、就到外边告诉他两个弟兄。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "于是闪和雅弗、拿件衣服搭在肩上、倒退着进去、给他父亲盖上、他们背着脸就看不见父亲的赤身。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "挪亚醒了酒、知道小儿子向他所作的事、"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "就说、迦南当受咒诅、必给他弟兄作奴仆的奴仆。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "又说、耶和华闪的　神、是应当称颂的、愿迦南作闪的奴仆。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "愿　神使雅弗扩张、使他住在闪的帐棚里．又愿迦南作他的奴仆。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "洪水以后、挪亚又活了三百五十年。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "挪亚共活了九百五十岁就死了。"
+  }
+]

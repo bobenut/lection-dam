@@ -1,0 +1,98 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "因此我心战兢、从原处移动。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "听阿、　神轰轰的声音、是他口中所发的响声。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "他发响声震遍天下、发电光闪到地极。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "随后人听见有雷声轰轰、大发威严．雷电接连不断。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "神发出奇妙的雷声．他行大事、我们不能测透。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "他对雪说、要降在地上．对大雨和暴雨、也是这样说。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他封住各人的手、叫所造的万人、都晓得他的作为。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "百兽进入穴中、卧在洞内。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "暴风出于南宫、寒冷出于北方。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "神嘘气成冰、宽阔之水也都凝结。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "他使密云盛满水气．布散电光之云．"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "这云、是借他的指引、游行旋转、得以在全地面上行他一切所吩咐的。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "或为责罚、或为润地、或为施行慈爱。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "约伯阿、你要留心听．要站立思想　神奇妙的作为。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "神如何吩咐这些、如何使云中的电光照耀、你知道么。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "云彩如何浮于空中、那知识全备者奇妙的作为、你知道么。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "南风使地寂静、你的衣服就如火热、你知道么。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "你岂能与　神同铺穹苍么．这穹苍坚硬、如同铸成的镜子。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "我们愚昧不能陈说、请你指教我们该对他说甚么话。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "人岂可说、我愿与他说话、岂有人自愿灭亡么。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "现在有云遮蔽、人不得见穹苍的光亮．但风吹过、天又发晴。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "金光出于北方．在　神那里有可怕的威严。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "论到全能者、我们不能测度．他大有能力、有公平和大义、必不苦待人。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "所以人敬畏他．凡自以为心中有智慧的人、他都不顾念。"
+  }
+]

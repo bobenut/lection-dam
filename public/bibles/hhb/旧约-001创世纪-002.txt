@@ -1,0 +1,102 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "天地万物都造齐了。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "到第七日、　神造物的工已经完毕、就在第七日歇了他一切的工、安息了。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "神赐福给第七日、定为圣日、因为在这日　神歇了他一切创造的工、就安息了。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "创造天地的来历、在耶和华　神造天地的日子、乃是这样．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "野地还没有草木、田间的菜蔬还没有长起来、因为耶和华　神还没有降雨在地上、也没有人耕地。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "但有雾气从地上腾、滋润遍地。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "耶和华　神用地上的尘土造人、将生气吹在他鼻孔里、他就成了有灵的活人、名叫亚当。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "耶和华　神在东方的伊甸立了一个园子、把所造的人安置在那里。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "耶和华　神使各样的树从地里长出来、可以悦人的眼目、其上的果子好作食物．园子当中又有生命树、和分别善恶的树。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "有河从伊甸流出来滋润那园子、从那里分为四道。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "第一道名叫比逊、就是环绕哈腓拉全地的．在那里有金子、"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "并且那地的金子是好的．在那里又有珍珠和红玛瑙。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "第二道河名叫基训、就是环绕古实全地的。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "第三道河名叫希底结、流在亚述的东边。第四道河就是伯拉河。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "耶和华　神将那人安置在伊甸园、使他修理看守。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "耶和华　神吩咐他说、园中各样树上的果子、你可以随意吃．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "只是分别善恶树上的果子、你不可吃、因为你吃的日子必定死。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "耶和华　神说、那人独居不好、我要为他造一个配偶帮助他。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "耶和华　神用土所造成的野地各样走兽、和空中各样飞鸟、都带到那人面前看他叫甚么．那人怎样叫各样的活物、那就是他的名字。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "那人便给一切牲畜、和空中飞鸟、野地走兽都起了名．只是那人没有遇见配偶帮助他。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "耶和华　神使他沉睡、他就睡了．于是取下他的一条肋骨、又把肉合起来。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "耶和华　神就用那人身上所取的肋骨、造成一个女人、领他到那人跟前。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "那人说、这是我骨中的骨、肉中的肉、可以称他为女人、因为他是从男人身上取出来的。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "因此、人要离开父母、与妻子连合、二人成为一体。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "当时夫妻二人、赤身露体、并不羞耻。"
+  }
+]

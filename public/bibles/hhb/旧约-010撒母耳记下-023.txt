@@ -1,0 +1,158 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "以下是大卫末了的话。耶西的儿子大卫得居高位、是雅各　神所膏的．作以色列的美歌者说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "耶和华的灵借着我说、他的话在我口中。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "以色列的　神、以色列的磐石、晓谕我说、那以公义治理人民的、敬畏　神执掌权柄、"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "他必像日出的晨光、如无云的清晨、雨后的晴光、使地发生嫩草。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "我家在　神面前并非如此．　神却与我立永远的约．这约凡事坚稳、关乎我的一切救恩、和我一切所想望的、他岂不为我成就么。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "但匪类都必像荆棘被丢弃．人不敢用手拿他．"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "拿他的人必带铁器和枪杆、终久他必被火焚烧。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "大卫勇士的名字、记在下面．他革扪人约设巴设、又称伊斯尼人亚底挪、他是军长的统领、一时击杀了八百人。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "其次是亚合人朵多的儿子以利亚撒。从前非利士人聚集要打仗、以色列人迎着上去、有跟随大卫的三个勇士向非利士人骂阵、其中有以利亚撒．"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "他起来击杀非利士人、直到手臂疲乏、手粘住刀把．那日耶和华使以色列人大获全胜．众民在以利亚撒后头专夺财物。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "其次是哈拉人亚基的儿子沙玛。一日非利士人聚集成群、在一块长满红豆的田里．众民就在非利士人面前逃跑。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "沙玛却站在那田间、击杀非利士人、救护了那田．耶和华使以色列人大获全胜。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "收割的时候、有三十个勇士中的三个人、下到亚杜兰洞见大卫．非利士的军兵在利乏音谷安营。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "那时大卫在山寨．非利士人的防营在伯利恒。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "大卫渴想、说、甚愿有人将伯利恒城门旁井里的水打来给我喝。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "这三个勇士就闯过非利士人的营盘、从伯利恒城门旁的井里打水、拿来奉给大卫．他却不肯喝、将水奠在耶和华面前、"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "说、耶和华阿、这三个人冒死去打水．这水好像他们的血一般．我断不敢喝．如此大卫不肯喝、这是三个勇士所作的事。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "洗鲁雅的儿子约押的兄弟亚比筛是这三个勇士的首领。他举枪杀了三百人、就在三个勇士里得了名。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "他在这三个勇士里、是最尊贵的．所以作他们的首领．只是不及前三个勇士。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "有甲薛勇士耶何耶大的儿子比拿雅行过大能的事．他杀了摩押人亚利伊勒的两个儿子．又在下雪的时候下坑里去、杀了一个狮子．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "又杀了一个强壮的埃及人．埃及人手里拿着枪．比拿雅只拿着棍子下去、从埃及人手里夺过枪来、用那枪将他杀死。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "这是耶何耶大的儿子比拿雅所行的事、就在三个勇士里得了名。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "他比那三十个勇士都尊贵、只是不及前三个勇士。大卫立他作护卫长。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "三十个勇士里有约押的兄弟亚撒黑、伯利恒人朵多的儿子伊勒哈难．"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "哈律人沙玛、哈律人以利加、"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "帕勒提人希利斯、提哥亚人益吉的儿子以拉、"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "亚拿突人亚比以谢、户沙人米本乃、"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "亚合人撒们、尼陀法人玛哈莱、"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "尼陀法人巴拿的儿子希立、便雅悯族基比亚人利拜的儿子以太、"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "比拉顿人比拿雅、迦实溪人希太、"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "伯亚拉巴人亚比亚本、巴鲁米人押斯玛弗、"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "沙本人以利雅哈巴、雅善儿子中的约拿单、"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "哈拉人沙玛、哈拉人沙拉的儿子亚希暗、"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "玛迦人亚哈拜的儿子以利法列、基罗人亚希多弗的儿子以连、"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "迦密人希斯莱、亚巴人帕莱、"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "琐巴人拿单的儿子以甲、迦得人巴尼、"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "亚扪人洗勒、比录人拿哈莱、是给洗鲁雅的儿子约押拿兵器的、"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "以帖人以拉、以帖人迦立、"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "赫人乌利亚、共有三十七人。"
+  }
+]

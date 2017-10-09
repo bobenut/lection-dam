@@ -1,0 +1,126 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华晓谕摩西说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你要吩咐以色列人说、献给我的供物、就是献给我作馨香火祭的食物、你们要按日期献给我。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "又要对他们说、你们要献给耶和华的火祭、就是没有残疾一岁的公羊羔、每日两只、作为常献的燔祭。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "早晨要献一只、黄昏的时候要献一只。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "又用细面伊法十分之一、并捣成的油一欣四分之一、调和作为素祭。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "这是西乃山所命定为常献的燔祭、是献给耶和华为馨香的火祭。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "为这一只羊羔要同献奠祭的酒、一欣四分之一．在圣所中、你要将醇酒奉给耶和华为奠祭。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "晚上、你要献那一只羊羔、必照早晨的素祭、和同献的奠祭献上、作为馨香的火祭、献给耶和华。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "当安息日、要献两只没有残疾一岁的公羊羔、并用调油的细面伊法十分之二为素祭、又将同献的奠祭献上。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "这是每安息日献的燔祭、那常献的燔祭、和同献的奠祭在外。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "每月朔、你们要将两只公牛犊、一只公绵羊、七只没有残疾一岁的公羊羔、献给耶和华为燔祭。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "每只公牛、要用调油的细面伊法十分之三、作为素祭、那只公羊也用调油的细面伊法十分之二、作为素祭。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "每只羊羔要用调油的细面伊法十分之一、作为素祭、和馨香的燔祭．是献给耶和华的火祭。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "一只公牛要奠酒半欣、一只公羊要奠酒一欣三分之一、一只羊羔也奠酒一欣四分之一．这是每月的燔祭、一年之中要月月如此。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "又要将一只公山羊为赎罪祭、献给耶和华．要献在常献的燔祭、和同献的奠祭以外。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "正月十四日、是耶和华的逾越节。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "这月十五日是节期、要吃无酵饼七日。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "第一日当有圣会、甚么劳碌的工都不可作。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "当将公牛犊两只、公绵羊一只、一岁的公羊羔七只、都要没有残疾的、用火献给耶和华为燔祭。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "同献的素祭用调油的细面、为一只公牛要献伊法十分之三．为一只公羊要献伊法十分之二。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "为那七只羊羔、每只要献伊法十分之一．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "并献一只公山羊作赎罪祭、为你们赎罪。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "你们献这些、要在早晨常献的燔祭以外。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "一连七日、每日要照这例、把馨香火祭的食物献给耶和华、是在常献的燔祭和同献的奠祭以外。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "第七日当有圣会、甚么劳碌的工都不可作。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "七七节庄稼初熟、你们献新素祭给耶和华的日子、当有圣会、甚么劳碌的工都不可作。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "只要将公牛犊两只、公绵羊一只、一岁的公羊羔七只、作为馨香的燔祭、献给耶和华。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "同献的素祭用调油的细面、为每只公牛要献伊法十分之三．为一只公羊要献伊法十分之二．"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "为那七只羊羔、每只要献伊法十分之一．"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "并献一只公山羊为你们赎罪。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "这些、你们要献在常献的燔祭、和同献的素祭、并同献的奠祭以外、都要没有残疾的。"
+  }
+]

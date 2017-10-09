@@ -1,0 +1,122 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "山岩间的野山羊几时生产、你知道么．母鹿下犊之期你能察定么．"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "他们怀胎的月数、你能数算么．他们几时生产你能晓得么．"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "他们屈身、将子生下、就除掉疼痛。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "这子渐渐肥壮、在荒野长大、去而不回。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "谁放野驴出去自由．谁解开快驴的绳索。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "我使旷野作他的住处、使咸地当他的居所。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他嗤笑城内的喧嚷、不听赶牲口的喝声。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "遍山是他的草场．他寻找各样青绿之物。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "野牛岂肯服事你．岂肯住在你的槽旁。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "你岂能用套绳将野牛笼在犁沟之间．他岂肯随你耙山谷之地。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "岂可因他的力大、就倚靠他、岂可把你的工交给他作么。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "岂可信靠他把你的粮食运到家、又收聚你禾场上的谷么。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "鸵鸟的翅膀欢然搧展、岂是显慈爱的翎毛和羽毛么。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "因他把蛋留在地上、在尘土中、使得温暖．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "却想不到被脚踹碎、或被野兽践踏。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "他忍心待雏、似乎不是自己的．虽然徒受劳苦、也不为雏惧怕．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "因为　神使他没有智慧、也未将悟性赐给他。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "他几时挺身展开翅膀、就嗤笑马和骑马的人。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "马的大力是你所赐的么．他颈项上挓莎的鬃、是你给他披上的么．"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "是你叫他跳跃像蝗虫么．他喷气之威使人惊惶。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "他在谷中刨地、自喜其力．他出去迎接佩带兵器的人。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "他嗤笑可怕的事、并不惊惶、也不因刀剑退回。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "箭袋和发亮的枪、并短枪、在他身上铮铮有声。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "他发猛烈的怒气将地吞下．一听角声就不耐站立。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "角每发声、他说、呵哈．他从远处闻着战气、又听见军长大发雷声、和兵丁呐喊。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "鹰雀飞翔、展开翅膀、一直向南、岂是借你的智慧么。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "大鹰上腾、在高处搭窝、岂是听你的吩咐么。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "他住在山岩、以山峰和坚固之所为家．"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "从那里窥看食物、眼睛远远观望。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "他的雏也咂血．被杀的人在那里、他也在那里。"
+  }
+]

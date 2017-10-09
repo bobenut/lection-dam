@@ -1,0 +1,34 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔上行之诗。〕以色列当说、从我幼年以来、敌人屡次苦害我、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "从我幼年以来、敌人屡次苦害我、却没有胜了我。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "如同扶犁的、在我背上扶犁而耕．耕的犁沟甚长。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "耶和华是公义的．他砍断了恶人的绳索。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "愿恨恶锡安的、都蒙羞退后。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "愿他们像房顶上的草、未长成而枯干．"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "收割的不够一把、捆禾的也不满怀．"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "过路的也不说、愿耶和华所赐的福、归与你们．我们奉耶和华的名、给你们祝福。"
+  }
+]

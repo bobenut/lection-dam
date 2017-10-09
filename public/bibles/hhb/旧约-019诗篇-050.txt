@@ -1,0 +1,94 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔亚萨的诗。〕大能者　神耶和华、已经发言招呼天下、从日出之地到日落之处。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "从全美的锡安中、　神已经发光了。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "我们的　神要来、决不闭口．有烈火在他面前吞灭、有暴风在他四围大刮。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "他招呼上天下地、为要审判他的民、"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "说、招聚我的圣民到我这里来、就是那些用祭物与我立约的人。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "诸天必表明他的公义．因为　神是施行审判的。〔细拉〕"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "我的民哪、你们当听我的话．以色列阿、我要劝戒你．我是　神、是你的　神。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "我并不因你的祭物责备你．你的燔祭常在我面前。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "我不从你家中取公牛、也不从你圈内取山羊。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "因为树林中的百兽是我的、千山上的牲畜也是我的。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "山中的飞鸟、我都知道．野地的走兽、也都属我。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "我若是饥饿、我不用告诉你．因为世界、和其中所充满的、都是我的。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "我岂吃公牛的肉呢．我岂喝山羊的血呢。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "你们要以感谢为祭献与　神．又要向至高者还你的愿．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "并要在患难之日求告我、我必搭救你．你也要荣耀我。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "但　神对恶人说、你怎敢传说我的律例、口中提到我的约呢．"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "其实你恨恶管教、将我的言语丢在背后。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "你见了盗贼、就乐意与他同伙、又与行奸淫的人、一同有分。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "你口任说恶言、你舌编造诡诈。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "你坐着毁谤你的兄弟、谗毁你亲母的儿子。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "你行了这些事、我还闭口不言．你想我恰和你一样．其实我要责备你、将这些事摆在你眼前。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "你们忘记　神的、要思想这事、免得我把你们撕碎、无人搭救。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "凡以感谢献上为祭的、便是荣耀我．那按正路而行的、我必使他得着我的救恩。"
+  }
+]

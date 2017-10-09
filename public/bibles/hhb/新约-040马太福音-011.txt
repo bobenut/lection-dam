@@ -1,0 +1,122 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶稣吩咐完了十二个门徒、就离开那里、往各城去传道教训人。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "约翰在监里听见基督所作的事、就打发两个门徒去、"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "问他说、那将要来的是你么、还是我们等候别人呢。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "耶稣回答说、你们去把所听见所看见的事告诉约翰．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "就是瞎子看见、瘸子行走、长大痲疯的洁净、聋子听见、死人复活、穷人有福音传给他们。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "凡不因我跌倒的、就有福了。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他们走的时候、耶稣就对众人讲论约翰说、你们从前出到旷野、是要看甚么呢、要看风吹动的芦苇么。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "你们出去、到底是要看甚么、要看穿细软衣服的人么、那穿细软衣服的人、是在王宫里。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "你们出去、究竟是为甚么、是要看先知么．我告诉你们、是的、他比先知大多了．"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "经上记着说、『我要差遣我的使者在你前面、预备道路。』所说的就是这个人。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "我实在告诉你们、凡妇人所生的、没有一个兴起来大过施洗约翰的．然而天国里最小的、比他还大。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "从施洗约翰的时候到如今、天国是努力进入的、努力的人就得着了。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "因为众先知和律法说预言、到约翰为止。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "你们若肯领受、这人就是那应当来的以利亚。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "有耳可听的、就应当听。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "我可用甚么比这世代呢．好像孩童坐在街市上、招呼同伴、说、"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "我们向你们吹笛、你们不跳舞．我们向你们举哀、你们不捶胸。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "约翰来了、也不吃、也不喝、人就说他是被鬼附着的。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "人子来了、也吃、也喝、人又说他是贪食好酒的人、是税吏和罪人的朋友．但智慧之子、总以智慧为是。〔有古卷作但智慧在行为上就显为是〕"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "耶稣在诸城中行了许多异能、那些城的人终不悔改、就在那时候责备他们说、"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "哥拉汛哪、你有祸了、伯赛大阿、你有祸了、因为在你们中间所行的异能、若行在推罗西顿、他们早已披麻蒙灰悔改了。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "但我告诉你们、当审判的日子、推罗西顿所受的、比你们还容易受呢。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "迦百农阿你已经升到天上．〔或作你将要升到天上么〕将来必坠落阴间．因为在你那里所行的异能、若行在所多玛、他还可以存到今日．"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "但我告诉你们、当审判的日子、所多玛所受的、比你还容易受呢。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "那时、耶稣说、父阿、天地的主、我感谢你、因为你将这些事、向聪明通达人、就藏起来、向婴孩、就显出来．"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "父阿、是的、因为你的美意本是如此。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "一切所有的、都是我父交付我的．除了父、没有人知道子．除了子和子所愿意指示的、没有人知道父。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "凡劳苦担重担的人、可以到我这里来、我就使你们得安息。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "我心里柔和谦卑、你们当负我的轭、学我的样式、这样、你们心里就必得享安息。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "因为我的轭是容易的、我的担子是轻省的。"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "一到早晨、祭司长和长老文士全公会的人大家商议、就把耶稣捆绑解去、交给彼拉多。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "彼拉多问他说、你是犹太人的王么．耶稣回答说、你说的是。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "祭司长告他许多的事。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "彼拉多又问他说、你看、他们告你这么多的事、你甚么都不回答么。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "耶稣仍不回答、以致彼拉多觉得希奇。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "每逢这节期、巡抚照众人所求的、释放一个囚犯给他们。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "有一个人名叫巴拉巴、和作乱的人一同捆绑．他们作乱的时候、曾杀过人。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "众人上去求巡抚、照常例给他们办。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "彼拉多说、你们要我释放犹太人的王给你们么。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "他原晓得祭司长是因为嫉妒才把耶稣解了来。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "只是祭司长挑唆众人、宁可释放巴拉巴给他们。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "彼拉多又说、那么样你们所称为犹太人的王、我怎么办他呢。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "他们又喊着说、把他钉十字架。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "彼拉多说、为甚么呢、他作了甚么恶事呢。他们便极力的喊着说、把他钉十字架。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "彼拉多要叫众人喜悦、就释放巴拉巴给他们、将耶稣鞭打了、交给人钉十字架。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "兵丁把耶稣带进衙门院里．叫齐了全营的兵。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "他们给他穿上紫袍、又用荆棘编作冠冕给他戴上．"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "就庆贺他说、恭喜犹太人的王阿。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "又拿一根苇子、打他的头、吐唾沫在他脸上屈膝拜他。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "戏弄完了、就给他脱了紫袍、仍穿上他自己的衣服、带他出去、要钉十字架。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "有一个古利奈人西门、就是亚力山大和鲁孚的父亲、从乡下来、经过那地方、他们就勉强他同去、好背着耶稣的十字架。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "他们带耶稣到了各各他地方、（各各他翻出来、就是髑髅地)"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "拿没药调和的酒给耶稣、他却不受。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "于是将他钉在十字架上、拈阄分他的衣服、看是谁得甚么。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "钉他在十字架上、是巳初的时候。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "在上面有他的罪状、写的是犹太人的王。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "他们又把两个强盗、和他同钉十字架．一个在右边、一个在左边。〔有古卷在此有〕"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "〔这就应了经上的话说『他被列在罪犯之中』〕"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "从那里经过的人辱骂他、摇着头说、咳、你这拆毁圣殿、三日又建造起来的．"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "可以救自己从十字架上下来吧。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "祭司长和文士也是这样戏弄他、彼此说、他救了别人、不能救自己。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "以色列的王基督、现在可以从十字架上下来、叫我们看见、就信了。那和他同钉的人也是讥诮他。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "从午正到申初遍地都黑暗了。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "申初的时候、耶稣大声喊着说、以罗伊、以罗伊、拉马撒巴各大尼．翻出来、就是我的　神、我的　神、为甚么离弃我。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "旁边站着的人、有的听见就说、看哪、他叫以利亚呢。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "有一个人跑去、把海绒蘸满了醋绑在苇子上、送给他喝、说、且等着、看以利亚来不来把他取下。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "耶稣大声喊叫、气就断了。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "殿里的幔子、从上到下裂为两半。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "对面站着的百夫长、看见耶稣这样喊叫断气、〔有古卷无喊叫二字〕就说、这人真是　神的儿子。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "还有些妇女、远远的观看．内中有抹大拉的马利亚、又有小雅各和约西的母亲马利亚、并有撒罗米．"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "就是耶稣在加利利的时候、跟随他、服事他的那些人、还有同耶稣上耶路撒冷的好些妇女在那里观看。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "到了晚上、因为这是预备日、就是安息日的前一日、"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "有亚利马太的约瑟前来、他是尊贵的议士、也是等候　神国的．他放胆进去见彼拉多、求耶稣的身体。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "彼拉多诧异耶稣已经死了．便叫百夫长来、问他耶稣死了久不久。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "既从百夫长得知实情、就把耶稣的尸首赐给约瑟。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "约瑟买了细麻布、把耶稣取下来、用细麻布裹好、安放在磐石中凿出来的坟墓里．又滚过一块石头来挡住墓门。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "抹大拉的马利亚、和约西的母亲马利亚、都看见安放他的地方。"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "约伯阿、请听我的话、留心听我一切的言语。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "我现在开口、用舌发言。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "我的言语、要发明心中所存的正直．我所知道的、我嘴唇要诚实的说出。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "神的灵造我、全能者的气使我得生。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "你若回答我、就站起来、在我面前陈明。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "我在　神面前与你一样、也是用土造成。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "我不用威严惊吓你、也不用势力重压你。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "你所说的我听见了、也听见你的言语、说、"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "我是清洁无过的．我是无辜的、在我里面也没有罪孽。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "神找机会攻击我、以我为仇敌、"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "把我的脚上了木狗、窥察我一切的道路。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "我要回答你说、你这话无理．因　神比世人更大。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "你为何与他争论呢、因他的事都不对人解说。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "神说、一次、两次、世人却不理会。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "人躺在床上沉睡的时候　神就用梦、和夜间的异象、"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "开通他们的耳朵、将当受的教训印在他们心上、"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "好叫人不从自己的谋算、不行骄傲的事．〔原文作将骄傲向人隐藏〕"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "拦阻人不陷于坑里、不死在刀下。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "人在床上被惩治、骨头中不住的疼痛．"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "以致他的口厌弃食物、心厌恶美味。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "他的肉消瘦、不得再见、先前不见的骨头、都凸出来。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "他的灵魂临近深坑、他的生命近于灭命的。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "一千天使中、若有一个作传话的、与　神同在、指示人所当行的事．"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "神就给他开恩、说、救赎他免得下坑．我已经得了赎价。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "他的肉要比孩童的肉更嫩．他就返老还童。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "他祷告　神、　神就喜悦他、使他欢呼朝见　神的面．　神又看他为义。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "他在人前歌唱说、我犯了罪、颠倒是非、这竟与我无益。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "神救赎我的灵魂免入深坑．我的生命也必见光。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "神两次、三次、向人行这一切的事．"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "为要从深坑救回人的灵魂、使他被光照耀与活人一样。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "约伯阿、你当侧耳听我的话．不要作声、等我讲说。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "你若有话说、就可以回答我．你只管说、因我愿以你为是。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "若不然、你就听我说、你不要作声、我便将智慧教训你。"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶稣过去的时候、看见一个人生来是瞎眼的。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "门徒问耶稣说、拉比、这人生来是瞎眼的、是谁犯了罪、是这人呢、是他父母呢。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "耶稣回答说、也不是这人犯了罪、也不是他父母犯了罪、是要在他身上显出　神的作为来。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "趁着白日、我们必须作那差我来者的工．黑夜将到、就没有人能作工了。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "我在世上的时候、是世上的光。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "耶稣说了这话、就吐唾沫在地上、用唾沫和泥抹在瞎子的眼睛上、"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "对他说、你往西罗亚池子里去洗、（西罗亚翻出来、就是奉差遣)他去一洗、回头就看见了。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "他的邻舍和那素常见他是讨饭的、就说、这不是那从前坐着讨饭的人么。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "有人说、是他．又有人说、不是、却是像他．他自己说、是我。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "他们对他说、你的眼睛是怎么开的呢。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "他回答说、有一个人名叫耶稣．他和泥抹我的眼睛、对我说、你往西罗亚池子去洗．我去一洗、就看见了。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "他们说、那个人在那里．他说、我不知道。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "他们把从前瞎眼的人、带到法利赛人那里。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "耶稣和泥开他眼睛的日子是安息日。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "法利赛人也问他是怎么得看见的。瞎子对他们说、他把泥抹在我的眼睛上、我去一洗、就看见了。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "法利赛人中有的说、这个人不是从　神来的、因为他不守安息日。又有人说、一个罪人怎能行这样的神迹呢。他们就起了分争。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "他们又对瞎子说、他既然开了你的眼睛、你说他是怎样的人呢。他说、是个先知。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "犹太人不信他从前是瞎眼、后来能看见的、等到叫了他的父母来、"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "问他们说、这是你们的儿子么．你们说他生来是瞎眼的、如今怎么能看见了呢。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "他父母回答说、他是我们的儿子、生来就瞎眼、这是我们知道的。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "至于他如今怎么能看见、我们却不知道．是谁开了他的眼睛、我们也不知道．他已经成了人、你们问他吧．他自己必能说。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "他父母说这话、是怕犹太人、因为犹太人已经商议定了、若有认耶稣是基督的、要把他赶出会堂。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "因此他父母说、他已经成了人、你们问他吧。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "所以法利赛人第二次叫了那从前瞎眼的人来、对他说、你该将荣耀归给　神．我们知道这人是个罪人。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "他说、他是个罪人不是、我不知道．有一件事我知道．从前我是眼瞎的、如今能看见了。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "他们就问他说、他向你作甚么、是怎么开了你的眼睛呢。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "他回答说、我方才告诉你们、你们不听．为甚么又要听呢．莫非你们也要作他的门徒么。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "他们就骂他说、你是他的门徒．我们是摩西的门徒。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "神对摩西说话、是我们知道的．只是这个人、我们不知道他从那里来。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "那人回答说、他开了我的眼睛、你们竟不知道他从那里来、这真是奇怪。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "我们知道　神不听罪人．惟有敬奉神遵行他旨意的、　神才听他。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "从创世以来、未曾听见有人把生来是瞎子的眼睛开了。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "这人若不是从　神来的、甚么也不能作。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "他们回答说、你全然生在罪孽中、还要教训我们么。于是把他赶出去了。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "耶稣听说他们把他赶出去．后来遇见他、就说、你信　神的儿子么。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "他回答说、主阿、谁是　神的儿子、叫我信他呢。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "耶稣说、你已经看见他、现在和你说话的就是他。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "他说、主阿、我信．就拜耶稣。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "耶稣说、我为审判到这世上来、叫不能看见的、可以看见．能看见的、反瞎了眼。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "同他在那里的法利赛人、听见这话、就说、难道我们也瞎了眼么。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "耶稣对他们说、你们若瞎了眼、就没有罪了．但如今你们说、我们能看见、所以你们的罪还在。"
+  }
+]

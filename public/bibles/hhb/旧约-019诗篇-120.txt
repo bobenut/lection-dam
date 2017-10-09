@@ -1,0 +1,30 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔上行〔或作登阶下同〕之诗。〕我在急难中求告耶和华、他就应允我。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "耶和华阿、求你救我脱离说谎的嘴唇、和诡诈的舌头。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "诡诈的舌头阿、要给你甚么呢。要拿甚么加给你呢．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "就是勇士的利箭、和罗腾木的炭火。〔罗腾小树名松类〕"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "我寄居在米设、住在基达帐棚之中、有祸了。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "我与那恨恶和睦的人、许久同住。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "我愿和睦．但我发言、他们就要争战。"
+  }
+]

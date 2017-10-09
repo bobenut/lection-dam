@@ -1,0 +1,90 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "义人哪、你们应当靠耶和华欢乐．正直人的赞美是合宜的。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你们应当弹琴称谢耶和华、用十弦瑟歌颂他。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "应当向他唱新歌、弹得巧妙、声音洪亮。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "因为耶和华的言语正直．凡他所作的、尽都诚实。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "他喜爱仁义公平．遍地满了耶和华的慈爱。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "诸天借耶和华的命而造、万象借他口中的气而成。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他聚集海水如垒、收藏深洋在库房。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "愿全地都敬畏耶和华．愿世上的居民、都惧怕他。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "因为他说有、就有．命立、就立。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "耶和华使列国的筹算归于无有、使众民的思念无有功效。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "耶和华的筹算永远立定、他心中的思念万代常存。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "以耶和华为　神的、那国是有福的．他所拣选为自己产业的、那民是有福的。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "耶和华从天上观看．他看见一切的世人。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "从他的居所、往外察看地上一切的居民。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "他是那造成他们众人心的、留意他们一切作为的。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "君王不能因兵多得胜．勇士不能因力大得救。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "靠马得救是枉然的．马也不能因力大救人。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "耶和华的眼目、看顾敬畏他的人、和仰望他慈爱的人、"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "要救他们的命脱离死亡、并使他们在饥荒中存活。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "我们的心向来等候耶和华．他是我们的帮助、我们的盾牌。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "我们的心必靠他欢喜、因为我们向来倚靠他的圣名。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "耶和华阿、求你照着我们所仰望你的、向我们施行慈爱。"
+  }
+]

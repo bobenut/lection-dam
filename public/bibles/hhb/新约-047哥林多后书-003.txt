@@ -1,0 +1,74 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "我们岂是又举荐自己么．岂像别人、用人的荐信给你们、或用你们的荐信给人么。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你们就是我们的荐信、写在我们的心里、被众人所知道所念诵的。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "你们明显是基督的信、借着我们修成的．不是用墨写的、乃是用永生　神的灵写的．不是写在石版上、乃是写在心版上。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "我们因基督所以在　神面前才有这样的信心．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "并不是我们凭自己能承担甚么事、我们所能承担的、乃是出于　神．"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "他叫我们能承当这新约的执事．不是凭着字句、乃是凭着精意．因为那字句是叫人死、精意是叫人活。〔精意或作圣灵〕"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "那用字刻在石头上属死的职事、尚且有荣光、甚至以色列人因摩西面上的荣光、不能定睛看他的脸．这荣光原是渐渐退去的．"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "何况那属灵的职事、岂不更有荣光么。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "若是定罪的职事有荣光、那称义的职事、荣光就越发大了。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "那从前有荣光的、因这极大的荣光、就算不得有荣光了．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "若那废掉的有荣光、这长存的就更有荣光了。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "我们既有这样的盼望、就大胆讲说、"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "不像摩西将帕子蒙在脸上、叫以色列人不能定睛看到那将废者的结局．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "但他们的心地刚硬．直到今日诵读旧约的时候、这帕子还没有揭去．这帕子在基督里已经废去了。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "然而直到今日、每逢诵读摩西书的时候、帕子还在他们心上。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "但他们的心几时归向主、帕子就几时除去了。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "主就是那灵、主的灵在那里、那里就得以自由。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "我们众人既然敞着脸、得以看见主的荣光、好像从镜子里返照、就变成主的形状、荣上加荣、如同从主的灵变成的。"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "但如今比我年少的人戏笑我．其人之父、我曾藐视、不肯安在看守我羊群的狗中。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "他们壮年的气力既已衰败、其手之力与我何益呢。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "他们因穷乏饥饿、身体枯瘦、在荒废凄凉的幽暗中、龈干燥之地．"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "在草丛之中采咸草、罗腾的根为他们的食物。〔罗腾小树名松类〕"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "他们从人中被赶出、人追喊他们如贼一般、"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "以致他们住在荒谷之间、在地洞和岩穴中．"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "在草丛中叫唤、在荆棘下聚集。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "这都是愚顽下贱人的儿女．他们被鞭打、赶出境外。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "现在这些人以我为歌曲、以我为笑谈。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "他们厌恶我、躲在旁边站着、不住地吐唾沫在我脸上。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "松开他们的绳索苦待我、在我面前脱去辔头。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "这等下流人在我右边起来、推开我的脚、筑成战路来攻击我。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "这些无人帮助的、毁坏我的道、加增我的灾。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "他们来如同闯进大破口．在毁坏之间、滚在我身上。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "惊恐临到我、驱逐我的尊荣如风．我的福禄如云过去。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "现在我心极其悲伤．困苦的日子将我抓住。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "夜间我里面的骨头刺我、疼痛不止、好像龈我。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "因　神的大力、我的外衣污秽不堪．又如里衣的领子将我缠住。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "神把我扔在淤泥中、我就像尘土和炉灰一般。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "主阿、我呼求你、你不应允我．我站起来、你就定睛看我。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "你向我变心、待我残忍．又用大能追逼我．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "把我提在风中、使我驾风而行．又使我消灭在烈风中。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "我知道要使我临到死地、到那为众生所定的阴宅。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "然而人仆倒、岂不伸手．遇灾难、岂不求救呢。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "人遭难、我岂不为他哭泣呢．人穷乏、我岂不为他忧愁呢。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "我仰望得好处、灾祸就到了．我等待光明、黑暗便来了。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "我心里烦扰不安、困苦的日子临到我身。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "我没有日光就哀哭行去．〔或作我面发黑并非因日晒〕我在会中站着求救。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "我与野狗为弟兄、与鸵鸟为同伴。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "我的皮肤黑而脱落．我的骨头因热烧焦。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "所以我的琴音变为悲音、我的箫声变为哭声。"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔大卫的诗、交与伶长。〕我是投靠耶和华．你们怎么对我说、你当像鸟飞往你的山去。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "看哪、恶人弯弓、把箭搭在弦上、要在暗中射那心里正直的人。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "根基若毁坏、义人还能作甚么呢。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "耶和华在他的圣殿里．耶和华的宝座在天上．他的慧眼察看世人。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "耶和华试验义人．惟有恶人和喜爱强暴的人、他心里恨恶。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "他要向恶人密布网罗．有烈火、硫磺、热风、作他们杯中的分。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "因为耶和华是公义的．他喜爱公义．正直人必得见他的面。"
+  }
+]

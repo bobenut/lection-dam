@@ -1,0 +1,218 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华吩咐摩西说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你要在米甸人身上报以色列人的仇、后来要归到你列祖〔原文作本民〕那里。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "摩西吩咐百姓说、要从你们中间叫人带兵器出去攻击米甸、好在米甸人身上为耶和华报仇。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "从以色列众支派中每支派要打发一千人去打仗。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "于是从以色列千万人中、每支派交出一千人、共一万二千人、带着兵器预备打仗。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "摩西就打发每支派的一千人去打仗、并打发祭司以利亚撒的儿子非尼哈同去、非尼哈手里拿着圣所的器皿、和吹大声的号筒。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他们就照耶和华所吩咐摩西的、与米甸人打仗、杀了所有的男丁。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "在所杀的人中、杀了米甸的五王、就是以未、利金、苏珥、户珥、利巴、又用刀杀了比珥的儿子巴兰。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "以色列人掳了米甸人的妇女孩子、并将他们的牲畜、羊群、和所有的财物都夺了来、当作掳物。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "又用火焚烧他们所住的城邑、和所有的营寨．"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "把一切所夺的、所掳的、连人带牲畜都带了去．"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "将所掳的人、所夺的牲畜、财物、都带到摩押平原、在约但河边与耶利哥相对的营盘、交给摩西、和祭司以利亚撒、并以色列的会众。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "摩西和祭司以利亚撒、并会众一切的首领、都出到营外迎接他们。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "摩西向打仗回来的军长、就是千夫长、百夫长、发怒。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "对他们说、你们要存留这一切妇女的活命么．"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "这些妇女、因巴兰的计谋、叫以色列人在毗珥的事上得罪耶和华、以致耶和华的会众遭遇瘟疫。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "所以你们要把一切的男孩、和所有已嫁的女子、都杀了。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "但女孩子中、凡没有出嫁的、你们都可以存留他的活命。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "你们要在营外驻扎七日、凡杀了人的、和一切摸了被杀的、并你们所掳来的人口、第三日、第七日、都要洁净自己。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "也要因一切的衣服、皮物、山羊毛织的物、和各样的木器、洁净自己。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "祭司以利亚撒、对打仗回来的兵丁说、耶和华所吩咐摩西律法中的条例、乃是这样．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "金、银、铜、铁、锡、铅、"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "凡能见火的、你们要叫它经火、就为洁净、然而还要用除污秽的水洁净它、凡不能见火的、你们要叫它过水。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "第七日、你们要洗衣服、就为洁净、然后可以进营。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "耶和华晓谕摩西说、"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "你和祭司以利亚撒、并会众的各族长、要计算所掳来的人口和牲畜的总数。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "把所掳来的、分作两半、一半归与出去打仗的精兵、一半归与全会众。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "又要从出去打仗所得的人口、牛、驴、羊群中、每五百取一、作为贡物奉给耶和华。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "从他们一半之中、要取出来交给祭司以利亚撒、作为耶和华的举祭。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "从以色列人的一半之中、就是从人口、牛、驴、羊群、各样牲畜中、每五十取一、交给看守耶和华帐幕的利未人。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "于是摩西和祭司以利亚撒、照耶和华所吩咐摩西的行了。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "除了兵丁所夺的财物以外、所掳来的、羊六十七万五千只．"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "牛七万二千只．"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "驴六万一千匹．"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "女人共三万二千口．都是没有出嫁的。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "出去打仗之人的分、就是他们所得的那一半、共计羊三十三万七千五百只。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "从其中归耶和华为贡物的、有六百七十五只．"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "牛三万六千只．从其中归耶和华为贡物的、有七十二只．"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "驴三万零五百匹、从其中归耶和华为贡物的、有六十一匹．"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "人一万六千口、从其中归耶和华的、有三十二口。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "摩西把贡物、就是归与耶和华的举祭、交给祭司以利亚撒、是照耶和华所吩咐摩西的。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "以色列人所得的那一半、就是摩西从打仗的人取来分给他们的。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "（会众的那一半、有羊三十三万七千五百只．"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "牛三万六千只．"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "驴三万零五百匹．"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "人一万六千口。)"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "无论是人口、是牲畜、摩西每五十取一、交给看守耶和华帐幕的利未人、是照耶和华所吩咐摩西的。"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "带领千军的各军长、就是千夫长、百夫长、都近前来见摩西、"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "对他说、仆人权下的兵、已经计算总数、并不短少一人。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "如今我们将各人所得的金器、就是脚链子、镯子、打印的戒指、耳环、手钏、都送来为耶和华的供物、好在耶和华面前、为我们的生命赎罪。"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "摩西和祭司以利亚撒、就收了他们的金子、都是打成的器皿。"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "千夫长、百夫长、所献给耶和华为举祭的金子、共有一万六千七百五十舍客勒。"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": "各兵丁都为自己夺了财物。"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": "摩西和祭司以利亚撒、收了千夫长、百夫长的金子、就带进会幕、在耶和华面前作为以色列人的记念。"
+  }
+]

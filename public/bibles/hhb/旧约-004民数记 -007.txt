@@ -1,0 +1,358 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "摩西立完了帐幕就把帐幕用膏抹了、使它成圣．又把其中的器具和坛、并坛上的器具都抹了、使它成圣。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "当天以色列的众首领、就是各族的族长、都来奉献。他们是各支派的首领、管理那些被数的人。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "他们把自己的供物送到耶和华面前、就是六辆篷子车、和十二只公牛．每两个首领奉献一辆车、每首领奉献一只牛．他们把这些都奉到帐幕前。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "耶和华晓谕摩西说、"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "你要收下这些、好作会幕的使用、都要照利未人所办的事交给他们。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "于是摩西收了车和牛、交给利未人。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "把两辆车、四只牛、照革顺子孙所办的事交给他们。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "又把四辆车、八只牛、照米拉利子孙所办的事交给他们．他们都在祭司亚伦的儿子以他玛手下。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "但车与牛都没有交给哥辖子孙、因为他们办的是圣所的事、在肩头上抬圣物。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "用膏抹坛的日子、首领都来行奉献坛的礼、众首领就在坛前献供物。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "耶和华对摩西说、众首领为行奉献坛的礼、要每天一个首领来献供物。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "头一日献供物的、是犹大支派的亚米拿达的儿子拿顺。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗、重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔、作燔祭。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔、作平安祭．这是亚米拿达儿子拿顺的供物。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "第二日来献的是以萨迦子孙的首领、苏押的儿子拿坦业。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "他献为供物的是一个银盘子、重一百三十舍客勒一个银碗、重七十舍客勒、都是按圣所的平、也都盛满了调油的细面作素祭。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔、作燔祭。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "一只公山羊作赎罪祭．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔、作平安祭．这是苏押儿子拿坦业的供物。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "第三日来献的是西布伦子孙的首领、希伦的儿子以利押。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗、重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔、作燔祭。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔、作平安祭．这是希伦儿子以利押的供物。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "第四日来献的、是流便子孙的首领、示丢珥的儿子以利蓿。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗、重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔、作燔祭。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔作平安祭．这是示丢珥的儿子以利蓿的供物。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "第五日来献的是西缅子孙的首领苏利沙代的儿子示路蔑。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗、重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔、作燔祭。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔、作平安祭。这是苏利沙代儿子示路蔑的供物。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "第六日来献的、是迦得子孙的首领、丢珥的儿子以利雅萨。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗、重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔、作燔祭。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔、作平安祭．这是丢珥的儿子以利雅萨的供物。"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "第七日来献的、是以法莲子孙的首领亚米忽的儿子以利沙玛。"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗、重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔、作燔祭。"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔、作平安祭．这是亚米忽儿子以利沙玛的供物。"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": "第八日来献的、是玛拿西子孙的首领比大蓿的儿子迦玛列。"
+  },
+  {
+    "sectionNo": "55",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗、重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭。"
+  },
+  {
+    "sectionNo": "56",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "57",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔、作燔祭。"
+  },
+  {
+    "sectionNo": "58",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "59",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔作平安祭．这是比大蓿儿子迦玛列的供物。"
+  },
+  {
+    "sectionNo": "60",
+    "sectionContent": "第九日来献的、是便雅悯子孙的首领基多尼的儿子亚比但。"
+  },
+  {
+    "sectionNo": "61",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗、重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭。"
+  },
+  {
+    "sectionNo": "62",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "63",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔作燔祭。"
+  },
+  {
+    "sectionNo": "64",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "65",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔、作平安祭．这是基多尼儿子亚比但的供物。"
+  },
+  {
+    "sectionNo": "66",
+    "sectionContent": "第十日来献的、是但子孙的首领亚米沙代的儿子亚希以谢。"
+  },
+  {
+    "sectionNo": "67",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭。"
+  },
+  {
+    "sectionNo": "68",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "69",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔、作燔祭。"
+  },
+  {
+    "sectionNo": "70",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "71",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔、作平安祭．这是亚米沙代儿子亚希以谢的供物。"
+  },
+  {
+    "sectionNo": "72",
+    "sectionContent": "第十一日来献的、是亚设子孙的首领俄兰的儿子帕结。"
+  },
+  {
+    "sectionNo": "73",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗、重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭。"
+  },
+  {
+    "sectionNo": "74",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "75",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔、作燔祭。"
+  },
+  {
+    "sectionNo": "76",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "77",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔、作平安祭．这是俄兰儿子帕结的供物。"
+  },
+  {
+    "sectionNo": "78",
+    "sectionContent": "第十二日来献的、是拿弗他利子孙的首领以南儿子亚希拉。"
+  },
+  {
+    "sectionNo": "79",
+    "sectionContent": "他的供物是一个银盘子、重一百三十舍客勒、一个银碗重七十舍客勒、都是按圣所的平、也都盛满了调油的细面、作素祭．"
+  },
+  {
+    "sectionNo": "80",
+    "sectionContent": "一个金盂、重十舍客勒、盛满了香。"
+  },
+  {
+    "sectionNo": "81",
+    "sectionContent": "一只公牛犊、一只公绵羊、一只一岁的公羊羔作燔祭。"
+  },
+  {
+    "sectionNo": "82",
+    "sectionContent": "一只公山羊作赎罪祭。"
+  },
+  {
+    "sectionNo": "83",
+    "sectionContent": "两只公牛、五只公绵羊、五只公山羊、五只一岁的公羊羔、作平安祭．这是以南儿子亚希拉的供物。"
+  },
+  {
+    "sectionNo": "84",
+    "sectionContent": "用膏抹坛的日子、以色列的众首领为行献坛之礼所献的、是银盘子十二个、银碗十二个、金盂十二个。"
+  },
+  {
+    "sectionNo": "85",
+    "sectionContent": "每盘子重一百三十舍客勒、每碗重七十舍客勒、一切器皿的银子、按圣所的平、共有二千四百舍客勒。"
+  },
+  {
+    "sectionNo": "86",
+    "sectionContent": "十二个金盂盛满了香、按圣所的平、每盂重十舍客勒．所有的金子共一百二十舍客勒。"
+  },
+  {
+    "sectionNo": "87",
+    "sectionContent": "作燔祭的、共有公牛十二只、公羊十二只、一岁的公羊羔十二只、并同献的素祭作赎罪祭的公山羊十二只。"
+  },
+  {
+    "sectionNo": "88",
+    "sectionContent": "作平安祭的、共有公牛二十四只、公绵羊六十只、公山羊六十只、一岁的公羊羔六十只．这就是用膏抹坛之后、为行奉献坛之礼所献的。"
+  },
+  {
+    "sectionNo": "89",
+    "sectionContent": "摩西进会幕要与耶和华说话的时候、听见法柜的施恩座以上、二基路伯中间、有与他说话的声音、就是耶和华与他说话。"
+  }
+]

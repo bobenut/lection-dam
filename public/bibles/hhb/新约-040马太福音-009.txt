@@ -1,0 +1,154 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶稣上了船、渡过海、来到自己的城里。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "有人用褥子抬着一个瘫子、到耶稣跟前来．耶稣见他们的信心、就对瘫子说、小子、放心吧．你的罪赦了。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "有几个文士心里说、这个人说僭妄的话了。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "耶稣知道他们的心意、就说、你们为甚么心里怀着恶念呢．"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "或说、你的罪赦了．或说、你起来行走．那一样容易呢。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "但要叫你们知道人子在地上有赦罪的权柄、就对瘫子说、起来、拿你的褥子回家去吧。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "那人就起来、回家去了。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "众人看见都惊奇、就归荣耀与　神．因为他将这样的权柄赐给人。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "耶稣从那里往前走、看见一个人名叫马太、坐在税关上、就对他说、你跟从我来．他就起来、跟从了耶稣。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "耶稣在屋里坐席的时候、有好些税吏和罪人来、与耶稣和他的门徒一同坐席。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "法利赛人看见、就对耶稣的门徒说、你们的先生为甚么和税吏并罪人一同吃饭呢。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "耶稣听见、就说、康健的人用不着医生、有病的人才用得着。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "经上说、『我喜爱怜恤、不喜爱祭祀。』这句话的意思、你们且去揣摩．我来、本不是召义人、乃是召罪人。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "那时、约翰的门徒来见耶稣说、我们和法利赛人常常禁食、你的门徒倒不禁食、这是为甚么呢。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "耶稣对他们说、新郎和陪伴之人同在的时候、陪伴之人岂能哀恸呢．但日子将到、新郎要离开他们、那时候他们就要禁食。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "没有人把新布补在旧衣服上．因为所补上的、反带坏了那衣服、破的就更大了。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "也没有人把新酒装在旧皮袋里．若是这样、皮袋就裂开、酒漏出来、连皮袋也坏了．惟独把新酒装在新皮袋里、两样就都保全了。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "耶稣说这话的时候、有一个管会堂的来拜他说、我女儿刚才死了、求你去按手在他身上、他就必活了。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "耶稣便起来、跟着他去、门徒也跟了去。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "有一个女人、患了十二年的血漏、来到耶稣背后、摸他的衣裳繸子．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "因为他心里说、我只摸他的衣裳、就必痊癒。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "耶稣转过来看见他、就说、女儿、放心、你的信救了你．从那时候、女人就痊癒了。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "耶稣到了管会堂的家里、看见有吹手、又有许多人乱嚷．"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "就说、退去吧．这闺女不是死了、是睡着了．他们就嗤笑他。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "众人既被撵出、耶稣就进去、拉着闺女的手、闺女便起来了。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "于是这风声传遍了那地方。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "耶稣从那里往前走、有两个瞎子跟着他、喊叫说、大卫的子孙、可怜我们吧。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "耶稣进了房子、瞎子就来到他跟前．耶稣说、你们信我能作这事么．他们说、主阿、我们信。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "耶稣就摸他们的眼睛、说、照着你们的信给你们成全了吧。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "他们的眼睛就开了。耶稣切切的嘱咐他们说、你们要小心、不可叫人知道。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "他们出去、竟把他的名声传遍了那地方。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "他们出去的时候、有人将鬼所附的一个哑巴、带到耶稣跟前来。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "鬼被赶出去、哑巴就说出话来．众人都希奇说、在以色列中、从来没有见过这样的事。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "法利赛人却说、他是靠着鬼王赶鬼。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "耶稣走遍各城各乡、在会堂里教训人、宣讲天国的福音、又医治各样的病症。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "他看见许多的人、就怜悯他们．因为他们困苦流离、如同羊没有牧人一般。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "于是对门徒说、要收的庄稼多、作工的人少．"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "所以你们当求庄稼的主、打发工人出去、收他的庄稼。"
+  }
+]

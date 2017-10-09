@@ -1,0 +1,126 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "耶和华晓谕摩西说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "你吩咐以色列人、使一切长大痲疯的、患漏症的、并因死尸不洁净的、都出营外去。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "无论男女、都要使他们出到营外、免得污秽他们的营、这营是我所住的。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "以色列人就这样行、使他们出到营外．耶和华怎样吩咐摩西、以色列人就怎样行了。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "耶和华对摩西说、"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "你晓谕以色列人说、无论男女、若犯了人所常犯的罪、以至干犯耶和华、那人就有了罪。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他要承认所犯的罪、将所亏负人的、如数赔还．另外加上五分之一、也归与所亏负的人。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "那人若没有亲属可受所赔还的、那所赔还的就要归与服事耶和华的祭司．至于那为他赎罪的公羊是在外。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "以色列人一切的圣物中、所奉给祭司的举祭、都要归与祭司。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "各人所分别为圣的物、无论是甚么。都要归给祭司。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "耶和华对摩西说、"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "你晓谕以色列人说、人的妻若有邪行得罪他丈夫、"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "有人与他行淫、事情严密瞒过他丈夫、而且他被玷污没有作见证的人、当他行淫的时候也没有被捉住．"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "他丈夫生了疑恨的心、疑恨他、他是被玷污、或是他丈夫生了疑恨的心、疑恨他、他并没有被玷污．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "这人就要将妻送到祭司那里、又为他带着大麦面伊法十分之一作供物、不可浇上油、也不可加上乳香、因为这是疑恨的素祭、是思念的素祭、使人思念罪孽。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "祭司要使那妇人近前来、站在耶和华面前。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "祭司要把圣水盛在瓦器里、又从帐幕的地上取点尘土放在水中。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "祭司要叫那妇人蓬头散发、站在耶和华面前、把思念的素祭、就是疑恨的素祭、放在他手中．祭司手里拿着致咒诅的苦水．"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "要叫妇人起誓、对他说、若没有人与你行淫、也未曾背着丈夫作污秽的事、你就免受这致咒诅苦水的灾。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "你若背着丈夫、行了污秽的事、在你丈夫以外有人与你行淫、"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "（祭司叫妇人发咒起誓)愿耶和华叫你大腿消瘦、肚腹发胀、使你在你民中被人咒诅、成了誓语。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "并且这致咒诅的水入你的肠中、要叫你的肚腹发胀、大腿消瘦．妇人要回答说、阿们、阿们。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "祭司要写这咒诅的话、将所写的字抹在苦水里、"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "又叫妇人喝这致咒诅的苦水．这水要进入他里面变苦了。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "祭司要从妇人的手中取那疑恨的素祭、在耶和华面前摇一摇、拿到坛前。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "又要从素祭中取出一把、作为这事的记念、烧在坛上、然后叫妇人喝这水。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "叫他喝了以后、他若被玷污得罪了丈夫、这致咒诅的水必进入他里面变苦了、他的肚腹就要发胀、大腿就要消瘦、那妇人便要在他民中被人咒诅。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "若妇人没有被玷污、却是清洁的、就要免受这灾、且要怀孕。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "妻子背着丈夫行了污秽的事、"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "或是人生了疑恨的心、疑恨他的妻、就有这疑恨的条例。那时他要叫妇人站在耶和华面前、祭司要在他身上照这条例而行、"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "男人就为无罪、妇人必担当自己的罪孽。"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "约伯回答说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "我真知道是这样．但人在　神面前怎能成为义呢。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "若愿意与他争辩、千中之一也不能回答。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "他心里有智慧、且大有能力．谁向　神刚硬而得亨通呢。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "他发怒、把山翻倒挪移、山并不知觉．"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "他使地震动、离其本位、地的柱子就摇撼。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "他吩咐日头不出来、就不出来、又封闭众星。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "他独自铺张苍天、步行在海浪之上。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "他造北斗、参星、昴星、并南方的密宫。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "他行大事不可测度、行奇事不可胜数。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "他从我旁边经过、我却不看见．他在我面前行走、我倒不知觉。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "他夺取、谁能阻挡、谁敢问他、你作甚么。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "神必不收回他的怒气．扶助拉哈伯的、屈身在他以下。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "既是这样、我怎敢回答他、怎敢选择言语与他辩论呢。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "我虽有义、也不回答他．只要向那审判我的恳求。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "我若呼吁、他应允我、我仍不信他真听我的声音。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "他用暴风折断我、无故的加增我的损伤。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "我就是喘一口气、他都不容、倒使我满心苦恼。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "若论力量、他真有能力．若论审判、他说谁能将我传来呢。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "我虽有义、自己的口要定我为有罪．我虽完全、我口必显我为弯曲。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "我本完全．不顾自己．我厌恶我的性命。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "善恶无分、都是一样．所以我说、完全人、和恶人、他都灭绝。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "若忽然遭杀害之祸、他必戏笑无辜的人遇难。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "世界交在恶人手中．蒙蔽世界审判官的脸．若不是他、是谁呢。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "我的日子比跑信的更快、急速过去、不见福乐。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "我的日子过去如快船、如急落抓食的鹰。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "我若说、我要忘记我的哀情、除去我的愁容、心中畅快．"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "我因愁苦而惧怕、知道你必不以我为无辜。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "我必被你定为有罪．我何必徒然劳苦呢。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "我若用雪水洗身、用碱洁净我的手．"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "你还要扔我在坑里、我的衣服都憎恶我．"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "他本不像我是人、使我可以回答他、又使我们可以同听审判。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "我们中间没有听讼的人、可以向我们两造按手。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "愿他把杖离开我、不使惊惶威吓我．"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "我就说话、也不惧怕他．现在我却不是那样。"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "众人都起来、把耶稣解到彼拉多面前。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "就告他说、我们见这人诱惑国民、禁止纳税给该撒、并说自己是基督、是王。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "彼拉多问耶稣说、你是犹太人的王么。耶稣回答说、你说的是。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "彼拉多对祭司长和众人说、我查不出这人有甚么罪来。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "但他们越发极力的说、他煽惑百姓、在犹太遍地传道、从加利利起、直到这里了。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "彼拉多一听见、就问这人是加利利人么。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "既晓得耶稣属希律所管、就把他送到希律那里去．那时希律正在耶路撒冷。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "希律看见耶稣、就很欢喜．因为听见过他的事、久已想要见他．并且指望看他行一件神迹。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "于是问他许多的话．耶稣却一言不答。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "祭司长和文士、都站着极力的告他。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "希律和他的兵丁就藐视耶稣、戏弄他、给他穿上华丽衣服、把他送回彼拉多那里去。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "从前希律和彼拉多彼此有仇．在那一天就成了朋友。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "彼拉多传齐了祭司长、和、官府并百姓、"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "就对他们说、你们解这人到我这里、说他是诱惑百姓的．看哪、我也曾将你们告他的事、在你们面前审问他、并没有查出他甚么罪来．"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "就是希律也是如此、所以把他送回来．可见他没有作甚么该死的事。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "故此我要责打他、把他释放了。〔有古卷在此有〕"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "〔每逢这节期巡抚必须释放一个囚犯给他们〕"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "众人却一齐喊着说、除掉这个人、释放巴拉巴给我们。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "这巴拉巴是因在城里作乱杀人下在监里的。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "彼拉多愿意释放耶稣、就又劝解他们．"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "无奈他们喊着说、钉他十字架、钉他十字架。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "彼拉多第三次对他们说、为甚么呢、这人作了甚么恶事呢、我并没有查出他甚么该死的罪来．所以我要责打他、把他释放了。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "他们大声催逼彼拉多、求他把耶稣钉在十字架上。他们的声音就得了胜、"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "彼拉多这才照他们所求的定案．"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "把他们所求的那作乱杀人下在监里的、释放了．把耶稣交给他们、任凭他们的意思行。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "带耶稣去的时候、有一个古利奈人西门、从乡下来．他们就抓住他、把十字架搁在他身上、叫他背着跟随耶稣。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "有许多百姓、跟随耶稣、内中有好些妇女、妇女们为他号咷痛哭。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "耶稣转身对他们说、耶路撒冷的女子、不要为我哭、当为自己和自己的儿女哭。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "因为日子要到、人必说、不生育的、和未曾怀胎的、未曾乳养婴孩的、有福了。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "那时、人要向大山说、倒在我们身上．向小山说、遮盖我们。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "这些事既行在有汁水的树上、那枯干的树、将来怎么样呢。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "又有两个犯人、和耶稣一同带来处死。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "到了一个地方、名叫髑髅地、就在那里把耶稣钉在十字架上、又钉了两个犯人、一个在左边、一个在右边。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "当下耶稣说、父阿、赦免他们．因为他们所作的、他们不晓得。兵丁就拈阄分他的衣服。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "百姓站在那里观看。官府也嗤笑他说、他救了别人．他若是基督、　神所拣选的、可以救自己吧。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "兵丁也戏弄他、上前拿醋送给他喝、"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "说、你若是犹太人的王、可以救自己吧。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "在耶稣以上有一个牌子、〔有古卷在此有用希利尼罗马希伯来的文字〕写着、这是犹太人的王。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "那同钉的两个犯人、有一个讥诮他说、你不是基督么．可以救自己和我们吧。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "那一个就应声责备他说、你既是一样受刑的、还不怕　神么。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "我们是应该的．因我们所受的、与我们所作的相称．但这个人没有作过一件不好的事。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "就说、耶稣阿、你得国降临的时候、求你记念我。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "耶稣对他说、我实在告诉你、今日你要同我在乐园里了。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "那时约有午正、遍地都黑暗了、直到申初、"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "日头变黑了．殿里的幔子从当中裂为两半。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "耶稣大声喊着说、父阿、我将我的灵魂交在你手里．说了这话、气就断了。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "百夫长看见所成的事、就归荣耀与　神说、这真是个义人。"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "聚集观看的众人、见了这所成的事、都捶着胸回去了。"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "还有一切与耶稣熟识的人、和从加利利跟着他来的妇女们、都远远的站着、看这些事。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "有一个人名叫约瑟、是个议士、为人善良公义．"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "众人所谋所为、他并没有附从．他本是犹太亚利马太城里素常盼望　神国的人。"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "这人去见彼拉多、求耶稣的身体．"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": "就取下来用细麻布裹好、安放在石头凿成的坟墓里、那里头从来没有葬过人。"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": "那日是预备日、安息日也快到了。"
+  },
+  {
+    "sectionNo": "55",
+    "sectionContent": "那些从加利利和耶稣同来的妇女、跟在后面、看见了坟墓、和他的身体怎样安放。"
+  },
+  {
+    "sectionNo": "56",
+    "sectionContent": "他们就回去、预备了香料香膏。他们在安息日、便遵着诫命安息了。"
+  }
+]

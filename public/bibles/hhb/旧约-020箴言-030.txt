@@ -1,0 +1,134 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "雅基的儿子亚古珥的言语就是真言。这人对以铁和乌甲说、"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "我比众人更蠢笨、也没有人的聪明。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "我没有学好智慧．也不认识至圣者。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "谁升天又降下来．谁聚风在掌握中．谁包水在衣服里．谁立定地的四极．他名叫甚么．他儿子名叫甚么．你知道么。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "神的言语、句句都是炼净的、投靠他的、他便作他们的盾牌。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "他的言语、你不可加添、恐怕他责备你、你就显为说谎言的。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "我求你两件事、在我未死之先、不要不赐给我．"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "求你使虚假和谎言远离我．使我也不贫穷、也不富足赐给我需用的饮食．"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "恐怕我饱足不认你、说、耶和华是谁呢．又恐怕我贫穷就偷窃、以致亵渎我　神的名。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "你不要向主人谗谤仆人、恐怕他咒诅你、你便算为有罪。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "有一宗人、〔宗原文作代下同〕咒诅父亲、不给母亲祝福。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "有一宗人、自以为清洁、却没有洗去自己的污秽。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "有一宗人、眼目何其高傲、眼皮也是高举。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "有一宗人、牙如剑、齿如刀、要吞灭地上的困苦人、和世间的穷乏人。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "蚂蟥有两个女儿、常说、给呀给呀．有三样不知足的、连不说够的共有四样．"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "就是阴间和石胎、浸水不足的地、并火。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "戏笑父亲、藐视而不听从母亲的、他的眼睛、必为谷中的乌鸦啄出来、为鹰雏所吃。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "我所测不透的奇妙有三样、连我所不知道的共有四样．"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "就是鹰在空中飞的道、蛇在磐石上爬的道、船在海中行的道、男与女交合的道．"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "淫妇的道、也是这样、他吃了把嘴一擦、就说、我没有行恶。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "使地震动的有三样、连地担不起的共有四样．"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "就是仆人作王．愚顽人吃饱．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "丑恶的女子出嫁．婢女接续主母。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "地上有四样小物、却甚聪明．"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "蚂蚁是无力之类、却在夏天预备粮食．"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "沙番是软弱之类、却在磐石中造房。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "蝗虫没有君王、却分队而出．"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "守宫用爪抓墙、却住在王宫。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "步行威武的有三样、连行走威武的共有四样．"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "就是狮子乃百兽中最为猛烈、无所躲避的．"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "猎狗、公山羊、和无人能敌的君王。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "你若行事愚顽、自高自傲、或是怀了恶念、就当用手摀口。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "摇牛奶必成奶油．扭鼻子必出血．照样、激动怒气必起争端。"
+  }
+]

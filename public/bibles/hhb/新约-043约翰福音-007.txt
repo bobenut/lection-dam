@@ -1,0 +1,210 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "这事以后、耶稣在加利利游行、不愿在犹太游行．因为犹太人想要杀他。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "当时犹太人的住棚节近了。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "耶稣的弟兄就对他说、你离开这里上犹太去吧、叫你的门徒也看见你所行的事。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "人要显扬名声、没有在暗处行事的．你如果行这些事、就当将自己显明给世人看。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "因为连他的弟兄说这话、是因为不信他。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "耶稣就对他们说、我的时候还没有到．你们的时候常是方便的。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "世人不能恨你们、却是恨我．因为我指证他们所作的事是恶的。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "你们上去过节吧．我现在不上去过这节．因为我的时候还没有满。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "耶稣说了这话、仍旧住在加利利。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "但他弟兄上去以后、他也上去过节、不是明去、似乎是暗去的。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "正在节期、犹太人寻找耶稣说、他在那里。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "众人为他纷纷议论．有的说、他是好人．有的说、不然、他是迷惑众人的。"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "只是没有人明明的讲论他、因为怕犹太人。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "到了节期、耶稣上殿里去教训人。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "犹太人就希奇说、这个人没有学过、怎么明白书呢。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "耶稣说、我的教训不是我自己的、乃是那差我来者的。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "人若立志遵着他的旨意行、就必晓得这教训或是出于　神、或是我凭着自己说的。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "人凭着自己说、是求自己的荣耀．惟有求那差他来者的荣耀、这人是真的、在他心里没有不义。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "摩西岂不是传律法给你们么．你们却没有一个人守律法。为甚么想要杀我呢。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "众人回答说你是被鬼附着了．谁想要杀你。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "耶稣说、我作了一件事、你们都以为希奇。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "摩西传割礼给你们、（其实不是从摩西起的、乃是从祖先起的)因此你们也在安息日给人行割礼。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "人若在安息日受割礼、免得违背摩西的律法、我在安息日叫一个人全然好了、你们就向我生气么。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "不可按外貌断定是非、总要按公平断定是非。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "耶路撒冷人中有的说、这不是他们想要杀的人么。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "你看他还明明的讲道、他们也不向他说甚么、难道官长真知道这是基督么。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "然而我们知道这个人从那里来．只是基督来的时候、没有人知道他从那里来。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "那时耶稣在殿里教训人、大声说、你们也知道我、也知道我从那里来．我来并不是由于自己、但那差我来的是真的．你们不认识他。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "我却认识他．因为我是从他来的、他也是差了我来。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "他们就想要捉拿耶稣．只是没有人下手、因为他的时候还没有到。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "但众人中间有好些信他的、说、基督来的时候、他所行的神迹、岂能比这人所行的更多么。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": "法利赛人听见众人为耶稣这样纷纷议论、祭司长和法利赛人、就打发差役去捉拿他。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": "于是耶稣说、我还有不多的时候和你们同在、以后就回到差我来的那里去。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": "你们要找我、却找不着．我所在的地方你们不能到。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": "犹太人就彼此对问说、这人要往那里去、叫我们找不着呢．难道他要往散住希利尼中的犹太人那里去教训希利尼人么。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": "他说、你们要找我、却找不着、我所在的地方、你们不能到．这话是甚么意思呢。"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": "节期的末日、就是最大之日、耶稣站着高声说、人若渴了、可以到我这里来喝。"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": "信我的人、就如经上所说、从他腹中要流出活水的江河来。"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": "耶稣这话是指着信他之人、要受圣灵说的、那时还没有赐下圣灵来．因为耶稣尚未得着荣耀。"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": "众人听见这话、有的说、这真是那先知。"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": "有的说、这是基督．但也有的说、基督岂是从加利利出来的么。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": "经上岂不是说、基督是大卫的后裔、从大卫本乡伯利恒出来的么。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": "于是众人因着耶稣起了分争。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": "其中有人要捉拿他．只是无人下手。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": "差役回到祭司长和法利赛人那里．他们对差役说、你们为甚么没有带他来呢。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": "差役回答说、从来没有像他这样说话的。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": "法利赛人说、你们也受了迷惑么。"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": "官长或是法利赛人、岂有信他的呢。"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": "但这些不明白律法的百姓、是被咒诅的。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": "内中有尼哥底母、就是从前去见耶稣的、对他们说、"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": "不先听本人的口供、不知道他所作的事、难道我们的律法还定他的罪么。"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": "他们回答说、你也是出于加利利么．你且去查考、就可知道加利利没有出过先知。"
+  }
+]

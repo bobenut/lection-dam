@@ -1,0 +1,222 @@
+[
+  {
+    "sectionNo": "01",
+    "sectionContent": " 以色列的儿子是流便、西缅、利未、犹大、以萨迦、西布伦、"
+  },
+  {
+    "sectionNo": "02",
+    "sectionContent": " 但、约瑟、便雅悯、拿弗他利、迦得、亚设。"
+  },
+  {
+    "sectionNo": "03",
+    "sectionContent": " 犹大的儿子是珥、俄南、示拉、这三人是迦南人书亚女儿所生的。犹大的长子珥在耶和华眼中看为恶、耶和华就使他死了。"
+  },
+  {
+    "sectionNo": "04",
+    "sectionContent": " 犹大的儿妇他玛、给犹大生法勒斯、和谢拉．犹大共有五个儿子。"
+  },
+  {
+    "sectionNo": "05",
+    "sectionContent": " 法勒斯的儿子是希斯仑、哈母勒。"
+  },
+  {
+    "sectionNo": "06",
+    "sectionContent": " 谢拉的儿子是心利、以探、希幔、甲各、大拉〔大拉即达大〕共五人。"
+  },
+  {
+    "sectionNo": "07",
+    "sectionContent": " 迦米的儿子是亚干、这亚干在当灭的物上犯了罪、连累了以色列人。"
+  },
+  {
+    "sectionNo": "08",
+    "sectionContent": " 以探的儿子是亚撒利雅。"
+  },
+  {
+    "sectionNo": "09",
+    "sectionContent": " 希斯仑所生的儿子是耶拉篾、兰、基路拜。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": " 兰生亚米拿达、亚米拿达生拿顺、拿顺作犹大人的首领。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": " 拿顺生撒门、撒门生波阿斯、"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": " 波阿斯生俄备得、俄备得生耶西、"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": " 耶西生长子以利押、次子亚比拿达、三子示米亚、〔示米亚即沙玛见撒母耳上十六章九节〕"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": " 四子拿坦业、五子拉代、"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": " 六子阿鲜、七子大卫。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": " 他们的姐妹是洗鲁雅、和亚比该。洗鲁雅的儿子是亚比筛、约押、亚撒黑、共三人。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": " 亚比该生亚玛撒、亚玛撒的父亲是以实玛利人益帖。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": " 希斯仑的儿子迦勒娶阿苏巴、和耶略为妻、阿苏巴的儿子是耶设、朔罢、押墩。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": " 阿苏巴死了、迦勒又娶以法他、生了户珥。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": " 户珥生乌利、乌利生比撒列。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": " 希斯仑正六十岁娶了基列父亲玛吉的女儿、与他同房、玛吉的女儿生了西割、"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": " 西割生睚珥．睚珥在基列地有二十三个城邑。"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": " 后来基述人和亚兰人、夺了睚珥的城邑、并基纳和其乡村、共六十个．这都是基列父亲玛吉之子的。"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": " 希斯仑在迦勒以法他死后、他的妻亚比雅给他生了亚施户、亚施户是提哥亚的父亲。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": " 希斯仑的长子耶拉篾生长子兰、又生布拿、阿连、阿鲜、亚希雅。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": " 耶拉篾又娶一妻名叫亚他拉、是阿南的母亲。"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": " 耶拉篾长子兰的儿子是玛斯、雅悯、以结。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": " 阿南的儿子是沙买、雅大。沙买的儿子是拿答、亚比述。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": " 亚比述的妻名叫亚比孩、亚比孩给他生了亚办、和摩利。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": " 拿答的儿子是西列、亚遍．西列死了没有儿子。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": " 亚遍的儿子是以示、以示的儿子是示珊、示珊的儿子是亚来。"
+  },
+  {
+    "sectionNo": "32",
+    "sectionContent": " 沙买兄弟雅大的儿子是益帖、约拿单．益帖死了没有儿子。"
+  },
+  {
+    "sectionNo": "33",
+    "sectionContent": " 约拿单的儿子是比勒、撒萨．这都是耶拉篾的子孙。"
+  },
+  {
+    "sectionNo": "34",
+    "sectionContent": " 示珊没有儿子、只有女儿。示珊有一个仆人名叫耶哈、是埃及人。"
+  },
+  {
+    "sectionNo": "35",
+    "sectionContent": " 示珊将女儿给了仆人耶哈为妻、给他生了亚太。"
+  },
+  {
+    "sectionNo": "36",
+    "sectionContent": " 亚太生拿单、拿单、生撒拔、"
+  },
+  {
+    "sectionNo": "37",
+    "sectionContent": " 撒拔生以弗拉、以弗拉生俄备得、"
+  },
+  {
+    "sectionNo": "38",
+    "sectionContent": " 俄备得生耶户、耶户生亚撒利雅、"
+  },
+  {
+    "sectionNo": "39",
+    "sectionContent": " 亚撒利雅生希利斯、希利斯生以利亚萨、"
+  },
+  {
+    "sectionNo": "40",
+    "sectionContent": " 以利亚萨生西斯买、西斯买生沙龙、"
+  },
+  {
+    "sectionNo": "41",
+    "sectionContent": " 沙龙生耶加米雅、耶加米雅生以利沙玛。"
+  },
+  {
+    "sectionNo": "42",
+    "sectionContent": " 耶拉篾兄弟迦勒的长子米沙、是西弗之祖玛利沙的儿子、是希伯仑之祖。"
+  },
+  {
+    "sectionNo": "43",
+    "sectionContent": " 希伯仑的儿子是可拉、他普亚、利肯、示玛。"
+  },
+  {
+    "sectionNo": "44",
+    "sectionContent": " 示玛生拉含、是约干之祖．利肯生沙买。"
+  },
+  {
+    "sectionNo": "45",
+    "sectionContent": " 沙买的儿子是玛云、玛云是伯夙之祖。"
+  },
+  {
+    "sectionNo": "46",
+    "sectionContent": " 迦勒的妾以法生哈兰、摩撒、迦谢．哈兰生迦卸。"
+  },
+  {
+    "sectionNo": "47",
+    "sectionContent": " 雅代的儿子是利健、约坦、基珊、毗力、以法、沙亚弗。"
+  },
+  {
+    "sectionNo": "48",
+    "sectionContent": " 迦勒的妾玛迦生示别、特哈拿．"
+  },
+  {
+    "sectionNo": "49",
+    "sectionContent": " 又生麦玛拿之祖沙亚弗、抹比拿和基比亚之祖示法．迦勒的女儿是押撒。"
+  },
+  {
+    "sectionNo": "50",
+    "sectionContent": " 迦勒的子孙就是以法他的长子户珥的儿子、记在下面．基列耶琳之祖朔巴、"
+  },
+  {
+    "sectionNo": "51",
+    "sectionContent": " 伯利恒之祖萨玛、伯迦得之祖哈勒。"
+  },
+  {
+    "sectionNo": "52",
+    "sectionContent": " 基列耶琳之祖朔巴的子孙是哈罗以、和一半米努哈人。〔米努哈人即玛拿哈人〕"
+  },
+  {
+    "sectionNo": "53",
+    "sectionContent": " 基列耶琳的诸族是以帖人、布特人、舒玛人、密来人．又从这些族中生出琐拉人、和以实陶人来。"
+  },
+  {
+    "sectionNo": "54",
+    "sectionContent": " 萨玛的子孙是伯利恒人、尼陀法人、亚他绿伯约押人、一半玛拿哈人、琐利人、"
+  },
+  {
+    "sectionNo": "55",
+    "sectionContent": " 和住雅比斯众文士家的特拉人、示米押人、苏甲人．这都是基尼人利甲家之祖哈末所生的。"
+  }
+]

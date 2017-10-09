@@ -1,0 +1,58 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "〔可拉后裔的诗歌。〕耶和华本为大、在我们　神的城中、在他的圣山上、该受大赞美。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "锡安山、大君王的城、在北面居高华美、为全地所喜悦。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "神在其宫中自显为避难所。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "看哪、众王会合、一同经过。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "他们见了这城、就惊奇丧胆、急忙逃跑。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "他们在那里被战兢疼痛抓住、好像产难的妇人一样。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "神阿、你用东风打破他施的船只。"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "我们在万军之耶和华的城中、就是我们　神的城中、所看见的、正如我们所听见的．　神必坚立这城、直到永远。〔细拉〕"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "神阿、我们在你的殿中、想念你的慈爱。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "神阿、你受的赞美、正与你的名相称、直到地极．你的右手满了公义。"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "因你的判断、锡安山应当欢喜犹大的城邑、应当快乐。〔城邑原文作女子〕"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "你们当周游锡安、四围旋绕、数点城楼、"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "细看他的外郭、察看他的宫殿、为要传说到后代。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "因为这　神永永远远为我们的　神．他必作我们引路的、直到死时。"
+  }
+]

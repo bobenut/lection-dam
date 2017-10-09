@@ -1,0 +1,126 @@
+[
+  {
+    "sectionNo": "1",
+    "sectionContent": "人若偷牛、或羊、无论是宰了、是卖了、他就要以五牛赔一牛、四羊赔一羊。"
+  },
+  {
+    "sectionNo": "2",
+    "sectionContent": "人若遇见贼挖窟窿、把贼打了、以致于死、就不能为他有流血的罪。"
+  },
+  {
+    "sectionNo": "3",
+    "sectionContent": "若太阳已经出来、就为他有流血的罪．贼若被拿、总要赔还、若他一无所有、就要被卖、顶他所偷的物。"
+  },
+  {
+    "sectionNo": "4",
+    "sectionContent": "若他所偷的、或牛、或驴、或羊、仍在他手下存活、他就要加倍赔还。"
+  },
+  {
+    "sectionNo": "5",
+    "sectionContent": "人若在田间、或在葡萄园里放牲畜、任凭牲畜上别人的田里去吃、就必拿自己田间上好的、和葡萄园上好的赔还。"
+  },
+  {
+    "sectionNo": "6",
+    "sectionContent": "若点火焚烧荆棘、以致将别人堆积的禾捆、站着的禾稼、或是田园、都烧尽了、那点火的必要赔还。"
+  },
+  {
+    "sectionNo": "7",
+    "sectionContent": "人若将银钱、或家具、交付邻舍看守、这物从那人的家被偷去、若把贼找到了、贼要加倍赔还．"
+  },
+  {
+    "sectionNo": "8",
+    "sectionContent": "若找不到贼、那家主必就近审判官、要看看他拿了原主的物件没有。"
+  },
+  {
+    "sectionNo": "9",
+    "sectionContent": "两个人的案件、无论是为甚么过犯、或是为牛、为驴、为羊、为衣裳、或是为甚么失掉之物、有一人说、这是我的、两造就要将案件禀告审判官、审判官定谁有罪、谁就要加倍赔还。"
+  },
+  {
+    "sectionNo": "10",
+    "sectionContent": "人若将驴、或牛、或羊、或别的牲畜、交付邻舍看守、牲畜或死、或受伤、或被赶去、无人看见、"
+  },
+  {
+    "sectionNo": "11",
+    "sectionContent": "那看守的人、要凭着耶和华起誓、手里未曾拿邻舍的物、本主就要罢休、看守的人不必赔还。"
+  },
+  {
+    "sectionNo": "12",
+    "sectionContent": "牲畜若从看守的那里被偷去、他就要赔还本主．"
+  },
+  {
+    "sectionNo": "13",
+    "sectionContent": "若被野兽撕碎、看守的要带来当作证据、所撕的不必赔还。"
+  },
+  {
+    "sectionNo": "14",
+    "sectionContent": "人若向邻舍借甚么、所借的或受伤、或死、本主没有同在一处、借的人总要赔还。"
+  },
+  {
+    "sectionNo": "15",
+    "sectionContent": "若本主同在一处、他就不必赔还．若是雇的、也不必赔还、本是为雇价来的。"
+  },
+  {
+    "sectionNo": "16",
+    "sectionContent": "人若引诱没有受聘的处女、与他行淫、他总要交出聘礼娶他为妻。"
+  },
+  {
+    "sectionNo": "17",
+    "sectionContent": "若女子的父亲决不肯将女子给他、他就要按处女的聘礼、交出钱来。"
+  },
+  {
+    "sectionNo": "18",
+    "sectionContent": "行邪术的女人、不可容他存活。"
+  },
+  {
+    "sectionNo": "19",
+    "sectionContent": "凡与兽淫合的、总要把他治死。"
+  },
+  {
+    "sectionNo": "20",
+    "sectionContent": "祭祀别神、不单单祭祀耶和华的、那人必要灭绝。"
+  },
+  {
+    "sectionNo": "21",
+    "sectionContent": "不可亏负寄居的、也不可欺压他、因为你们在埃及地也作过寄居的。"
+  },
+  {
+    "sectionNo": "22",
+    "sectionContent": "不可苦待寡妇和孤儿．"
+  },
+  {
+    "sectionNo": "23",
+    "sectionContent": "若是苦待他们一点、他们向我一哀求、我总要听他们的哀声．"
+  },
+  {
+    "sectionNo": "24",
+    "sectionContent": "并要发烈怒、用刀杀你们、使你们的妻子为寡妇、儿女为孤儿。"
+  },
+  {
+    "sectionNo": "25",
+    "sectionContent": "我民中有贫穷人与你同住、你若借钱给他、不可如放债的向他取利。"
+  },
+  {
+    "sectionNo": "26",
+    "sectionContent": "你即或拿邻舍的衣服作当头、必在日落以先归还他．"
+  },
+  {
+    "sectionNo": "27",
+    "sectionContent": "因他只有这一件当盖头、是他盖身的衣服、若是没有、他拿甚么睡觉呢．他哀求我、我就应允、因为我是有恩惠的。"
+  },
+  {
+    "sectionNo": "28",
+    "sectionContent": "不可毁谤　神、也不可毁谤你百姓的官长。"
+  },
+  {
+    "sectionNo": "29",
+    "sectionContent": "你要从你庄稼中的谷、和酒醡中滴出来的酒、拿来献上、不可迟延。你要将头生的儿子归给我。"
+  },
+  {
+    "sectionNo": "30",
+    "sectionContent": "你牛羊头生的、也要这样．七天当跟着母、第八天要归给我。"
+  },
+  {
+    "sectionNo": "31",
+    "sectionContent": "你要在我面前为圣洁的人、因此田间被野兽撕裂牲畜的肉、你们不可吃、要丢给狗吃。"
+  }
+]
