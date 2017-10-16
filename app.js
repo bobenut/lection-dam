@@ -6,13 +6,13 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 
-// global.db = mongoose.createConnection('mongodb://localhost/bibles');
-// db.on("error", function (err) {
-//   console.log("connect db failed:", err);
-// });
-// db.on("open",function(){
-//   console.log("connected db");
-// });
+global.db = mongoose.createConnection('mongodb://localhost/bibles');
+db.on("error", function (err) {
+  console.log("connect db failed:", err);
+});
+db.on("open",function(){
+  console.log("connected db");
+});
 
 var godComHhbCtrlr = require('./controllers/godComHhbCtrlr');
 

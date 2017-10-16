@@ -4,6 +4,7 @@ var fs = require('fs');
 var iconv = require('iconv-lite');
 const cheerio = require('cheerio');
 var conf = require("../conf/godComHhbConf.js");
+var hhbMdl = require("../models/hhbMdl.js");
 
 var me = {};
 module.exports = me;
@@ -17,7 +18,7 @@ var cacthingCursor = {
 me.beginCatch = () => {
   catchPage()
     .then(takeoutOneChapter)
-    .then(saveOneChapterIntoDisk)
+    .then(saveOneChapterIntoMongodb)
     .then(cursorGoNext)
     .then(isCatchEnd)
     .then(() => {
@@ -168,7 +169,36 @@ function saveOneChapterIntoDisk(oneChapter) {
 
 function saveOneChapterIntoMongodb(oneChapter) {
   return new Promise(function (resolve, reject) {
-    console.log(oneChapter);
-    resolve(oneChapter);
+
+    var saveSectionPromises = [];
+    for (var i = 0, section; section=oneChapter.sections[i++];) {
+      saveSectionPromises.push(new Promise((resolve, reject) => {
+        hhbMdl.save({
+          testamentNo: oneChapter.testamentNo,
+          testamentNameEn: oneChapter.testamentName,
+          testamentNameCn: oneChapter.testamentDescription,
+          pieceNo: oneChapter.pieceNo,
+          pieceNameEn: oneChapter.pieceNameEn,
+          pieceNameCn: oneChapter.pieceNameCn,
+          chapterNo: oneChapter.pieceChapterNum,
+          sectionNo: section.sectionNo,
+          sectionContent: section.sectionContent
+        }).then(function (data) {
+          resolve({result: 'done', data: data});
+        }).catch(function (err) {
+          reject({result: 'failed', err: err});
+        });
+      }));
+    }
+
+    Promise.all(saveSectionPromises)
+      .then((data) => {
+        console.log('save chapter ok: %S', oneChapter);
+        resolve(oneChapter);
+      })
+      .catch((err) => {
+        console.log('save chapter error: %S', err);
+        reject(err);
+      }) 
   });
 }
