@@ -48,4 +48,4 @@ hhbSectionSchema.static('findSections', function (filter, fields, sort) {
   });
 });
 
-module.exports = db.model('hhbSection', hhbSectionSchema, "hhbSections");
+module.exports = db.model('hhbSection', hhbSectionSchema, "hhbSection");

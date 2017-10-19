@@ -6,7 +6,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 
-global.db = mongoose.createConnection('mongodb://localhost/bibles');
+global.db = mongoose.createConnection('mongodb://@localhost:14910/bibles');
 db.on("error", function (err) {
   console.log("connect db failed:", err);
 });
