@@ -6,15 +6,20 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 
-global.db = mongoose.createConnection('mongodb://@localhost:14910/bibles');
-db.on("error", function (err) {
+var mongoOptions = {user:'bobenut',pass:'bobenutAbc123456789!'}
+mongoose.connect('mongodb://localhost:14910/bibles',mongoOptions);
+global.db = mongoose.connection;
+global.db.on("error", function (err) {
   console.log("connect db failed:", err);
 });
-db.on("open",function(){
+global.db.on("openUri",function(){
   console.log("connected db");
+  createTest1DataCtrl.beginCatch();
 });
 
 var godComHhbCtrlr = require('./controllers/godComHhbCtrlr');
+var createTest1DataCtrl = require('./controllers/createTest1DataCtrl');
 
 godComHhbCtrlr.beginCatch();
+//createTest1DataCtrl.beginCatch();
 
