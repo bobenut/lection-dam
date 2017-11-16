@@ -1,4 +1,0 @@
-dbpath=./data
-logpath=./data/mongodb.log
-port=14910
-auth=true
