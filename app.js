@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 
 var mongoOptions = {user:'bobenut',pass:'bobenutAbc123456789!'}
-mongoose.connect('mongodb://localhost:14910/bibles',mongoOptions);
+mongoose.connect('mongodb://bobenut:bobenutAbc123456789!@172.16.16.165:14910/bibles',mongoOptions);
 global.db = mongoose.connection;
 global.db.on("error", function (err) {
   console.log("connect db failed:", err);
@@ -19,7 +19,9 @@ global.db.on("openUri",function(){
 
 var godComHhbCtrlr = require('./controllers/godComHhbCtrlr');
 var createTest1DataCtrl = require('./controllers/createTest1DataCtrl');
+var godComHhbCatalogCtrlr = require('./controllers/godComHhbCatalogCtrlr');
 
-godComHhbCtrlr.beginCatch();
+// godComHhbCtrlr.beginCatch();
 //createTest1DataCtrl.beginCatch();
+godComHhbCatalogCtrlr.create();
 
